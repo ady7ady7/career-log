@@ -1,4 +1,5 @@
-#attempt 2 - the goal is to scrape the list of premieres
+#attempt 2 - the goal is to scrape the list of premieres 8.10.2025
+#attempt 3 - managed to finish the last part!!! 9.10.2025
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
