@@ -15,16 +15,16 @@ driver.get(url)
 
 
 try:
-    time.sleep(3)
+    time.sleep(1)
     clickable = driver.find_element(By.XPATH, '//*[@id="didomi-notice-agree-button"]')
     time.sleep(1)
     clickable.click()
     print ('Filmweb cookie button skipped')
     
-    time.sleep(10)
-    ad = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME,'preventScroll')))
-    print('ad present & located, waiting 3 sec')
-    time.sleep(3)
+    time.sleep(5)
+    ad = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME,'preventScroll')))
+    print('ad present & located, waiting 1 sec')
+    time.sleep(1)
     adskip_button = driver.find_element(By.CSS_SELECTOR, 'body > div.faInterstitialDesktop > div > div.faInterstitialDesktop__header > div > button')
     adskip_button.click()
     print ('Filmweb ad screen skipped')
@@ -41,12 +41,16 @@ try:
     #The only issue I have now is to correctly identify and use the selector - whether CSS, CLASS, XPATH, or whatever - the last approach did not work
     
     for i in films:
-        film_title=i.find_element(By.CSS_SELECTOR, 'div.page__container.rankingTypeSection__container > div:nth-child > div.rankingType__card > div.rankingType__header > div > h2 > a')
-        film_score=i.find_element(By.CSS_SELECTOR, 'div.page__container.rankingTypeSection__container > div:nth-child > div.rankingType__card > div.rankingType__rateWrapper > a > div > span.rankingType__rate--value')
+        film_title=i.find_element(By.CLASS_NAME, 'rankingType__title').text
+        film_score=i.find_element(By.CLASS_NAME, 'rankingType__rate--value').text
 
-        print(f'Title = {film_title}')
-        print(f'Ocena = {film_score}')
+        print(f'Pozycja {film_title}, Ocena: {film_score} ')
+        
+        
+        ###9.10 - Success! It wasn't that difficult! Now it's time to try and practive scraping different pages and content
         
         
 except Exception as e:
     print(f"Error: {str(e)}")
+    
+    
