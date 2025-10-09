@@ -1,8 +1,8 @@
-This will be a log of my current coding activities, which will revolve around manual coding (with no AI assistance) in order to foster deep understanding and problem-solving skills.
+This will be a log of my current learning and coding activities, which will revolve around manual coding (with no AI assistance) in order to foster deep understanding and problem-solving skills.
 
-The current main goal is to master SQL, and later I plan to focus on Python.
-However, to master SQL I also need to work on simple ETL pipelines that will feed my database with data.
-As for the database, I will be using my PostgreSQL from DigitalOcean, mainly used as a storage for the market data I'm regularly collecting.
+The current main goal is to grasp data analyst's skillset, and the main areas of focus are SQL and Power BI, and later I might focus more on Python (it would be nice to practice it regularly, since I already have experience).
+I might also work on simple ETL pipelines in Python that will feed my database with data.
+As for the database, I might simply use local storage, and for testing connection purposes I might be using my PostgreSQL from DigitalOcean, mainly used as a storage for the market data I'm regularly collecting.
 
 The goal here is not to create big data applications, but rather learn, test, and develop working solutions in a small scale.
 I might be using AI after working on a given project to evaluate the code.
@@ -33,4 +33,7 @@ Postgresql docs - https://www.postgresql.org/docs/current/queries-table-expressi
 9.10.2025
 - Set of questions and an exercise from my SQL course - learned HAVING, although it was not necessary, the game changers were using OR and proper syntax with parentheses over all instances of defining all values of one argument in WHERE clause e.g. u.gender = 'Female' AND (age > 20 OR age > 60). The difficulty here was that the age was in two separate ranges that could not be defined with BETWEEN clause. The exercise was not too difficult, went pretty quick (30 minutes)
 - Followed up with Datalemur -> today it was this one - https://datalemur.com/questions/sql-page-with-no-likes. I managed to solve it on my own using NOT IN clause to find all page_id's that weren't present in the second table page_likes. Had to use simple subquery for that task, and it wasn't that difficult (30 minutes)
+<<<<<<< HEAD
 - Finished another lesson in the Power BI course - this one's focused on hierarchies, sorting & filtering, and also very useful feature of Power BI - cross-highlighting and cross-filtering, a default cross-highlighting settings make all visuals highlight a particular fragment of data if clicked; this setting can also be changed to cross-filtering with a few clicks, which seems to be very useful (1 hr)
+=======
+>>>>>>> b85cc6d21c09a8af4b9cf473225e5958ad675609
