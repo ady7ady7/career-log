@@ -2,7 +2,7 @@ This will be a log of my current learning and coding activities, which will revo
 
 The current main goal is to grasp data analyst's skillset, and the main areas of focus are SQL and Power BI, and later I might focus more on Python (it would be nice to practice it regularly, since I already have experience).
 I might also work on simple ETL pipelines in Python that will feed my database with data.
-As for the database, I might simply use local storage, and for testing conneciton purposes I might be using my PostgreSQL from DigitalOcean, mainly used as a storage for the market data I'm regularly collecting.
+As for the database, I might simply use local storage, and for testing connection purposes I might be using my PostgreSQL from DigitalOcean, mainly used as a storage for the market data I'm regularly collecting.
 
 The goal here is not to create big data applications, but rather learn, test, and develop working solutions in a small scale.
 I might be using AI after working on a given project to evaluate the code.
