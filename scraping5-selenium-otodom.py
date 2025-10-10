@@ -13,7 +13,6 @@ url = 'https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/mazowieckie/warszawa/
 driver=webdriver.Chrome(options=options)
 driver.get(url)
 
-
 try:
     cookie_button = driver.find_element(By.XPATH, '//*[@id="onetrust-accept-btn-handler"]')
     cookie_button.click()
@@ -24,14 +23,40 @@ except Exception as e:
     
     
 try:
-    # mieszkania = driver.find_elements(By.CLASS_NAME, 'e19ka3dj0')
-    mieszkania = driver.find_elements(By.CLASS_NAME, 'e1isetfr1')
-    original_window = driver.current_window_handle
     lista = []
-    for mieszkanie in mieszkania:
-        link = mieszkanie.find_element(By.CLASS_NAME, 'css-ito1if')
-        link.click()
+    current_height = driver.execute_script("return document.body.scrollHeight")
+    
+    while True:
+        driver.execute_script('window.scrollTo(0, document.body.scrollHeight)')
         time.sleep(2)
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if current_height == new_height:
+            break
+        last_height = new_height
+        
+    
+    mieszkania = driver.find_elements(By.CLASS_NAME, 'css-ito1if')
+    for mieszkanie in mieszkania:
+        link = mieszkanie.find_element(By.TAG_NAME, 'a')
+        href = link.get_attribute('href')
+        lista.append(href)
+
+    
+    linki = pd.Series(lista).drop_duplicates()
+    print(f'Obecna lista mieszkań: {len(linki)} linków')
+    print(linki)
+
+except Exception as e:
+    print(f'Error: {(e)}')
+
+
+try:
+    original_window = driver.current_window_handle
+    opisy = []
+    for i in linki:
+        driver.execute_script(f"window.open('{i}')")
+        driver.switch_to.window(driver.window_handles[1])
+        time.sleep(5)
         driver.execute_script("window.scrollTo(0, 1100)")
         time.sleep(1)
         container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
@@ -40,14 +65,13 @@ try:
         time.sleep(1)
         showmore_btn.click()
         opis = driver.find_element(By.CLASS_NAME, 'e1op7yyl1').text
+        opisy.append(opis)
         print(opis)
         time.sleep(1)
         driver.close()
+        driver.switch_to.window(original_window)
 except Exception as e:
     print(f'Error: {(e)}')
     
-    
-    #tasks
-    # 1. zrobić manipulację oknami tak, żeby fajnie przeskakiwać całą stronę - - - 
-    # 2. dodać paginację + handling limitów
-    # 3. dodać wyszukiwanie garażu w opisie, a przy tym eliminację garażu z informacje dodatkowe
+    print("Finished the procedure, printing opisy")
+    print(opisy)
