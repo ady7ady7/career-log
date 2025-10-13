@@ -75,3 +75,7 @@ except Exception as e:
     
     print("Finished the procedure, printing opisy")
     print(opisy)
+    filtrowane_opisy = opisy(filter(lambda k: 'garaż' in k, opisy))
+    print(f"Filtrowane opisy: {filtrowane_opisy}")
+    
+    
