@@ -27,7 +27,7 @@ try:
     current_height = driver.execute_script("return document.body.scrollHeight")
     
     while True:
-        driver.execute_script('window.scrollTo(0, document.body.scrollHeight)')
+        driver.execute_script('window.scrollTo(1000, document.body.scrollHeight)')
         time.sleep(2)
         new_height = driver.execute_script("return document.body.scrollHeight")
         if current_height == new_height:
@@ -56,12 +56,25 @@ try:
     for i in linki:
         driver.execute_script(f"window.open('{i}')")
         driver.switch_to.window(driver.window_handles[1])
-        time.sleep(5)
-        driver.execute_script("window.scrollTo(0, 1100)")
-        time.sleep(1)
+        time.sleep(3)
         container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
-        showmore_btn = container.find_element(By.CLASS_NAME, 'css-8q56v9')
-        print('Button located, clicking in 1 sec')
+        
+        #Scrollowanie po kawałku, az trafimy na przycisk
+        button_enabled = False
+        while not button_enabled:
+            driver.execute_script("window.scrollTo(0, 300)")
+            try:
+                showmore_btn = container.find_element(By.CLASS_NAME, 'css-8q56v9')
+                if showmore_btn.is_enabled():
+                    button_enabled = True
+                    print("The button is now enabled!")
+            except:
+                pass
+            
+        # time.sleep(1)
+        # container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
+        # showmore_btn = container.find_element(By.CLASS_NAME, 'css-8q56v9')
+        # print('Button located, clicking in 1 sec')
         time.sleep(1)
         showmore_btn.click()
         opis = driver.find_element(By.CLASS_NAME, 'e1op7yyl1').text
@@ -75,7 +88,5 @@ except Exception as e:
     
     print("Finished the procedure, printing opisy")
     print(opisy)
-    filtrowane_opisy = opisy(filter(lambda k: 'garaż' in k, opisy))
-    print(f"Filtrowane opisy: {filtrowane_opisy}")
     
     
