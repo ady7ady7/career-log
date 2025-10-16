@@ -62,9 +62,38 @@ try:
         
         driver.execute_script(f"window.open('{i}')")
         driver.switch_to.window(driver.window_handles[1])
-        time.sleep(2)
-        container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
+        time.sleep(3)
+    
+        #Filtrowanie tego konkretnego okienka wydaje się być trudne, bo XPATH i CSS będą zmienne, a poszczególne entriesy mają identyczną klasę
+        #XPATH: //*[@id="__next"]/div[1]/main/div[5]/div[1]/div[2]/div[1]/div[21]/div[2]
+        #XPATH2: //*[@id="__next"]/div[1]/main/div[4]/div[1]/div[2]/div[1]/div[21]/div[2]
+        #CSS-SEL2: #__next > div.css-2wgx6l.efze3g60 > main > div.css-tn073k.edmrbam0 > div.css-1w41ge1.edmrbam1 > div.css-1wo7cpa.e1mm5aqc0 > div:nth-child(2) > div:nth-child(21) > div:nth-child(2)
+        #Trzeba przefiltrować wszystkie te elementy i poszukać słowa, które mnie interesuje - to !chyba! najprostsze rozwiązanie na ten moment
         
+        sekcja_z_info_dod = driver.find_element(By.CLASS_NAME, 'e1mm5aqc0')
+        driver.execute_script("""arguments[0].scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'center',
+                    inline: 'center'});
+                    """, sekcja_z_info_dod)
+        #info_dodatkowe = driver.find_elements(By.CLASS_NAME, 'e1mm5aqc1')\
+        time.sleep(2)
+        info_dodatkowe = driver.find_elements(By.CLASS_NAME, 'e1mm5aqc4')
+        has_garaz = any('garaż' in (e.get_attribute('textContent') or '').lower()
+                for e in info_dodatkowe)
+        time.sleep(1)
+        if has_garaz:
+            print("Jest garaż w górnej sekcji, do widzenia!")
+            driver.close()
+            driver.switch_to.window(original_window)
+            continue
+        else:
+            print("Nie ma garażu, szukamy dalej...")
+        
+        #FILTROWNAIE JEST OBECNIE NIESKUTECZNE TZN. Przepuszcza linki z garażem w sekcji Informacje dodatkowe - chyba trzeba znowu zrobić scrollIntoView, bo może to właśnie znów jest problem
+            
+        time.sleep(1)    
+        container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
         button_enabled = False
         
         while not button_enabled:
@@ -75,7 +104,7 @@ try:
                     block: 'center',
                     inline: 'center'});
                     """, showmore_btn)
-                print('Scrolling to the button')
+                print("Scrolling to our button")
                 wait = WebDriverWait(driver, 2)
                 clickable_btn = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'css-8q56v9')))
                 time.sleep(0.5)
@@ -98,7 +127,7 @@ except Exception as e:
    
 if len(opisy) < len(linki):
     while len(opisy) < len(linki):
-        opisy.append("ERROR: Not scraped")
+        opisy.append("Nie ma opisu :(")
     
 df = pd.DataFrame({
     'link': linki,
