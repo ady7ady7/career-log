@@ -57,60 +57,49 @@ except Exception as e:
 try:
     original_window = driver.current_window_handle
     opisy = []
+    filtered_linki = []
     
     for i in linki:
         
         driver.execute_script(f"window.open('{i}')")
         driver.switch_to.window(driver.window_handles[1])
-        time.sleep(3)
-    
-        #Filtrowanie tego konkretnego okienka wydaje się być trudne, bo XPATH i CSS będą zmienne, a poszczególne entriesy mają identyczną klasę
-        #XPATH: //*[@id="__next"]/div[1]/main/div[5]/div[1]/div[2]/div[1]/div[21]/div[2]
-        #XPATH2: //*[@id="__next"]/div[1]/main/div[4]/div[1]/div[2]/div[1]/div[21]/div[2]
-        #CSS-SEL2: #__next > div.css-2wgx6l.efze3g60 > main > div.css-tn073k.edmrbam0 > div.css-1w41ge1.edmrbam1 > div.css-1wo7cpa.e1mm5aqc0 > div:nth-child(2) > div:nth-child(21) > div:nth-child(2)
-        #Trzeba przefiltrować wszystkie te elementy i poszukać słowa, które mnie interesuje - to !chyba! najprostsze rozwiązanie na ten moment
-        
-        sekcja_z_info_dod = driver.find_element(By.CLASS_NAME, 'e1mm5aqc0')
-        driver.execute_script("""arguments[0].scrollIntoView({
-                    behavior: 'smooth',
-                    block: 'center',
-                    inline: 'center'});
-                    """, sekcja_z_info_dod)
-        #info_dodatkowe = driver.find_elements(By.CLASS_NAME, 'e1mm5aqc1')\
-        time.sleep(2)
-        info_dodatkowe = driver.find_elements(By.CLASS_NAME, 'e1mm5aqc4')
-        has_garaz = any('garaż' in (e.get_attribute('textContent') or '').lower()
+        time.sleep(1)
+
+        #FILTROWANIE 1 - SPRAWDZAMY SEKCJĘ INFORMACJE DODATKOWE - NIE CHCĘ, ABY BYŁ TU GARAŻ
+        info_dodatkowe = driver.find_elements(By.CLASS_NAME, 'e1mm5aqc1')
+        has_garaz = any('garaż' in (e.get_attribute('textContent') or '').lower() #thanks to Claude for this one!
                 for e in info_dodatkowe)
         time.sleep(1)
         if has_garaz:
             print("Jest garaż w górnej sekcji, do widzenia!")
             driver.close()
             driver.switch_to.window(original_window)
-            continue
+            continue #kolejny link
         else:
             print("Nie ma garażu, szukamy dalej...")
         
-        #FILTROWNAIE JEST OBECNIE NIESKUTECZNE TZN. Przepuszcza linki z garażem w sekcji Informacje dodatkowe - chyba trzeba znowu zrobić scrollIntoView, bo może to właśnie znów jest problem
-            
+        
+        #SCRAPUJEMY OPIS Z OGŁOSZENIA
+             
         time.sleep(1)    
         container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
-        button_enabled = False
+        button_enabled = False #DOMYŚLNIE USTAWIAMY SOBIE TAKIEGO BOOLA, ZMIENIMY WARTOŚĆ PO PRZESCROLLOWANIU KLIKNIĘCIU PRZYCISKU
         
         while not button_enabled:
-            try:
-                showmore_btn = container.find_element(By.CLASS_NAME, 'css-8q56v9')
+            try: #Scrollowanie do przycisku z Pokaż więcej (opis) i kliknięcie go, ta cała procedura była wymagana, ponieważ ogłoszenia miały różną długośc i z góry ustalona odległość zwyczajnie czasem się wykrzaczała
+                showmore_btn = container.find_element(By.CLASS_NAME, 'css-8q56v9') #NIŻEJ UŻYTY SCROLL Z JAVASCRIPT - NAJPEWNIEJSZA OPCJA - DZIAŁA BEZPOŚREDNIO W JS PRZEGLĄDARKI, A NIE Z POZIOMU NASZEGO SERWERA
                 driver.execute_script("""arguments[0].scrollIntoView({
                     behavior: 'smooth',
                     block: 'center',
                     inline: 'center'});
                     """, showmore_btn)
-                print("Scrolling to our button")
+                print("Scrolling to our button") #Komentarz poglądowy, tak naprawdę do wywalenia
                 wait = WebDriverWait(driver, 2)
                 clickable_btn = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'css-8q56v9')))
-                time.sleep(0.5)
-                driver.execute_script('arguments[0].click();', showmore_btn)
+                time.sleep(0.5) #Sleepy można pewnie usunąć, ale to nie musi być idealnie zoptymalizowane + faktycznie były momenty w trakcie pracy, że sleep robił różnicę, bo coś się jeszce nie zdążyło załadować
+                driver.execute_script('arguments[0].click();', showmore_btn) #znów używamy JS, bez tego potrafił być problem czasem - to jest konsekwentnie skuteczna metoda
                 time.sleep(1)
-                button_enabled = True
+                button_enabled = True #no i zmieniamy wartość boola, żeby odblokować dalszą część kodu
             except Exception as e:
                 print(f"Attempt failed: {e}")
                 pass
@@ -119,18 +108,19 @@ try:
         time.sleep(0.5)               
         opis = driver.find_element(By.CLASS_NAME, 'e1op7yyl1').text
         opisy.append(opis)
-        print(f"Scraped from {i}: {opis[:100]}...") #Printujemy pierwsze 100 znaków, żeby mieć poglądowo
+        filtered_linki.append(i) #Dodajemy tutaj nasz link do filtered_linki, żeby naprawić błąd z wstawianiem niewyfiltrowanych linków
+        print(f"Scraped from {i}: {opis[:100]}...") #Printujemy pierwsze 100 znaków, poglądowo, do wywalenia
         driver.close()
         driver.switch_to.window(original_window)
 except Exception as e:
     print(f'Error: {(e)}')
    
-if len(opisy) < len(linki):
-    while len(opisy) < len(linki):
+if len(opisy) < len(filtered_linki):
+    while len(opisy) < len(filtered_linki):
         opisy.append("Nie ma opisu :(")
     
 df = pd.DataFrame({
-    'link': linki,
+    'link': filtered_linki,
     'opis': opisy
 })
 
@@ -138,7 +128,7 @@ df = pd.DataFrame({
 filters = ['garaż', 'parking podziemny', 'miejsce podziemne']
 df = df[df['opis'].str.contains('|'.join(filters), case=False, na=False)]
 df.to_csv('mieszkania_otodom.csv', index=False, encoding='utf-8')
-###Trzeba będzie jeszcze zrobić sortowanie strefy na górze ogłoszenia i paginację
+###Trzeba będzie jeszcze zrobić sortowanie strefy na górze ogłoszenia (DONE) i paginację, ewentualnie jeszcze tytuł
 
 print(df)
     
