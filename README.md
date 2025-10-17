@@ -79,3 +79,11 @@ I've also enclosed the whole scraping code in a try-except block with finally bl
 will make us save the results. Not sure what's the cause of the 404 error - as if the ad we're trying to go to gets deleted before we manage to click it, but it's unlikely. Perhaps it's caused by some limits. Anyway, for now I decided I'm not resolving the error itself, but handling it, as it's very rare, inconsistent, it would probably take a lot of time to actually diagnose the cause of it, and I don't think it's worth wasting time on it in this particular case.
 
 Perhaps the next step would be to put everything in a nice method structure or maybe even different files, but it's 160 lines of code including vertical spaces and comments, and I think the code looks rather clear. One thing that might be a bit scary for new people are the indentations - they were introduced step by step, when creating next methods. I'm unsure if any dev might have trouble reading this, but I'd love to find out! Anyway, I'll think about it.
+
+- I discovered a serious issue - it seems that I'm iterating through page 2 repeatedly, instead of actually moving forward
+I've changed the location of driver.current_window_handle, as it was put before the loop, causing us to stay in page1 -> page2 loop, but it didn't solve the issue.
+
+We need a more robust solution:
+- check the handles of the buttons (if they change and if so, how)
+- check manually the flow of being on page 2 and going to page 3
+- implement actual page-checking using the handles instead of hardcoding page_number and incrementing it automatically each time

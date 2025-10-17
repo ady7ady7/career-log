@@ -67,10 +67,11 @@ try:
             print(f'Error: {(e)}')
 
         #Tutaj dodajemy handle do naszego bazowego okna (może się to zmienić przy paginacji)
-        original_window = driver.current_window_handle
+        #original_window = driver.current_window_handle
         
         for i in linki:
             
+            original_window = driver.current_window_handle #przerzucamy tutaj, bo zdaje się, że to mogło blokować całą pętlę przy paginacji na stronach 1-2
             driver.execute_script(f"window.open('{i}')")
             driver.switch_to.window(driver.window_handles[1])
             time.sleep(1)
@@ -150,7 +151,9 @@ try:
 
 except Exception as e:
     print(f'Wystąpił nieoczekiwany błąd podczas scrapingu na stronie {current_page}: {e}')
-    print('Zapisujemy dane w obecnym stanie.') 
+    print('Zapisujemy dane w obecnym stanie.')
+except KeyboardInterrupt as e:
+    print('Manualnie zatrzymano działanie kodu.')
 finally: 
     if len(wszystkie_opisy) < len(wszystkie_wyfiltrowane_linki):
         while len(wszystkie_opisy) < len(wszystkie_wyfiltrowane_linki):
