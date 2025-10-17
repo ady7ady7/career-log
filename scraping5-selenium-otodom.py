@@ -30,7 +30,7 @@ wszystkie_wyfiltrowane_linki = []
 calkowita_liczba_linkow = 0
 
 current_page = 1
-max_pages = 30
+max_pages = 50
 
 try:
     while current_page <= max_pages:
@@ -149,7 +149,7 @@ try:
                 break
 
 except Exception as e:
-    print(f'Wystąpił nieoczekiwany błąd podczas scrapingu: {e}')
+    print(f'Wystąpił nieoczekiwany błąd podczas scrapingu na stronie {current_page}: {e}')
     print('Zapisujemy dane w obecnym stanie.') 
 finally: 
     if len(wszystkie_opisy) < len(wszystkie_wyfiltrowane_linki):
@@ -161,8 +161,8 @@ finally:
         'opis': wszystkie_opisy
     })
 
-    procent_linków = len(wszystkie_wyfiltrowane_linki)/len(calkowita_liczba_linkow)*100
-    print(f'Przeprocesowaliśmy {calkowita_liczba_linkow}, wybierając ostatecznie {len(wszystkie_wyfiltrowane_linki)}, co oznacza wytypowanie {procent_linków} procent linków')
+    procent_linków = len(wszystkie_wyfiltrowane_linki)/calkowita_liczba_linkow*100
+    print(f'Zakończyliśmy scraping na stronie {current_page}. Przeprocesowaliśmy {calkowita_liczba_linkow}, wybierając ostatecznie {len(wszystkie_wyfiltrowane_linki)}, co oznacza wytypowanie {procent_linków} procent linków')
     ###Tutaj chcemy ogarnąć sortowanie
     filters = ['garaż', 'parking podziemny', 'miejsce podziemne']
     df = df[df['opis'].str.contains('|'.join(filters), case=False, na=False)]
