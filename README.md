@@ -87,3 +87,6 @@ We need a more robust solution:
 - check the handles of the buttons (if they change and if so, how)
 - check manually the flow of being on page 2 and going to page 3
 - implement actual page-checking using the handles instead of hardcoding page_number and incrementing it automatically each time
+
+18.10.25 (Weekend - Saturday)
+- Even though it's the weekend, I've downloaded a dataset from Kaggle with job listings and cleaned data a bit. I've explored functions in Power Query - used Perplexity's instructions for that, as it's my first time in PQ, and while it's not that intuitive without experience, I must say that it isn't difficult and very logical once you see how it works. I've got some experience with data and with instructions in went down pretty quickly and easily. I'll have to experiment more with that, already seeing how useful this is. Anyway, the dataset is prepared and will probably work as a base for my next PBI report(1 hr)
