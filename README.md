@@ -95,3 +95,6 @@ We need a more robust solution:
 - Started the day with Lesson 3 from my SQL Course - it was a very useful journey through aggregate functions, the level of selection and GROUP BY function. We also discussed the difference between the order of SQL clauses and the order of actual SQL operations (it explains a lot of things going on there e.g. why aliases won't work with HAVING clause, but they will work with ORDER BY etc.). Great lesson and I took notes (1 hr)
 - Followed up with SQL test from week2, nailed it!
 - Done today's SQL exercises (went pretty well and it was a great practice of the concepts I've learned today) and followed up with a Datalemur SQL Exercise - as for Datalemur, it was a bit tricky and I had to check the hint, as I wasn't sure how to approach it - it was a good idea, as the task required me to use INNER JOIN, which was my first time actually seeing that. Once I've done that, it was pretty easy, just had to filter data with WHERE and set aliases to get the required output (1 hr)
+
+21.10.25
+- Started the day with SQL course exercises + Datalemur exercise (1 hour)
