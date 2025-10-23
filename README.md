@@ -120,3 +120,6 @@ Anyway, it worked and it was great (1 hr)
 I had to figure out a different solution and it took some time, but I finally looked up a solution and used the SQL equivalent of Python if clause - CASE WHERE -> THEN -> ELSE -> END, I've rewritten clicks and impressions separately with CASES, and counted them with a simple formula:
 CASE WHERE event_type = 'click' THEN 1 ELSE 0 END as clicks etc.; then I added SUM to calculate them and check it it works correctly - when I was sure it does, I finally repeated the solution from my first try - deleted aliases (as clicks/as impressions), multiplied the clicks by 100.0 (as float was requested in the task), and then divided them by the sum of impressions, and obviously ROUNDED everything to get the required 2 decimals, and used GROUP BY by app_id, to get the final solution. It was very satisfying to finally finish (1 hr)
 
+
+23.10.25 (Day 16)
+- Started the day with a pretty nice session with SQL exercises - today's session was doubled as we had an extra set of exercises due for the end of the week. I've practiced GROUP BY and aggregation levels, but also used the opportunity to practice CASE WHEN, as there were at least two perfect uses. I've managed to get 7/8 and 13/13 in the two sets, completing over 20 exercises and it feels good to start the day this way. Feeling good with my current SQL skill. (2 hr)
