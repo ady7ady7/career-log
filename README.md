@@ -123,3 +123,5 @@ CASE WHERE event_type = 'click' THEN 1 ELSE 0 END as clicks etc.; then I added S
 
 23.10.25 (Day 16)
 - Started the day with a pretty nice session with SQL exercises - today's session was doubled as we had an extra set of exercises due for the end of the week. I've practiced GROUP BY and aggregation levels, but also used the opportunity to practice CASE WHEN, as there were at least two perfect uses. I've managed to get 7/8 and 13/13 in the two sets, completing over 20 exercises and it feels good to start the day this way. Feeling good with my current SQL skill. (2 hr)
+- Followed up with another module of PBI Course (1 hr)
+- Started ML course - today is my first try with it and now it mainly focuses on Python basics - it's nice and it looks like I'm managing to deal with these things without any problems - it will help me strenghten my beliefs in my Python skills(1 hr)
