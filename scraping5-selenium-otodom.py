@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 import time
 import pandas as pd
+import random #dodałem żeby randomizować waita przy paginacji, na razie nie widzę żadnych problemów, czy limitów, ale dodałem to tak w razie co
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option("detach", True)
@@ -85,7 +86,7 @@ try:
             info_dodatkowe = driver.find_elements(By.CLASS_NAME, 'e1mm5aqc1')
             has_garaz = any('garaż' in (e.get_attribute('textContent') or '').lower() #thanks to Claude for this one!
                     for e in info_dodatkowe)
-            time.sleep(1)
+            time.sleep(2)
             if has_garaz:
                 print("Jest garaż w górnej sekcji, do widzenia!")
                 driver.close()
@@ -95,7 +96,7 @@ try:
                 print("Nie ma garażu, szukamy dalej...")
             
             #SCRAPUJEMY OPIS Z OGŁOSZENIA   
-            time.sleep(1)    
+            time.sleep(2)    
             container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
             button_enabled = False #DOMYŚLNIE USTAWIAMY SOBIE TAKIEGO BOOLA, ZMIENIMY WARTOŚĆ PO PRZESCROLLOWANIU KLIKNIĘCIU PRZYCISKU
             
@@ -127,7 +128,8 @@ try:
             driver.switch_to.window(original_window)
             
         #PAGINACJA - FRAGMENT 2 - NA TYM ETAPIE PRZECHODZIMY DO KOLEJNEJ STRONY
-        print('Czekamy 15 sekund profilaktycznie, żeby nie przekroczyć limitów')
+        wait_time = random.randrange(10, 17)
+        print(f'Czekamy {wait_time} sekund profilaktycznie, żeby nie przekroczyć limitów')
         time.sleep(15)
         if current_page_number <= max_pages:
             try: 
