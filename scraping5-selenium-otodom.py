@@ -29,12 +29,17 @@ wszystkie_opisy = []
 wszystkie_wyfiltrowane_linki = []
 calkowita_liczba_linkow = 0
 
-current_page = 1
+current_page_number = int(driver.find_element(By.CLASS_NAME, 'css-jayau4').text)
 max_pages = 50
 
 try:
-    while current_page <= max_pages:
-        print(f'Currently focusing on page {current_page}')
+    while current_page_number <= max_pages:
+        print('Czekamy 5 sekund na załadowanie się strony')
+        time.sleep(5)
+        current_page = driver.find_element(By.CLASS_NAME, 'css-jayau4') #tutaj ważne rozróżnienie - nie dodajemy .text, bo się wykrzaczy
+        current_page_number = int(current_page.text) #tutaj robimy oddzielną zmienną, żeby wyciągnąć tekst, a potem konwertujemy to na int, żeby porównania działały
+        print(f'Jestesmy na stronie {current_page_number}')
+        
         
         #ogarnianie listy mieszkań ze strony    
         try:
@@ -124,33 +129,34 @@ try:
         #PAGINACJA - FRAGMENT 2 - NA TYM ETAPIE PRZECHODZIMY DO KOLEJNEJ STRONY
         print('Czekamy 15 sekund profilaktycznie, żeby nie przekroczyć limitów')
         time.sleep(15)
-        if current_page < max_pages:
+        if current_page_number <= max_pages:
             try: 
                 pagination_panel = driver.find_element(By.CLASS_NAME, 'css-iiviho')
-                next_page_button = pagination_panel.find_element(By.CLASS_NAME, 'css-10sgmrs')
+                pagination_buttons = pagination_panel.find_elements(By.CLASS_NAME, 'css-10sgmrs')
+                next_page_button = pagination_buttons[-1]
 
                 if next_page_button:
-                    print(f'The current_page number is {current_page}, found next page button, scrolling to it in 1 sec')
+                    print(f'Obecnie jesteśmy na stronie {current_page_number}, scrollujemy do przycisku za 1s')
                     time.sleep(1)
                     driver.execute_script("""arguments[0].scrollIntoView({
                         behavior: 'smooth',
                         block: 'center',
                         inline: 'center'});
                         """, next_page_button)
-                    print('Clicking in 1 sec')
+                    print('Klikamy za sekundę')
                     time.sleep(1)
                     driver.execute_script('arguments[0].click();', next_page_button)
                     current_page += 1 #zwiększamy wartość cp
                 else:
-                    print('The next page button is not available, so we probably got all of the pages down!')
+                    print('Nie ma kolejnego przycisku, przeszliśmy wybrany zakres stron.')
                 
             except Exception as e:
                 print(f'Error: {(e)}')
-                print(f'Nie ma kolejnego przycisku, skończyliśmy po {current_page} stronach')
+                print(f'Nie ma kolejnego przycisku, skończyliśmy po {current_page_number} stronach')
                 break
 
 except Exception as e:
-    print(f'Wystąpił nieoczekiwany błąd podczas scrapingu na stronie {current_page}: {e}')
+    print(f'Wystąpił nieoczekiwany błąd podczas scrapingu na stronie {current_page_number}: {e}')
     print('Zapisujemy dane w obecnym stanie.')
 except KeyboardInterrupt as e:
     print('Manualnie zatrzymano działanie kodu.')
@@ -165,7 +171,7 @@ finally:
     })
 
     procent_linków = len(wszystkie_wyfiltrowane_linki)/calkowita_liczba_linkow*100
-    print(f'Zakończyliśmy scraping na stronie {current_page}. Przeprocesowaliśmy {calkowita_liczba_linkow}, wybierając ostatecznie {len(wszystkie_wyfiltrowane_linki)}, co oznacza wytypowanie {procent_linków} procent linków')
+    print(f'Zakończyliśmy scraping na stronie {current_page_number}. Przeprocesowaliśmy {calkowita_liczba_linkow}, wybierając ostatecznie {len(wszystkie_wyfiltrowane_linki)}, co oznacza wytypowanie {procent_linków} procent linków')
     ###Tutaj chcemy ogarnąć sortowanie
     filters = ['garaż', 'parking podziemny', 'miejsce podziemne']
     df = df[df['opis'].str.contains('|'.join(filters), case=False, na=False)]

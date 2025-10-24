@@ -133,3 +133,9 @@ BUT!!! I realized that I crush even the advanced tasks and then realize I've los
 I HAVE TO REMIND MYSELF TO READ EACH QUESTION AT LEAST 3 TIMES AND I WILL DEFINITELY IMPROVE IN THIS ASPECT (1 hr)
 - Followed up with an exercise from Datalemur (TikTok Second Day Confirmation - Easy), where I had to find users who confirmed their sign up exactly 1 day after its date. It wasn't too difficult at this point, took me 5~ minutes to solve it - started with a simple join and grabbing the relevant columns and checking whether I got what I need.
 To find the days, I simply extracted Days in both dates (signup_date and confirmation_date) and substracted the first from the second one. I used HAVING for that, instintively thinking that WHERE will not work, BUT IT ACTUALLY DOES WORK TOO, as I've checked it a while after completing the task. (10 minutes)
+
+- Fixed pagination in my Otodom scraper (scraping5-selenium-otodom) - description in Polish: Przekopiowałem fragmenty kodu dotyczące paginacji do oddzielnego pliku pagination.py. Loopowało mnie między stronami 1 i 2. Dość szybko okazało się, że problem wynikał z klikania przycisku do poprzedniej strony - pominąłem go w pierwszej chwili, bo pojawiał się dopiero od drugiej strony, ale miał taką samą klasę.
+Najpierw przekombinowałem, ale najprostsze wydaje mi się ustawienie go jako ostatni przycisk [-1] - nie ma już innych przycisków o tej klasie, więc to fajnie działa.
+Dodatkowo przy okazji ofc wywaliłem hardcodowaną liczbę current_page_number i podmieniłem ją po prostu za realną wartość z aktualnie aktywnego przycisku (ma odmienną klasę, fajnie)
+Przy tej całej operacji pojawiły się też problemy z porównywaniem intów i stringów, bo na początku chwytałem przycisk current_page i wyciągałem z tego .text,
+aby to sfixować, stworzyłem odmienną zmienną current_page_number, gdzie mamy po prostu int(blabla_chwytanie_przycisku.text) - nie wiem, czy da się prościej, ale imo jest spoko. (45 minutes)
