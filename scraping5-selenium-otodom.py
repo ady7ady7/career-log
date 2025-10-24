@@ -146,7 +146,6 @@ try:
                     print('Klikamy za sekundę')
                     time.sleep(1)
                     driver.execute_script('arguments[0].click();', next_page_button)
-                    current_page += 1 #zwiększamy wartość cp
                 else:
                     print('Nie ma kolejnego przycisku, przeszliśmy wybrany zakres stron.')
                 
