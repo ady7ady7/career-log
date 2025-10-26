@@ -139,3 +139,8 @@ Najpierw przekombinowałem, ale najprostsze wydaje mi się ustawienie go jako os
 Dodatkowo przy okazji ofc wywaliłem hardcodowaną liczbę current_page_number i podmieniłem ją po prostu za realną wartość z aktualnie aktywnego przycisku (ma odmienną klasę, fajnie)
 Przy tej całej operacji pojawiły się też problemy z porównywaniem intów i stringów, bo na początku chwytałem przycisk current_page i wyciągałem z tego .text,
 aby to sfixować, stworzyłem odmienną zmienną current_page_number, gdzie mamy po prostu int(blabla_chwytanie_przycisku.text) - nie wiem, czy da się prościej, ale imo jest spoko. (45 minutes)
+
+
+26.10.2025 (Day 18, Sunday)
+- I've created a local agent based on Claude, which will work as a Python tutor for me now. 
+I absolutely fell in love with the SQL learning technique and wanted to re-implement it for Python as well, in order to practice regularly and become a Python beast. I've created and already tested it for the first day and it works great! Will probably include more feedback soon. (1.5 hr)
