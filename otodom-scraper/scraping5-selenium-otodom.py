@@ -96,6 +96,8 @@ try:
                 print("Nie ma garażu, szukamy dalej...")
             
             #SCRAPUJEMY OPIS Z OGŁOSZENIA 
+            ###################### TRY EXCEPT BLOCK DODANY ###############################
+            #Dodany tutaj try-except block, żeby error404 na pojedynczej stronie nie wywalał działania kodu
             try:   
                 time.sleep(2)    
                 container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
