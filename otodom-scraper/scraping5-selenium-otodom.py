@@ -31,7 +31,7 @@ wszystkie_wyfiltrowane_linki = []
 calkowita_liczba_linkow = 0
 
 current_page_number = int(driver.find_element(By.CLASS_NAME, 'css-jayau4').text)
-max_pages = 50
+max_pages = 70
 
 try:
     while current_page_number <= max_pages:
@@ -95,37 +95,41 @@ try:
             else:
                 print("Nie ma garażu, szukamy dalej...")
             
-            #SCRAPUJEMY OPIS Z OGŁOSZENIA   
-            time.sleep(2)    
-            container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
-            button_enabled = False #DOMYŚLNIE USTAWIAMY SOBIE TAKIEGO BOOLA, ZMIENIMY WARTOŚĆ PO PRZESCROLLOWANIU KLIKNIĘCIU PRZYCISKU
-            
-            while not button_enabled:
-                try: #Scrollowanie do przycisku z Pokaż więcej (opis) i kliknięcie go, ta cała procedura była wymagana, ponieważ ogłoszenia miały różną długośc i z góry ustalona odległość zwyczajnie czasem się wykrzaczała
-                    showmore_btn = container.find_element(By.CLASS_NAME, 'css-8q56v9') #NIŻEJ UŻYTY SCROLL Z JAVASCRIPT - NAJPEWNIEJSZA OPCJA - DZIAŁA BEZPOŚREDNIO W JS PRZEGLĄDARKI, A NIE Z POZIOMU NASZEGO SERWERA
-                    driver.execute_script("""arguments[0].scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'center',
-                        inline: 'center'});
-                        """, showmore_btn)
-                    wait = WebDriverWait(driver, 2)
-                    clickable_btn = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'css-8q56v9')))
-                    time.sleep(0.5) #Sleepy można pewnie usunąć, ale to nie musi być idealnie zoptymalizowane + faktycznie były momenty w trakcie pracy, że sleep robił różnicę, bo coś się jeszce nie zdążyło załadować
-                    driver.execute_script('arguments[0].click();', showmore_btn) #znów używamy JS, bez tego potrafił być problem czasem - to jest konsekwentnie skuteczna metoda
-                    time.sleep(1)
-                    button_enabled = True #no i zmieniamy wartość boola, żeby odblokować dalszą część kodu
-                except Exception as e:
-                    print(f"Attempt failed: {e}")
-                    pass
-                time.sleep(0.5)
+            #SCRAPUJEMY OPIS Z OGŁOSZENIA 
+            try:   
+                time.sleep(2)    
+                container = driver.find_element(By.CLASS_NAME, 'e1op7yyl0')
+                button_enabled = False #DOMYŚLNIE USTAWIAMY SOBIE TAKIEGO BOOLA, ZMIENIMY WARTOŚĆ PO PRZESCROLLOWANIU KLIKNIĘCIU PRZYCISKU
                 
-            time.sleep(0.5)               
-            opis = driver.find_element(By.CLASS_NAME, 'e1op7yyl1').text
-            wszystkie_opisy.append(opis)
-            wszystkie_wyfiltrowane_linki.append(i) #Dodajemy tutaj nasz link do filtered_linki, żeby naprawić błąd z wstawianiem niewyfiltrowanych linków
-            print(f"Scraped from {i}: {opis[:100]}...") #Printujemy pierwsze 100 znaków, poglądowo, do wywalenia
-            driver.close()
-            driver.switch_to.window(original_window)
+                while not button_enabled:
+                    try: #Scrollowanie do przycisku z Pokaż więcej (opis) i kliknięcie go, ta cała procedura była wymagana, ponieważ ogłoszenia miały różną długośc i z góry ustalona odległość zwyczajnie czasem się wykrzaczała
+                        showmore_btn = container.find_element(By.CLASS_NAME, 'css-8q56v9') #NIŻEJ UŻYTY SCROLL Z JAVASCRIPT - NAJPEWNIEJSZA OPCJA - DZIAŁA BEZPOŚREDNIO W JS PRZEGLĄDARKI, A NIE Z POZIOMU NASZEGO SERWERA
+                        driver.execute_script("""arguments[0].scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'center',
+                            inline: 'center'});
+                            """, showmore_btn)
+                        wait = WebDriverWait(driver, 2)
+                        clickable_btn = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'css-8q56v9')))
+                        time.sleep(0.5) #Sleepy można pewnie usunąć, ale to nie musi być idealnie zoptymalizowane + faktycznie były momenty w trakcie pracy, że sleep robił różnicę, bo coś się jeszce nie zdążyło załadować
+                        driver.execute_script('arguments[0].click();', showmore_btn) #znów używamy JS, bez tego potrafił być problem czasem - to jest konsekwentnie skuteczna metoda
+                        time.sleep(1)
+                        button_enabled = True #no i zmieniamy wartość boola, żeby odblokować dalszą część kodu
+                    except Exception as e:
+                        print(f"Attempt failed: {e}")
+                        pass
+                    time.sleep(0.5)
+                    
+                time.sleep(0.5)               
+                opis = driver.find_element(By.CLASS_NAME, 'e1op7yyl1').text
+                wszystkie_opisy.append(opis)
+                wszystkie_wyfiltrowane_linki.append(i) #Dodajemy tutaj nasz link do filtered_linki, żeby naprawić błąd z wstawianiem niewyfiltrowanych linków
+                print(f"Scraped from {i}: {opis[:100]}...") #Printujemy pierwsze 100 znaków, poglądowo, do wywalenia
+            except Exception as e:
+                print(f'Unable to locate element on {i}, skipping {e}')
+            finally:
+                driver.close()
+                driver.switch_to.window(original_window)
             
         #PAGINACJA - FRAGMENT 2 - NA TYM ETAPIE PRZECHODZIMY DO KOLEJNEJ STRONY
         wait_time = random.randrange(10, 17)
