@@ -150,5 +150,5 @@ I absolutely fell in love with the SQL learning technique and wanted to re-imple
 - Started this week with a SQL test from the previous week - I got 10/10 without much hesitation, that's a very good sign! (10 mins)
 - Went through Lesson 4 of my SQL Course - JOINS and UNION operations - I've prepared extensive notes (1.5 hr)
 - Finished sql exercises - couldn't finish the advanced exercise today as it required CTE and I've never used it before (45 mins)
-- Completed day2 of learning Python with my private Claude Agent - I like how it works, today's session was pretty demanding and I've learned some useful things and reinforced the basics - The performance of the agent is clean overall - it makes little mistakes, but it's generally doing well (1 hr)
+- Completed day2 of learning Python with my private Claude Agent - I like how it works, today's session was pretty demanding and I've learned some useful things and reinforced the basics - The performance of the agent is clean overall - it makes some mistakes, AND REQUIRES CHECKING, but it's adjusting and reacting to my feedback. I'm pretty satisfied with its performance and I can definitely learn this way! (1 hr)
 
