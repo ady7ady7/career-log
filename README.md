@@ -151,4 +151,5 @@ I absolutely fell in love with the SQL learning technique and wanted to re-imple
 - Went through Lesson 4 of my SQL Course - JOINS and UNION operations - I've prepared extensive notes (1.5 hr)
 - Finished sql exercises - couldn't finish the advanced exercise today as it required CTE and I've never used it before (45 mins)
 - Completed day2 of learning Python with my private Claude Agent - I like how it works, today's session was pretty demanding and I've learned some useful things and reinforced the basics - The performance of the agent is clean overall - it makes some mistakes, AND REQUIRES CHECKING, but it's adjusting and reacting to my feedback. I'm pretty satisfied with its performance and I can definitely learn this way! (1 hr)
-
+- Added a try-except->finally block in my Otodom scraper to handle error404, so we can continue scraping instead of interrupting the code (10 min)
+- As for otodom scraper - I've also noticed some apartments are repeated because they're promoted and reappear on eveyr single page - we simply have to stick only to unique links in the end, and also adjust the format of everything to make sure it all works properly

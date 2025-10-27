@@ -36,7 +36,7 @@ max_pages = 70
 try:
     while current_page_number <= max_pages:
         print('Czekamy 5 sekund na załadowanie się strony')
-        time.sleep(5)
+        time.sleep(6)
         current_page = driver.find_element(By.CLASS_NAME, 'css-jayau4') #tutaj ważne rozróżnienie - nie dodajemy .text, bo się wykrzaczy
         current_page_number = int(current_page.text) #tutaj robimy oddzielną zmienną, żeby wyciągnąć tekst, a potem konwertujemy to na int, żeby porównania działały
         print(f'Jestesmy na stronie {current_page_number}')
