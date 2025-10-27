@@ -144,3 +144,10 @@ aby to sfixować, stworzyłem odmienną zmienną current_page_number, gdzie mamy
 26.10.2025 (Day 18, Sunday)
 - I've created a local agent based on Claude, which will work as a Python tutor for me now. 
 I absolutely fell in love with the SQL learning technique and wanted to re-implement it for Python as well, in order to practice regularly and become a Python beast. I've created and already tested it for the first day and it works great! Will probably include more feedback soon. (1.5 hr)
+
+
+27.10.25 (Day 19)
+- Started this week with a SQL test from the previous week - I got 10/10 without much hesitation, that's a very good sign! (10 mins)
+- Went through Lesson 4 of my SQL Course - JOINS and UNION operations - I've prepared extensive notes (1.5 hr)
+- Finished sql exercises - couldn't finish the advanced exercise today (45 mins)
+
