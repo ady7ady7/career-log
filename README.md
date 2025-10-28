@@ -153,3 +153,7 @@ I absolutely fell in love with the SQL learning technique and wanted to re-imple
 - Completed day2 of learning Python with my private Claude Agent - I like how it works, today's session was pretty demanding and I've learned some useful things and reinforced the basics - The performance of the agent is clean overall - it makes some mistakes, AND REQUIRES CHECKING, but it's adjusting and reacting to my feedback. I'm pretty satisfied with its performance and I can definitely learn this way! (1 hr)
 - Added a try-except->finally block in my Otodom scraper to handle error404, so we can continue scraping instead of interrupting the code (10 min)
 - As for otodom scraper - I've also noticed some apartments are repeated because they're promoted and reappear on eveyr single page - we simply have to stick only to unique links in the end, and also adjust the format of everything to make sure it all works properly
+
+28.10.25 (Day 20)
+- SQL Course Exercises + additional UNION exercises - It all went pretty well, but I made an error in INTERSECT exercise, overengineering my solution slightly (1.5 hr)
+- Struggled with a practice Interview question on Datalemur today - I properly worked out the JOIN and GROUP BY to get the correct unique queries for each employee in the specified period. However, the latter parts of the task were more difficult and required CTE, so I had to look it up eventually. I decided TO LEAVE IT FOR NOW - I've exhausted all of the current options I can use right now - I will return to it and solve it once I have the tools to do so. (1 hr)
