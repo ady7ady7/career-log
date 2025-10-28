@@ -157,3 +157,5 @@ I absolutely fell in love with the SQL learning technique and wanted to re-imple
 28.10.25 (Day 20)
 - SQL Course Exercises + additional UNION exercises - It all went pretty well, but I made an error in INTERSECT exercise, overengineering my solution slightly (1.5 hr)
 - Struggled with a practice Interview question on Datalemur today - I properly worked out the JOIN and GROUP BY to get the correct unique queries for each employee in the specified period. However, the latter parts of the task were more difficult and required CTE, so I had to look it up eventually. I decided TO LEAVE IT FOR NOW - I've exhausted all of the current options I can use right now - I will return to it and solve it once I have the tools to do so. (1 hr)
+- Finished another day of Python learning with my agent - got max points from all the 8 tasks (40 mins)
+- Also built a Python mini-project for week1 - it didn't take too long and allowed me to ground my knowledge and learn a few useful things. I'm not yet sharing these in my career-log repo, but I might do so at some point! (1.5 hr)
