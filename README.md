@@ -159,3 +159,8 @@ I absolutely fell in love with the SQL learning technique and wanted to re-imple
 - Struggled with a practice Interview question on Datalemur today - I properly worked out the JOIN and GROUP BY to get the correct unique queries for each employee in the specified period. However, the latter parts of the task were more difficult and required CTE, so I had to look it up eventually. I decided TO LEAVE IT FOR NOW - I've exhausted all of the current options I can use right now - I will return to it and solve it once I have the tools to do so. (1 hr)
 - Finished another day of Python learning with my agent - got max points from all the 8 tasks (40 mins)
 - Also built a Python mini-project for week1 - it didn't take too long and allowed me to ground my knowledge and learn a few useful things. I'm not yet sharing these in my career-log repo, but I might do so at some point! (1.5 hr)
+- Followed up with some exercises from the ML course on lists & sets. I've created a new folder python-practice and a file exercises.py in this repo - it's not my only Python practice file, as the other one is in the other folder with my agent - perhaps I will also add exercises from there here.
+(1.5 hr)
+
+29.10.25 (Day 21)
+- Started with a morning SQL session (1 hr)

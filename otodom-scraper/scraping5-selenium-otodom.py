@@ -183,6 +183,8 @@ finally:
     filters = ['garaż', 'parking podziemny', 'miejsce podziemne']
     df = df[df['opis'].str.contains('|'.join(filters), case=False, na=False)]
     df.to_csv('mieszkania_otodom.csv', index=False, encoding='utf-8')
+    linki = set(df['link']) #taki dodatek, żeby w jak najprostszy sposób odfiltrować duplikaty - zobaczymy, czy zadziała
+    print(linki)
     ###Trzeba będzie jeszcze zrobić sortowanie strefy na górze ogłoszenia (DONE) i paginację, ewentualnie jeszcze tytuł
 
 
