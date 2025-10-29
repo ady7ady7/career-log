@@ -164,3 +164,5 @@ I absolutely fell in love with the SQL learning technique and wanted to re-imple
 
 29.10.25 (Day 21)
 - Started with a morning SQL session (1 hr)
+- Followed up with an exercise from Datalemur - today's it was JPMorgan Chase Cards Issued Difference exercise - it wasn't too difficult, I've managed to finish it quickly using GROUP BY and aggregate functions - piece of cake, compared to yesterday (10 mins)
+- Followed up with another session of Python with my teaching agent. Feeling like today it was even a bit too easy - a good sign toward the end of the week and I'm getting close to this week's exam, which will be an addition to my learning session tomorrow. (1 hr)
