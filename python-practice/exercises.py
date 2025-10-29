@@ -123,3 +123,64 @@
 # sentence2 = input(str('Wpisz drugie dowolne zdanie: '))
 # check_sentences(sentence1, sentence2)
 #ciekawe jest to, że jak mamy kropkę to ona się zalicza do danego słowa, ale działa wszystko
+
+
+#29.10 
+#ĆWICZENIA NA SŁOWNIKACH I KROTKACH - DICT/TUPLE
+
+#Zadanie1 
+# def create_dict(n):
+#  keys = list((range(n+1)))
+#  print(keys)
+#  values = [i ** 2 for i in keys]
+#  print(values)
+
+#  my_dict = dict(zip(keys, values)) #TU MIAŁEM PROBLEM, BO PRÓBOWAŁEM NAJPIERW Z NAWIASAMI {} xd
+#  print(my_dict.items())
+
+
+# n = int(input('Please input an integer value: '))
+# create_dict(n)
+
+
+
+''' Zadania praktyczne
+Zadanie 1
+Napisz program, który zamieni wprowadzony przez użytkownika ciąg cyfr na formę tekstową, np.: 112 - > „jeden jeden dwa” 9973 -> „dziewięć dziewięć siedem trzy”
+Podpowiedź: potrzebujesz funkcji input(), słownika oraz pętli.
+
+Zadanie 2
+Stwórz funkcję przyjmującą listę liczb całkowitych, a zwracającą informację, na której pozycji znajduje się najmniejsza liczba.
+Nie korzystaj z wbudowanych funkcji.
+
+np. dla listy [42, 13, 56, 7, 12, 3, 85] funkcja powinna zwrócić 5, ponieważ pod tym indeksem w tej liście znajduje się element najmniejszy.
+
+Zadanie 3
+Stwórz funkcję, która sprawdzi, czy liczba podana w argumencie jest pierwsza (tzn. dzieli się bez reszty tylko przez 1 i przez samą siebie). Funkcja powinna przyjmować wartość numeryczną, a zwracać powinna wartość logiczną True/False.
+Dla 11 funkcja zwróci True, natomiast dla 12 -> False.'''
+
+
+#ZADANIA Z PĘTLI
+
+#Zadanie 1
+# def convert_nums_to_literals(numbers):
+#     numbers = list(numbers)
+#     numbers_dict = {'1': 'jeden', '2': 'dwa', '3': 'trzy', '4': 'cztery', '5': 'pięć', '6': 'sześć', '7': 'siedem', '8': 'osiem', '9': 'dziewięć', '0': 'zero'}
+#     converted_numbers = [numbers_dict[num] for num in numbers]
+#     print(converted_numbers)
+
+
+# numbers: str = str(input("Podaj dowolny ciąg liczb całkowitych np. 4205, 554: "))
+# convert_nums_to_literals(numbers)
+
+
+#Zadanie 2
+def find_the_lowest_number(numbers):
+    print(numbers)
+    ##Wrócimy do tego jutro, dzisiaj już nie myślę
+    
+    
+
+numbers = []
+numbers.append(input("Podaj dowolną listę liczb całkowitych np. 12, 530, 1, 7: "))
+find_the_lowest_number(numbers)
