@@ -165,4 +165,12 @@ I absolutely fell in love with the SQL learning technique and wanted to re-imple
 29.10.25 (Day 21)
 - Started with a morning SQL session (1 hr)
 - Followed up with an exercise from Datalemur - today's it was JPMorgan Chase Cards Issued Difference exercise - it wasn't too difficult, I've managed to finish it quickly using GROUP BY and aggregate functions - piece of cake, compared to yesterday (10 mins)
-- Followed up with another session of Python with my teaching agent. Feeling like today it was even a bit too easy - a good sign toward the end of the week and I'm getting close to this week's exam, which will be an addition to my learning session tomorrow. (1 hr)
+- Followed up with another session of Python with my teaching agent. Feeling like today it was even a bit too easy - a good sign toward the end of the week and I'm getting close to this week's exam, which will be an addi
+tion to my learning session tomorrow. (1 hr)
+- Followed up with Python exercises - included them in exercises.py (1 hr)
+
+30.10.25 (Day 22)
+- Started the day with my morning SQL routine - today the questions about JOIN and UNION seemed to be hard, but in the end I got a max score (1 hr)
+- Followed up with another Datalemur Interview task - Alibaba Compressed Mean - I had to use SUM and then put everything in a subquery, divide and round the results. The issue was the ROUND function returned an error related to value types, despite having correct syntax. It was frustrating and I tried different approaches, but eventually I checked it and found out that it happens in Postgres and you have to use ::NUMERIC suffix - here it was: SELECT ROUND(total_items::NUMERIC / total_orders, 1) AS mean FROM... (30 mins)
+- Finished another Python session with my agent - today's the last day before the weekly exam (40 mins)
+- Python exercises with for loop and strings - I've enjoyed these and managed to do a lot of things on my own - there were some little things that I had to loop up. e.g - isalpha() or isupper()/islower() methods, but I was able to properly create a valid logic before that (1.5 hr)
