@@ -175,12 +175,114 @@ Dla 11 funkcja zwróci True, natomiast dla 12 -> False.'''
 
 
 #Zadanie 2
-def find_the_lowest_number(numbers):
-    print(numbers)
-    ##Wrócimy do tego jutro, dzisiaj już nie myślę
+# def find_the_lowest_number(numbers):
+#     lowest = numbers[0]
+#     for i in numbers:
+#         if i < lowest:
+#             lowest = i
+#     print(f'The lowest number is {lowest}')    
+
+# input = (input("Podaj dowolną listę liczb całkowitych np. 12, 530, 1, 7: "))
+# numbers = [int(x.strip()) for x in input.split(',')]
+# find_the_lowest_number(numbers)
+
+#Zadanie3 
+#Sprawdzamy, czy dana liczba jest liczbą pierwszą
+# #Musiałem się wesprzeć tutaj Claude - bo moje rozwiązanie nie było poprawne matematycznie
+#Liczby pierwsze dzielą się tylko przez 1 i samą siebie i są większe od 2.
+#Najpierw bierzemy liczbę i sprawdzamy, czy jest mniejsza od 2 - na pewno nie jest pierwsza.
+#Dalej bierzemy sobie pętlę for na zakresie od 2 do danej liczby - jeśli znajdziemy, że dzieli się przez jakąkolwiek z liczb w zakresie no to z automatu nie jest liczbą pierwszą.
+
+#Nie jest to skomplikowane, ale wymaga znajomości podstaw matmy - u mnie ich aktualnie JESZCZE nie ma 
+
+# def check_the_number(number):
+#     if number < 2:
+#         print(f'{number} nie jest liczbą pierwszą')
+#         return False
     
+#     for i in range(2, number):
+#         if number % i == 0:
+#             print(f'{number} nie jest liczbą pierwszą (dzieli się przez {i})')
+#             return False
+        
+#     print(f'{number} to liczba pierwsza')
+#     return True
+
+# number = int(input('Podaj liczbę całkowitą (np. 5, 77, 120): '))
+# check_the_number(number)
+
+
+##Zadania ze stringami
+
+#Zadanie 1 - szuakmy palindroma
+# def check_palindroma(string):
+#     string = string.lower() #Dodane po tym, jak Madam mi odrzuciło jako nie palindrom
+#     pozycja = -1
+#     for x in range(0, len(string)):
+#         obecna_litera = string[x]
+#         if obecna_litera == string[pozycja]:
+#             pozycja-=1
+#             continue
+#         else:
+#             print(f'Litera {obecna_litera} z pozycji {x} w słowie {string} nie jest równa literze {string[pozycja]}. Słowo nie jest palindromem')
+#             return False
+
+#     print(f'Słowo {string} jest palindromem')
+#     return True
     
 
-numbers = []
-numbers.append(input("Podaj dowolną listę liczb całkowitych np. 12, 530, 1, 7: "))
-find_the_lowest_number(numbers)
+# string = str(input('Wpisz dowolne słowo: '))
+# check_palindroma(string)
+
+#Cieszę się, że to wykminiłem - niby nic super skomplikowaneog, ale jednak :))
+
+#Zadanie2 - Liczenie wielkich i małych liter w ciągu
+#W zasadzie bardzo proste zadanie, wystarczy znać metody isupper() i islower()
+
+# def counting_letters(string):
+#     lower_counter = 0
+#     upper_counter = 0
+    
+#     string.replace(" ", "")
+#     print(string)
+#     for i in string:
+#         if i.isupper():
+#             upper_counter+=1
+#         elif i.islower():
+#             lower_counter+=1    
+#     print(f"Zdanie {string} zawiera {lower_counter} małych i {upper_counter} wielkich liter.")
+
+    
+# string = str(input('Wpisz dowolne zdanie: '))
+# counting_letters(string)
+    
+    
+    
+#Zadanie 3
+#Szukamy anagramów - zdań, w których po przestawieniu liter otrzymamy drugie zdanie.
+
+# def check_anagramy(string1, string2):
+    
+#     letters1 = [char for char in string1 if char.isalpha()] #wcześniejsza iteracja działała przy słowach i niektórych zdaniach, ale gubiła się przy znakach interpunkcyjnych i innej ilości spacji
+#     letters2 = [char for char in string2 if char.isalpha()] #isalpha musiałem podejrzeć!
+    
+#     print(letters1, letters2)
+    
+#     if len(letters1) != len(letters2):
+#         print('Zdania nie są anagramami')
+#         return False
+#     for i in letters1:
+#         if i in letters2:
+#             letters2.remove(i)
+#         else:
+#             print(f'Nie ma już litery {i} w {letters2}. Zdanie nie jest anagramem')
+#             return False
+#     print(f'Zdania {string1} i {string2} są anagramami')
+        
+# #O KURDE, DZIAŁA XD
+# Działa, ale gubi się przy znakach interpunkcyjnych i innej ilości spacji
+    
+
+# string1 = str(input('Wpisz dowolne zdanie: ')).lower()
+# string2 = str(input('Wpisz drugie zdanie: ')).lower()
+# check_anagramy(string1, string2)
