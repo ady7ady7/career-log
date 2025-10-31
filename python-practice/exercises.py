@@ -286,3 +286,9 @@ Dla 11 funkcja zwróci True, natomiast dla 12 -> False.'''
 # string1 = str(input('Wpisz dowolne zdanie: ')).lower()
 # string2 = str(input('Wpisz drugie zdanie: ')).lower()
 # check_anagramy(string1, string2)
+
+x = 5
+y = 10
+x, y = y, x
+print(x, y)
+print(round(2.5))
