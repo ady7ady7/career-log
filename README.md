@@ -174,3 +174,6 @@ tion to my learning session tomorrow. (1 hr)
 - Followed up with another Datalemur Interview task - Alibaba Compressed Mean - I had to use SUM and then put everything in a subquery, divide and round the results. The issue was the ROUND function returned an error related to value types, despite having correct syntax. It was frustrating and I tried different approaches, but eventually I checked it and found out that it happens in Postgres and you have to use ::NUMERIC suffix - here it was: SELECT ROUND(total_items::NUMERIC / total_orders, 1) AS mean FROM... (30 mins)
 - Finished another Python session with my agent - today's the last day before the weekly exam (40 mins)
 - Python exercises with for loop and strings - I've enjoyed these and managed to do a lot of things on my own - there were some little things that I had to loop up. e.g - isalpha() or isupper()/islower() methods, but I was able to properly create a valid logic before that (1.5 hr)
+
+31.10.25 (Day 23)
+- Started the day with a long session with SQL - I've completed 2 additional modules on JOIN and types of JOIN + quite long exercises today - again with these JOINS I have a feeling of uncertainty when finishing and clicking "SUBMIT" and so it was today, but fortunately I got a max score again - NICE! (2 hr)
