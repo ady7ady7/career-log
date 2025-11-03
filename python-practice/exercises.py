@@ -1,3 +1,5 @@
+from sympy import symbols, Eq, solve
+
 #Tutaj akurat robię sobie zadania z kursu ML Mastery - ogólnie one są na Google Colab, ale...
 #tutaj jest wygodniej i szybciej, bo Colab momentami zamula + wygodniej na drugim monitorze mieć zadanie
 
@@ -287,8 +289,47 @@ Dla 11 funkcja zwróci True, natomiast dla 12 -> False.'''
 # string2 = str(input('Wpisz drugie zdanie: ')).lower()
 # check_anagramy(string1, string2)
 
-x = 5
-y = 10
-x, y = y, x
-print(x, y)
-print(round(2.5))
+# x = 5
+# y = 10
+# x, y = y, x
+# print(x, y)
+# print(round(2.5))
+
+
+
+#Zadania zabawa z mtetmatyki
+# n = int(input("Wpisz liczbę naturalną większą lub równą 1: "))
+
+# dzialanie: int = n ** 2 + (n + 1) ** 2 + (n + 2) ** 2
+
+# if dzialanie % 3 == 2:
+#     print(f'Twierdzenie jest poprawne. Wynik działania to {dzialanie}')
+# else:
+#     print('Twierdzenie to zwykłe pierdolenie')
+
+
+#Zadanie2
+
+# a = float(input('Podaj dowolną liczbę rzeczywistą: '))
+# b = float(input('Podaj dowolną liczbę rzeczywistą: '))
+
+# wyrazenie = (2 * a + b) ** 2 - (2 * a - b) ** 2
+
+# test1 = 8 * a ** 2
+# test2 = 8 * a * b
+# test3 = -8 * a * b
+# test4 = 2 * b ** 2
+
+# print(wyrazenie == test1)
+# print(wyrazenie == test2)
+# print(wyrazenie == test3)
+# print(wyrazenie == test4)
+
+
+#Zadanie 3
+
+
+x = symbols('x')
+rownanie = Eq(x ** 3 - 2 * x ** 2 - 3 * x + 6, 0)
+rozwiazanie = solve(rownanie, x)
+print(rozwiazanie)

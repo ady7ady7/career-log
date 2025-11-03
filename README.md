@@ -177,3 +177,9 @@ tion to my learning session tomorrow. (1 hr)
 
 31.10.25 (Day 23)
 - Started the day with a long session with SQL - I've completed 2 additional modules on JOIN and types of JOIN + quite long exercises today - again with these JOINS I have a feeling of uncertainty when finishing and clicking "SUBMIT" and so it was today, but fortunately I got a max score again - NICE! (2 hr)
+- Followed up with another Datalemur Interview task - CVS Health Pharmacy Analytics (P1) - it was a very easy task for me now - but I guess I'd struggle with it like 2-3 weeks ago (3 mins)
+- Finished the weekly Python exam with my teacher agent - it went very smoothly and I've got 96% out of it - corrected to 100% after pointing out that the question was ambiguous and I've also given a correct answer, as there were two correct answers (20 mins)
+
+3.11.25 (Day  24)
+- Started this week with a SQL test from the last week - got 13/15 points (pretty nice!)(15 mins)
+- Followed up with another weekly lesson of SQL - this week we will be focusing on CTE expressions in SQL - I paused the video a few times and took notes as always (1.5 hr)
