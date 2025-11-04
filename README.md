@@ -191,4 +191,5 @@ tion to my learning session tomorrow. (1 hr)
 4.11 (Day 25)
 - Started the day with another portion of SQL exercises from my course - practising CTE and doing great, got max score today. (1hr)
 - Followed up with another Datalemur exercise CVS Health Pharmacy P3 - I used CTE because it felt much cleaner, and it also worked perfectly. Had some issues with platform accepting my submission, even though it was certainly correct - I also noticed an issue with sorting concated values - finally used the name of the value from before using CONCAT and it worked well. (30 mins)
+- Completed a new Python session on challenge mode - it was much more demanding and challenging than yesterday, which is nice as I definitely learned something today (2 hr)
 
