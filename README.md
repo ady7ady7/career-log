@@ -193,3 +193,6 @@ tion to my learning session tomorrow. (1 hr)
 - Followed up with another Datalemur exercise CVS Health Pharmacy P3 - I used CTE because it felt much cleaner, and it also worked perfectly. Had some issues with platform accepting my submission, even though it was certainly correct - I also noticed an issue with sorting concated values - finally used the name of the value from before using CONCAT and it worked well. (30 mins)
 - Completed a new Python session on challenge mode - it was much more demanding and challenging than yesterday, which is nice as I definitely learned something today (2 hr)
 
+5.11 (Day 26)
+- Started the day with another session of SQL - with a quick guide and followed by a set of exercises - I've got most of them right with 1 error due to misunderstanding. I feel pretty strong in CTE and SQL overall, feeling like as I could probably pass a job interview in terms of SQL for sure. (1 hr)
+- I've done another Datalemur exercise - UnitedHealth Patient Support Analysis (Part 1) - it was easy with CTE and required a simple aggregation on aggregation. TODAY IS AN IMPORTANT DAY, AS AFTER 26 DAYS OF REGULAR EXERCISES, I'VE FINISHED ALL EASY DATALEMUR SQL TASKS. From now on, I will have to move on to Medium tasks - I'm very curious to see how difficult will they be. (5 mins)
