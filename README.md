@@ -202,3 +202,4 @@ tion to my learning session tomorrow. (1 hr)
 
 6.11.25 (Day 26)
 - Morning SQL update - I finished today's set of exercises with subqueries and CTE. (1 hr)
+- Followed with a first Medium Datalemur exercise - it wasn't that difficult but I had to look up using ROW_NUMBER OVER with PARTITION BY - I didn't use these functions yet and I'm definitely not feeling strong with these (15 mins)
