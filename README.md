@@ -199,3 +199,6 @@ tion to my learning session tomorrow. (1 hr)
 - Finished another day of Python exercises - still pracitcing loops, ranges and it was quite difficult, but definitely fruitful (1 hr)
 - Also created another weekly project for week2 of Python learning - it's a trade validator and analyzer - this time it was longer and I definitely practiced iterating over lists, dicts and using for loop. I had a few moments of struggle and I definitely have to work on my code step-by-step, similar to my SQL coding, as I have a tendency to write code until it's done. Anyway, not feeling super strong with loops and extracting data from different types of objects yet - will definitely have to practice as getting some values from dicts, appending them and updating is a bit difficult sometimes - ngl, I had to check a few things like that during creating the project (1.5 hr)
 - At some point I might also upload my weekly projects to this repo - they're nothing super fancy, for now they're just one-filers, without functions or classes, so nothing flashy, but tbh I feel this stage is very important
+
+6.11.25 (Day 26)
+- Morning SQL update - I finished today's set of exercises with subqueries and CTE. (1 hr)
