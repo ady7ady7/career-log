@@ -204,3 +204,7 @@ tion to my learning session tomorrow. (1 hr)
 - Morning SQL update - I finished today's set of exercises with subqueries and CTE. (1 hr)
 - Followed with a first Medium Datalemur exercise - it wasn't that difficult but I had to look up using ROW_NUMBER OVER with PARTITION BY - I didn't use these functions yet and I'm definitely not feeling strong with these (15 mins)
 - Completed another session of Python exercises - I've got a pretty good understanding of loops vs nested loops (and the performance issue they might cause), ranges and extracting values from lists, dicts etc. I still need some practice to properly extract values sometimes, but overall I feel progress. (1.5 hr)
+
+7.11.25 (Day 27)
+- Finished my SQL exercises with quite complex CTEs - I've had 2 errors there, got 6/8 points - I misunderstood one question, but it was quite weird honestly. My approach was logically correct from my POV, but anyway, normally I'd ask for clarification in such case (1.5 hr)
+- I've crushed another Datalemur medium exercise today - FAANG Second Highest Salary - not sure if they demanded a sophisticated solution, but I was able to get it with a simplest select, a simple alias, limit, and offset - so I simply used the opportunity (5 min)
