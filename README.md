@@ -216,3 +216,4 @@ tion to my learning session tomorrow. (1 hr)
 - Finished new weekly SQL lesson (number 6), which focused on dates, text operations, CASE WHEN (SQL equivalent of IF in Python). As always, it feels very useful and I've made notes. (1.5 hr)
 - Also finished today's set of exercises without problems and got 6/6 points, nice (30 mins)
 - Completed another medium Datalemur exercise - it required me to use a few CTEs and some aggregations + ROUND - it wasn't super difficult but took some time (30 mins), nice - especially that it's really COMPLEX compared to the things that I was able to do month ago.
+- I've finished another weekly Python lesson (#3), completed the exam from the previous week (got 91%, not bad!), and finished today's set of exercises (3 hr in total for everything)
