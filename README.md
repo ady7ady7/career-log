@@ -209,3 +209,10 @@ tion to my learning session tomorrow. (1 hr)
 - Finished my SQL exercises with quite complex CTEs - I've had 2 errors there, got 6/8 points - I misunderstood one question, but it was quite weird honestly. My approach was logically correct from my POV, but anyway, normally I'd ask for clarification in such case (1.5 hr)
 - I've crushed another Datalemur medium exercise today - FAANG Second Highest Salary - not sure if they demanded a sophisticated solution, but I was able to get it with a simplest select, a simple alias, limit, and offset - so I simply used the opportunity (5 min)
 - Finished another session of Python, concluding this week's learnings and I'm ready to take  the weekly exam (1.5 hr)
+
+
+10.11.25 (Day 28)
+- Started this week with a test from the previous week and got 8/8 points. It was smooth :)).
+- Finished new weekly SQL lesson (number 6), which focused on dates, text operations, CASE WHEN (SQL equivalent of IF in Python). As always, it feels very useful and I've made notes. (1.5 hr)
+- Also finished today's set of exercises without problems and got 6/6 points, nice (30 mins)
+- Completed another medium Datalemur exercise - it required me to use a few CTEs and some aggregations + ROUND - it wasn't super difficult but took some time (30 mins), nice - especially that it's really COMPLEX compared to the things that I was able to do month ago.
