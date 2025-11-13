@@ -229,3 +229,6 @@ tion to my learning session tomorrow. (1 hr)
 - Started my day with a standard set of SQL exercises - I had an issue with one task that seemed illogical to me - created a question about that particular task on the course board and I'm very interested to see the answer (1 hr)
 - I've done another Medium Datalemur exercise - Tiktok Signup Activation Rate - fortunately it only required concepts that I've learned so far - I had to use ::NUMERIC conversion in the final calculation, as there was a data type conflict (10 mins)
 - Went through all of the tasks from Python W3 D3 - yesterday's feedback was very helpful to plan proper tasks and after today I really GET NESTED COMPREHENSIONS AND EXTRACTING quite complex data from nested structures (lists of dicts) - IT FEELS GREAT! (1.5 hr)
+
+13.11.25 (Day 31)
+- I'm going for a trip today, but still managed to get the SQL exercises set done in the morning (1 hr)
