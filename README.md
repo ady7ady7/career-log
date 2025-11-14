@@ -232,3 +232,6 @@ tion to my learning session tomorrow. (1 hr)
 
 13.11.25 (Day 31)
 - I'm going for a trip today, but still managed to get the SQL exercises set done in the morning (1 hr)
+
+14.11.25 (Day 32)
+- Back from the trip, started with a classic set of SQL exercises to get max points (1.5 hr)
