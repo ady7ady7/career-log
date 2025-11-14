@@ -235,3 +235,4 @@ tion to my learning session tomorrow. (1 hr)
 
 14.11.25 (Day 32)
 - Back from the trip, started with a classic set of SQL exercises to get max points (1.5 hr)
+- Finished today's Python session - tbh, nested dict comprehensions are very challenging at this point and I need some scaffolding learnings to get them from the simplest examples to more complex - feeling totally dizzy now (1.5 hr)
