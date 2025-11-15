@@ -236,3 +236,6 @@ tion to my learning session tomorrow. (1 hr)
 14.11.25 (Day 32)
 - Back from the trip, started with a classic set of SQL exercises to get max points (1.5 hr)
 - Finished today's Python session - tbh, nested dict comprehensions are very challenging at this point and I need some scaffolding learnings to get them from the simplest examples to more complex - feeling totally dizzy now (1.5 hr)
+
+15.11.25 (Day 33, Saturday)
+- I had to make up for the lost Python day on Thursday (I was on a trip) - I really struggled with Python today, dict comprehensions ARE NOT UNDERSTANDABLE for me at this point - I am able to extract values but summing values from a list of dicts in a single dict is too difficult for me and I need more exercises in a scaffolding manner. Today's session was very frustrating and also there was an immense leap of difficulty between tasks 4 and 5 <extracting single values -> looping over and summing values from a big list of dicts, an actual mock_trades.csv file>. Tasks builded up on the previous ones, and since task 5 was absurdly difficult, I wasn't able to get tasks 6-7 done correctly as a consequence. (2 hr)
