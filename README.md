@@ -252,3 +252,6 @@ tion to my learning session tomorrow. (1 hr)
 - Finished weekly Python exam from week3 - I've got 88% and slightly exceeded the time limit (76/60 mins) but overall I feel quite confident with lists, tuples, nested comprehensions - I might need more practice with nested dicts, but it isn't terrible (1.5 hr)
 - Followed up with another Python lesson (Week4) - we're introducing functions and scope - obviously I've already knew these things, but I like how they're introduced here, after getting through all of the basics in a context WITHOUT FUNCTIONS, we're getting yo actually put them together in functions and it works great (1.5 hr)
 
+18.11.25 (Day 36)
+- Started the day with a set of SQL exercises - today it took quite long as WINDOW functions are definitely more demanding and require more thinking, checking etc. - I've managed to do both ADVANCED tasks correctly, but failed on two simpler ones (I overengineered them a bit) - got 5/7 points (+ 2/2 advanced tasks done) - not bad, but I definitely need more practice of WINDOW functions. The good thing is I'm probably able to complete all Datalemur tasks that I failed last week (as they required window functions) (2 hr)
+- Followed up with a Datalemur Medium task (Amazon Highest-Grossing Items) which I failed last week - it was easily doable now with the window functions (10 mins)
