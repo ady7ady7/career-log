@@ -261,3 +261,6 @@ tion to my learning session tomorrow. (1 hr)
 19.11.25 (Day 37)
 - Started with a set of SQL exercises - I managed to get through all of the tasks, including extra ADVANCED task - today there was also another extra, ULTRAADVANCED task - I wasn't able to do it yet, so I gave up after some time of trying and thinking. Besides, I got a 5/6 points + 1/1 extra for the advanced task. I lost a point in the standard tasks AS I'VE CALCULATED EVERYTHING FOR ORDERS, INSTEAD OF TRANSACTIONS (Yet everything was alright and when I switched the orders to transactions, I got the right solution right away) (1 hr)
 - Finished another day of Python tasks (W3 D3) - overall I feel like I already have a strong understanding of functions, function calls, scope and all that's related to these things + I'm getting a better sense of different errors and quickly fixing issues that caused me serious problems during the early days of my Python coding like 2-3 years ago (1hr 20mins)
+
+20.11.25 (Day 38)
+- Finished the set of SQL exercises with a perfect score (5/5) + 2/2 bonus points for both advanced task - NICE! (1 hr 20 mins)
