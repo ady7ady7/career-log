@@ -263,4 +263,5 @@ tion to my learning session tomorrow. (1 hr)
 - Finished another day of Python tasks (W3 D3) - overall I feel like I already have a strong understanding of functions, function calls, scope and all that's related to these things + I'm getting a better sense of different errors and quickly fixing issues that caused me serious problems during the early days of my Python coding like 2-3 years ago (1hr 20mins)
 
 20.11.25 (Day 38)
-- Finished the set of SQL exercises with a perfect score (5/5) + 2/2 bonus points for both advanced task - NICE! (1 hr 20 mins)
+- Finished the set of SQL exercises with a perfect score (5/5) + 2/2 bonus points for both extra tasks from the ADVANCED section - NICE! (1 hr 20 mins)
+- Finished another Datalemur Medium task that I wasn't able to complete last week (FAANG Top Three Salaries) - it wasn't difficult at all, I just needed to use GROUP BY to stick to the special ordering requirements in the final SELECT, so that ORDER BY wouldn't screw up the order. (15 mins)
