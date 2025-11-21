@@ -266,3 +266,7 @@ tion to my learning session tomorrow. (1 hr)
 - Finished the set of SQL exercises with a perfect score (5/5) + 2/2 bonus points for both extra tasks from the ADVANCED section - NICE! (1 hr 20 mins)
 - Finished another Datalemur Medium task that I wasn't able to complete last week (FAANG Top Three Salaries) - it wasn't difficult at all, I just needed to use GROUP BY to stick to the special ordering requirements in the final SELECT, so that ORDER BY wouldn't screw up the order. (15 mins)
 - Finished today's Python tasks - today it was a struggle - there were some bugs and errors I've made + I didn't really understand the concept of enclosing scope and I need more practice to get a grasp of these things (3 hrs) 
+
+21.11.25 (Day 39)
+- Started the day with a set of SQL exercises - got a 4/5 + 2/2 today - As for the missing point, my calculations were entirely correct, but I calculated a percent_change difference instead of just flat change and my answer was different because of that. So I took an extra effort to calculate something unnecessary to get a misleading result - but I'd normally assume people want % changes when looking at such things. (1 hr 10 mins)
+- Followed up with another Medium Datalemur task (Spotify Streaming History) - to be honest, it was weird, as even though I've properly combined all the user_ids and songs and cumulated_listens, the task requirements were weird and I struggled to get the REQUESTED output (30 mins)
