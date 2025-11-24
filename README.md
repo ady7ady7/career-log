@@ -274,3 +274,7 @@ tion to my learning session tomorrow. (1 hr)
 
 22.11.25 (Day 40, Saturday)
 - Extra session with Python closures tasks (outer - inner functions (enclosing scope) + nonlocal operator) - I decided to take an extra session focused on closures as it was definitely the most difficult topic for me this week and I want to build a deep and lasting comprehension throughout the learning process - feels like it paid off as I definitely get it now and can easily create basic working closures (1hr 40 mins)
+
+24.11.25 (Day 41)
+- Started the new week with a SQL test from the previous week - got 10/10 points (10 mins)
+- Completed Lesson 8 from the SQL course - as always, I made some pauses along the way and took notes. This week's lesson was mostly about code optimization, writing clear code, good practices, and creating views and aggregated tables. (1hr 20 mins)
