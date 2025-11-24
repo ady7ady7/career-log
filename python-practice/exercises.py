@@ -329,7 +329,10 @@ Dla 11 funkcja zwróci True, natomiast dla 12 -> False.'''
 #Zadanie 3
 
 
-x = symbols('x')
-rownanie = Eq(x ** 3 - 2 * x ** 2 - 3 * x + 6, 0)
-rozwiazanie = solve(rownanie, x)
-print(rozwiazanie)
+# x = symbols('x')
+# rownanie = Eq(x ** 3 - 2 * x ** 2 - 3 * x + 6, 0)
+# rozwiazanie = solve(rownanie, x)
+# print(rozwiazanie)
+
+
+
