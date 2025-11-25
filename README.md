@@ -281,3 +281,7 @@ tion to my learning session tomorrow. (1 hr)
 - Finished today's set of SQL exercises - I managed to do pretty well, got maximum points (1 hr)
 - Finished the weekly Python exam for week 4 - I managed to get a 93.3% score - feeling pretty good, especially considering the problems I had with closures - extra sessions paid off (40 mins)
 - Finished the first Python lesson this week + a set of exercises. I'm happy that we've started without pandas/numpy as I really had to get into the basic data types to understand everything so far, and now I can fully appreciate the advantages that transitioning into pandas/numpy gives us. I already see how helpful pandas library is and how easy we can deal with things that we had to previously spend some lines of code for - good stuff! (2 hr)
+
+25.11.25 (Day 42)
+- Started the day with a set of SQL exercises - got 9/10 points today as I've made a minor mistake in one query (1 hr)
+- Followed up with a Datalemur exercise that I couldn't finish earlier - today it was a struggle and even though I managed to get the work done, the final result was wrong and I eventually had to look up what was the issue. The game changer was using COALESCE and adding data limiting right away on our first LEFT JOIN - this way all users without queries in the specified period were instantly marked with 0 unique queries and we could finish the task fairly easy after that. (40 mins)
