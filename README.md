@@ -286,3 +286,7 @@ tion to my learning session tomorrow. (1 hr)
 - Started the day with a set of SQL exercises - got 9/10 points today as I've made a minor mistake in one query (1 hr)
 - Followed up with a Datalemur exercise that I couldn't finish earlier - today it was a struggle and even though I managed to get the work done, the final result was wrong and I eventually had to look up what was the issue. The game changer was using COALESCE and adding data limiting right away on our first LEFT JOIN - this way all users without queries in the specified period were instantly marked with 0 unique queries and we could finish the task fairly easy after that. (40 mins)
 - Python set of exercises - got 92.5% points today - pandas filtering is way more streamlined but I definitely need practice to remember all the methods (1 hr)
+
+26.11.25 (Day 43)
+- Completed a set of SQL exercises - got 13/14 pts as one question was ambiguous - today's set took more time and it contained quite complex aggregations and calculations, although I didn't have trouble finishing (2 hr)
+- Finished another Medium Datalemur task (Microsoft Supercloud Customer) - this one required some thinking and I finished it - my method wasn't the most efficient, but it worked (30 mins)
