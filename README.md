@@ -295,3 +295,4 @@ tion to my learning session tomorrow. (1 hr)
 
 27.11.25 (Day 44)
 - Finished my daily set of SQL exercises (1 hr)
+- Finished another set of Python exercises - definitely feeling that I need more practice with pd/np, and I've got introed to some new funcs today - pivot_table seems like a very useful tool, but also it needs some practice before I can intuitively assign column, values, index etc. Also, syntax is another issue as a lot of methods/functions seem unnatural to me at this point. I will definitely try to practice pandas and numpy daily to get used to these things. (1.5 hr)
