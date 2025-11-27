@@ -292,3 +292,6 @@ tion to my learning session tomorrow. (1 hr)
 - Finished another Medium Datalemur task (Microsoft Supercloud Customer) - this one required some thinking and I finished it - my method wasn't the most efficient, but it worked (30 mins)
 - Completed Day3 of Python Week4 - focused on Numpy - calculations, filtering + extracting arrays our of pandas Dataframes etc. Feeling pretty confident with the current tasks (50 mins)
 - Finished weekly project for this week - portfolio analyzer - used a mix of Pandas/Numpy functions - even though all of them were very basic pd/np functions, I DON'T YET FEEL COMFORTABLE WITH USING THESE and definitely have to practice syntax more, but I was able to do pretty good (87.3%) (3hr)
+
+27.11.25 (Day 44)
+- Finished my daily set of SQL exercises (1 hr)
