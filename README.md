@@ -312,3 +312,6 @@ tion to my learning session tomorrow. (1 hr)
 2.12.25 (Day 47)
 - Completed day2 from Dane są wszędzie Advent challenge - it wasn't very difficult, and I've also practiced LEFT JOIN in PBI using PowerQuery (clicked, not using any code in there tho) and it wasn't that difficult, especially that I understand the logic behind all of that -> anyway, it felt a lot more natural to implement everything and find the relevant answers using SQL in DBeaver (30 mins)
 - Evening Python update - completed Day 2 of Week 6, although honestly the tasks today were a bit repetitive and there was a weird error scenario - I wrote feedback to make sure this will not be an issue anymore as we proceed (1.5 hr)
+
+3.12.25 (Day 48)
+- Completed day3 from my Python Week6 - today's tasks took really long and there were some nonsensical ideas, but overall I've practiced more complex closures and it was valuable time (2.5 hr)
