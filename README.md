@@ -315,3 +315,4 @@ tion to my learning session tomorrow. (1 hr)
 
 3.12.25 (Day 48)
 - Completed day3 from my Python Week6 - today's tasks took really long and there were some nonsensical ideas, but overall I've practiced more complex closures and it was valuable time (2.5 hr)
+- Finished another daily challenge from Dane są wszędzie (used SQL for it), it wasn't super difficult, but I needed to confirm and check a few things before submitting the answers - this is fun and perhaps not as good of a replacement in terms of SQL difficulty, but I will be submitting these tasks as this is a great opportunity for me to see how SQL interacts with PBI or kinda coexists in PBI (as there are many similarities). (30 mins)
