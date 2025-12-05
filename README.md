@@ -326,3 +326,6 @@ tion to my learning session tomorrow. (1 hr)
 - Started my agentic SQL learning repository, as planned - also wrote a general overview in project's readme + added data schema and will work on it further so I can start testing it tomorrow. From now on, I will keep info about the project itself in its README file, unless it's something very important, and stick to the learning updates here (1 hr)
 - Passed Hackerrank basic Python certification - I tried again and made it (1 hr)
 - Finished today's Python lesson - it was a long one again, but I'm feeling better with my Python comprehension and learning little tricks here and there - I still need assistance in some places (mostly syntax-wise, as understanding is usually on point IMO), but a lot of the issues are handled without any hesitation (2 hr)
+
+5.12.25 (DAY 50!)
+- Started the day with the first learning session of SQL with my agent - it makes minor thinking issues, but the bidirectional feedback seems to work and the questions proposed by the agent REALLY ALLOWED ME to practice SQL - feeling satisfied about its performance and definitely going to follow that path with necessary feedback as we move forward (1.5 hr)
