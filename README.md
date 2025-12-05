@@ -329,3 +329,5 @@ tion to my learning session tomorrow. (1 hr)
 
 5.12.25 (DAY 50!)
 - Started the day with the first learning session of SQL with my agent - it makes minor thinking issues, but the bidirectional feedback seems to work and the questions proposed by the agent REALLY ALLOWED ME to practice SQL - feeling satisfied about its performance and definitely going to follow that path with necessary feedback as we move forward (1.5 hr)
+- Finished today's Python lesson (Week6 Day5) - feeling ready for this week's exam it was pretty nice and I've also had a few legacy tasks included - imo it's a good practice to actually always include 1 legacy tasks - otherwise I might forget some concepts in the long run and this is a GREAT way to reinforce them (1.5 hr)
+- I'm also thinking about including my Python agentic repo on my GitHub - it contains much more data than the SQL one though - definitely a lot more things to show for a recruitment, but on the other hand SQL repo alreeady shows the rule/method.
