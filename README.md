@@ -332,3 +332,5 @@ tion to my learning session tomorrow. (1 hr)
 - Finished today's Python lesson (Week6 Day5) - feeling ready for this week's exam it was pretty nice and I've also had a few legacy tasks included - imo it's a good practice to actually always include 1 legacy tasks - otherwise I might forget some concepts in the long run and this is a GREAT way to reinforce them (1.5 hr)
 - I'm also thinking about including my Python agentic repo on my GitHub - it contains much more data than the SQL one though - definitely a lot more things to show for a recruitment, but on the other hand SQL repo alreeady shows the rule/method.
 - Finished Day 5 of Dane są wszędzie Advent Challenge - today it took way longer and required me to use joins, window functions etc. - NICE, and today is really an SQL-rich day (1 hr)
+- Also finished Hackerrank Day2 of 30 Days of Code - the task was veery simple(5min)
+- Finished weekly project for Python - honestly I've done everything during this week's lessons, so it was as simple as combining everything + adding a csv export (20 mins)
