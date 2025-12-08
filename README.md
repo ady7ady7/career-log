@@ -337,3 +337,5 @@ tion to my learning session tomorrow. (1 hr)
 
 8.12.25 (Day 51)
 - Morning SQL learning session with my agent - relevant commit added there as well - today it was long and I've decided to cut the daily number of tasks a bit, since they're taking too long and IMO it's alright to spend 30-45 mins from now on on SQL to reinforce the concepts and learn something new and devote more time for more complex areas like Python & research (1h 30 min)
+- Finished Python weekly exam from week6 and got 94.5% score, although the exam was pretty easy and the only difficult thing for me was the bonus section (which I didn't know how to complete at all)(30 mins)
+- Completed the new Python lessosn and day1 tasks. This week we will be focusing on error handling, try-except block and different approaches to it and modules/imports. (1 hr)
