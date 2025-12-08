@@ -334,3 +334,6 @@ tion to my learning session tomorrow. (1 hr)
 - Finished Day 5 of Dane są wszędzie Advent Challenge - today it took way longer and required me to use joins, window functions etc. - NICE, and today is really an SQL-rich day (1 hr)
 - Also finished Hackerrank Day2 of 30 Days of Code - the task was veery simple(5min)
 - Finished weekly project for Python - honestly I've done everything during this week's lessons, so it was as simple as combining everything + adding a csv export (20 mins)
+
+8.12.25 (Day 51)
+- Morning SQL learning session with my agent - relevant commit added there as well - today it was long and I've decided to cut the daily number of tasks a bit, since they're taking too long and IMO it's alright to spend 30-45 mins from now on on SQL to reinforce the concepts and learn something new and devote more time for more complex areas like Python & research (1h 30 min)
