@@ -340,3 +340,6 @@ tion to my learning session tomorrow. (1 hr)
 - Finished Python weekly exam from week6 and got 94.5% score, although the exam was pretty easy and the only difficult thing for me was the bonus section (which I didn't know how to complete at all)(30 mins)
 - Completed the new Python lessosn and day1 tasks. This week we will be focusing on error handling, try-except block and different approaches to it and modules/imports. (1 hr)
 - Finihed Day 8 of Dane są wszędzie Advent Challenge - I also didn't report that but I've finished Days 6-7 over the weekend (30 min)
+
+9.12.25 (Day 52)
+- Agentic SQL learning session - I decided to switch to 3 tasks a day, considering that spending more time on SQL would be a bit of an overkill at this point. These 3 tasks a day (intermediate/advanced) will compound over time anyway and will surely get me past the advanced mark after some time. (40 mins)
