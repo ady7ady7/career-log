@@ -343,3 +343,5 @@ tion to my learning session tomorrow. (1 hr)
 
 9.12.25 (Day 52)
 - Agentic SQL learning session - I decided to switch to 3 tasks a day, considering that spending more time on SQL would be a bit of an overkill at this point. These 3 tasks a day (intermediate/advanced) will compound over time anyway and will surely get me past the advanced mark after some time. (40 mins)
+- Finished Day 9 of Dane są wszędzie Advent challenge - today it was easy and focused on reading an article and finding useful DAX shortcuts in the web (Ctrl + / was my choice, as it allows to comment/uncomment a line of code -> I also use it a lot in Python, and it's the same :)
+- Finished Day2 of Week 7 of Python - today the difficulty level was just on point and I've learned and reinforced some new concepts - focusing on try-except blocks structure (1 hr)
