@@ -348,3 +348,4 @@ tion to my learning session tomorrow. (1 hr)
 
 10.12.25 (Day 53)
 - Agentic SQL learnign session - today's task were pretty easy, but also useful to review concepts like NTILE, and PERCENTILE_CONT (which has quite unusual syntax for the window functions I know) (40 mins)
+- Finished Python W7 D3 - today's session was also very valuable and NOT THAT DIFFICULT. It's great to finally learn what __name__ == __main__ is for. I used that before with LLMs, but didn't understand the nature of it - that has now changed. (1 hr)
