@@ -360,3 +360,4 @@ tion to my learning session tomorrow. (1 hr)
 
 12.12.25 (Day 55)
 - Finished the last day of Week7 in Python - I've also written an extensive feedback as for future learnigns and my learning needs - I definitely need to revisit some basic topics and theory (when do we create new object vs when do we reference the old one + defaultdict (as I was tasked to use it now when all we practiced was a standard dictionary, etc.)) - I don't want to hurry up too much without proper understanding of the basics. Anyway, I feel like this journey is a great way to learn and that in a matter of a few months I will be on a pretty good level of Python understanding, provided that I will stick to the current regularity of learning (1.5 hr)
+- DWS Day 12 (30 mins) - focused on SQL queries today
