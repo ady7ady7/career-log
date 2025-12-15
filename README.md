@@ -361,3 +361,10 @@ tion to my learning session tomorrow. (1 hr)
 12.12.25 (Day 55)
 - Finished the last day of Week7 in Python - I've also written an extensive feedback as for future learnigns and my learning needs - I definitely need to revisit some basic topics and theory (when do we create new object vs when do we reference the old one + defaultdict (as I was tasked to use it now when all we practiced was a standard dictionary, etc.)) - I don't want to hurry up too much without proper understanding of the basics. Anyway, I feel like this journey is a great way to learn and that in a matter of a few months I will be on a pretty good level of Python understanding, provided that I will stick to the current regularity of learning (1.5 hr)
 - DWS Day 12 (30 mins) - focused on SQL queries today
+
+
+15.12.25 (Day 56)
+- Finished W1 D1 - agentic SQL learning session (40 mins)
+- Finished Python Week7 exam (30 mins)
+- Finished Day 15 of Dane są wszędzie Advent Challenge - today we had to download and test a very useful tool called DAX Studio - it cooperates with PBI/DB well and has a very interactive and intuitive drag & drop query builder + provides a smooth way to view model metadata + I did not make any weekend updates BUT I ALSO managed to get Days 13 + 14 during the weekend, not missing a single day (30 mins)
+- Finished Day1 of Week 8 - I really struggled with Task6, and since Task7 was based on entirely the same idea, I simply omitted it and prompted my agent to offer me some more instructions and scaffolding learning approach next time, so I can work this out. (1 hour)
