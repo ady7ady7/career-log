@@ -368,3 +368,7 @@ tion to my learning session tomorrow. (1 hr)
 - Finished Python Week7 exam (30 mins)
 - Finished Day 15 of Dane są wszędzie Advent Challenge - today we had to download and test a very useful tool called DAX Studio - it cooperates with PBI/DB well and has a very interactive and intuitive drag & drop query builder + provides a smooth way to view model metadata + I did not make any weekend updates BUT I ALSO managed to get Days 13 + 14 during the weekend, not missing a single day (30 mins)
 - Finished Day1 of Week 8 - I really struggled with Task6, and since Task7 was based on entirely the same idea, I simply omitted it and prompted my agent to offer me some more instructions and scaffolding learning approach next time, so I can work this out. (1 hour)
+
+16.12.25 (Day 57)
+- Finished W1 D2 - agentic SQL learning session (40 mins)
+- Finished Day2 of Week8 of my Python learnings - today I've reinforced defaultdict + some unpacking and understanding original vs copy (mutations/references) (1 hr)
