@@ -374,3 +374,6 @@ tion to my learning session tomorrow. (1 hr)
 - Finished Day2 of Week8 of my Python learnings - today I've reinforced defaultdict + some unpacking and understanding original vs copy (mutations/references) (1 hr)
 - Completed Day16 of Dane są wszędzie Advent Challenge (30 mins)
 - Finally updated my LinkedIn profile with all the relevant certificates, some most important info + added a shoutout to Kasia from Crappy Data for her amazing course :)) (1.5 hr)
+
+17.12.25 (Day 58)
+- Finished another daily session of Python agentic learning (Week8 Day3) - it was nice to remind myself pandas csv reading + iterating over rows, error handling + defaultdict. There are some methods/functions or syntax that I forget or confuse with others, as I don't use them too often, and we learn a lot of new concepts, so I sometimes have to check back with exercises or notes from the past, but everything is understandable, so even if I had an issue doing something, I can always work these things out. Reinforcing different concepts from the past lessons is definitely a great way to ground my knowledge. (1 hr)
