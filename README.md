@@ -379,3 +379,6 @@ tion to my learning session tomorrow. (1 hr)
 - Finished another daily session of Python agentic learning (Week8 Day3) - it was nice to remind myself pandas csv reading + iterating over rows, error handling + defaultdict. There are some methods/functions or syntax that I forget or confuse with others, as I don't use them too often, and we learn a lot of new concepts, so I sometimes have to check back with exercises or notes from the past, but everything is understandable, so even if I had an issue doing something, I can always work these things out. Reinforcing different concepts from the past lessons is definitely a great way to ground my knowledge. (1 hr)
 - Finished Day17 of Dane są wszędzie Advent Challenge - today we loaded Python visualizations into PBI - there were issues and complications with selecting proper Python environment + then I had to install dependencies, but everything worked in the end; there are 2 more days until the end and I didn't miss a single day so far! (30 mins)
 - Completed another daily SQL learning session with my agent (40 mins)
+
+18.12.25 (Day 59)
+- Finished daily Python session (Week8 Day4) - we're focusing on PCEP-related concepts and tasks, and the difficulty is alright, but still I had to give some feedback in terms of a task with if/elif/else task, as it was way too basic for this stage of learning (40 mins)
