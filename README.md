@@ -384,3 +384,6 @@ tion to my learning session tomorrow. (1 hr)
 - Finished daily Python session (Week8 Day4) - we're focusing on PCEP-related concepts and tasks, and the difficulty is alright, but still I had to give some feedback in terms of a task with if/elif/else task, as it was way too basic for this stage of learning (40 mins)
 - Completed Day 18 of DWS Advent Challenge (20 mins) 
 - Finished my daily session of agentic SQL learning - I'm doing pretty good, got a 10/10 score today without any issues - more details in sql_agentic_learning repo, which is currently handled by my agent, who authors all of the new commits (30 mins)
+
+19.12.25 (Day 60!)
+- Started the day with an SQL session with my agent, got a 9.7/10 score today (UNION ALL; CASE WHEN; INNER JOIN + CTEs and some basic WINDOW funcs) - as always, there's a detailed info in the commit made by my agent in sql_agentic_learning repository (30 mins) 
