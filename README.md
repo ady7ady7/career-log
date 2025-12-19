@@ -387,3 +387,4 @@ tion to my learning session tomorrow. (1 hr)
 
 19.12.25 (Day 60!)
 - Started the day with an SQL session with my agent, got a 9.7/10 score today (UNION ALL; CASE WHEN; INNER JOIN + CTEs and some basic WINDOW funcs) - as always, there's a detailed info in the commit made by my agent in sql_agentic_learning repository (30 mins) 
+- Completed the last session of this week's Python learnings - Week8 Day5 (1hr 20 mins)
