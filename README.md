@@ -392,3 +392,6 @@ tion to my learning session tomorrow. (1 hr)
 
 22.12.12 (Day 61)
 - Finished my daily SQL session with agent - 10/10 points, hoping to learn more advanced concepts as well; more dateiled log in my sql_agentic_learning repo as always (40 mins)
+- I've finished Python Week8 exam - got 95% score + 5/5 bonus points, it took 65 minutes today (1hr 5 mins).
+- I also decided to run mock PCEP exams throughout this whole week - I might skip some days, as it's Christmas week, and I'm definitely spending that time with my family and watching some good movies. Anyway, today it was lightning fast, but I've made some errors, and got a 87.5% score (35/40), but it's still a really good performance and I wish I could hit a 85%+ mark in a real PCEP exam, that would mean a really good level of PCEP concepts comprehension (15 mins)
+- As for the PCEP exam itself, I might take my first try before the year ends - I will see about that, as there are still some things that require time and need to be done before I apply for my dream job, and yet it also feels like obtaining that certificate would also be a great proof for my Python proficiency, as well a very vivid example for the effectiveness of my agentic learning sessions
