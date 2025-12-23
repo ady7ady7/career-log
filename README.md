@@ -390,8 +390,12 @@ tion to my learning session tomorrow. (1 hr)
 - Completed the last session of this week's Python learnings - Week8 Day5 (1hr 20 mins)
 - Completed the last day of Dane są wszędzie Advent Challenge (5 min) - today it was only a survey to share our thoughts about the challenge. Overall the challenge was a great opportunity to learn a few useful tools and methods (DAX Studio, creating PBI DAX measures etc.) in a form of micro-learnings and I'm glad I didn't miss a single day of the challenge
 
-22.12.12 (Day 61)
+22.12.25 (Day 61)
 - Finished my daily SQL session with agent - 10/10 points, hoping to learn more advanced concepts as well; more dateiled log in my sql_agentic_learning repo as always (40 mins)
 - I've finished Python Week8 exam - got 95% score + 5/5 bonus points, it took 65 minutes today (1hr 5 mins).
 - I also decided to run mock PCEP exams throughout this whole week - I might skip some days, as it's Christmas week, and I'm definitely spending that time with my family and watching some good movies. Anyway, today the PCEP mock exam was lightning fast - I've made some errors, and got a 87.5% score (35/40), but it's still a really good performance and I wish I could hit a 85%+ mark in a real PCEP exam. That would mean a really good level of PCEP concepts comprehension imo. (15 mins)
 - As for the PCEP exam itself, I might take my first try before the year ends - I will see about that, as there are still some things that require time and need to be done before I apply for my dream job, and yet it also feels like obtaining that certificate would also be a great proof of my Python proficiency, as well a very vivid example for the effectiveness of my agentic learning sessions
+
+23.12.25 (Day 62)
+- Finished another daily SQL session + added some valuable feedback about giving me the exact WINDOW functions to use - more details in sql_agentic_learning repo (40 mins)
+- Finished PCEP Mock exam 2 - today I've got 82.5% score and about 22 mins time, which is still a passing score, and a pretty good exam time, but it shows I still have some concepts to review - I've struggled with truthiness of empty elements, more complex for-else loops with or without break and their output + counting 0 as even number. It definitely feels like this week with mock exams it's a very important step to pass the actual exam (25 mins)
