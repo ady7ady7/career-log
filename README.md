@@ -398,4 +398,16 @@ tion to my learning session tomorrow. (1 hr)
 
 23.12.25 (Day 62)
 - Finished another daily SQL session + added some valuable feedback about giving me the exact WINDOW functions to use - more details in sql_agentic_learning repo (40 mins)
-- Finished PCEP Mock exam 2 - today I've got 82.5% score and about 22 mins time, which is still a passing score, and a pretty good exam time, but it shows I still have some concepts to review - I've struggled with truthiness of empty elements, more complex for-else loops with or without break and their output + counting 0 as even number. It definitely feels like this week with mock exams it's a very important step to pass the actual exam (25 mins)
+- Finished PCEP Mock exam 2 - today I've got 82.5% score and about 22 mins time, which is still a passing score, and a pretty good exam time, but it shows I still have some concepts to review - I've struggled with truthiness of empty elements, more complex for-else loops with or without break and their output + counting 0 as even number. Few things to remember today: 0 counts as EVEN; All empty elements are falsy in Python, and for...ELSE condition only runs if the loop completes WITHOUT BREAK. And small ints share identity (from -5 to 256; e.g. x = 5, y = 5; x is y (True)) It definitely feels like this week with mock exams it's a very important step to pass the actual exam (25 mins)
+
+29.12.25 (Day 63, after Christmas break)
+- Finished another daily SQL session - got 8.3/10 pts today, as I've made some logical errors - more info in sql_agentic_learning repo (40 mins)
+- Finished PCEP Mock exam 3, and got 82.5% score AGAIN - there is a lot of minor things that are tricky sometimes and constantly make me lose a point here or there - I'm trying to take notes and remember everything. 
+As for today:
+- list * x DUPLICATES THE LIST x times ([1, 2, 3] * 2 = [1, 2, 3, 1, 2 ,3]); 
+- Tuple concatenation UNPACKS a list if we add it to a tuple e.g. (1, 2, 3) + tuple([4, 5]) = (1, 2, 3, 4, 5). Also, tuples are obv immutable, but we can concatenate them with other objects.
+- Tuples are immutable, but the objcts INSIDE ARE MUTABLE e.g. tuple = ([1, 2], [3, 4]); tuple[0] = 7 (WE CAN'T DO THAT); BUT t[0].append(77) WORKS, and we get tuple = ([1, 2, 77], [3, 4])
+- pop returns the removed value if we wanted to print it - e.g. d = {'a': 1, 'b': 2}; result = d.pop('a') => 1
+- set operators = & intersection; | union; - difference, ^ symmetric diff (elements in either, but not both)
+
+- Proceeded right to PCEP Mock exam 4, as I'm planning to try to pass the PCEP exam tomorrow - GOT 87.5% score and there are still some minor things to work on, but overall I feel passing PCEP is in my range now, I will probably do one more mock exam tomorrow and proceed to the PCEP exam right after that
