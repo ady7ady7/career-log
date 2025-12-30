@@ -411,3 +411,9 @@ As for today:
 - set operators = & intersection; | union; - difference, ^ symmetric diff (elements in either, but not both)
 
 - Proceeded right to PCEP Mock exam 4, as I'm planning to try to pass the PCEP exam tomorrow - GOT 87.5% score and there are still some minor things to work on, but overall I feel passing PCEP is in my range now, I will probably do one more mock exam tomorrow and proceed to the PCEP exam right after that
+
+30.12.25 (Day 64)
+- Finished Mock Exam 5 - today it was INTENTIONALLY HARDER than real PCEP and I've got 79.5% score, which is probably really good. Almost all of the questions were REALLY tricky and the agent even made 2 errors in the answers, and I doubt real PCEP gets that hard. However, there are still some notes to be taken:
+- True/False in arithmetic contexts are 1/0 respectively, and I must be careful to distuinguish whether that's an arithmetic context or logical context (as I took x + y for x and y).
+
+- I've ATTEMPTED THE PCEP exam and PASSED IT with around 80% score - there were some things that I wasn't 100% sure about, but most of the things were clear and I managed to deal with the tasks with some extra time. Happy to conclude this 60+ days of regular Python agentic learning with a success, and I'm definitely going to push with this strategy forward towards other goals. As for the certificate, I'm still waiting for verification.
