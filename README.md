@@ -419,3 +419,9 @@ As for today:
 - Finished daily SQL session - as always, more detailed update in sql_agentic_learning repo (40 mins)
 
 - I've ATTEMPTED THE PCEP exam and PASSED IT with around 80% score - most of the tasks were easy and I was able to deal with them and finish with some extra time. Happy to conclude these 60+ days of regular Python agentic learning with a success, and I'm definitely going to push with this strategy forward towards other goals.
+
+
+2.01.26 (Day 65)
+- Returned after the New Year break - I'm currently focusing on choosing my next goals for Q1 2026 - checking different job offers and trying to figure out the most reasonable path to take now - PCAP is one of the alternatives, and by watching some mock questions, I could maybe tackle it even today with proper focus, but it would be wiser to prepare. In the end, I will have to focus on libraries and creating actual working projects that will showcase my skills. 
+
+- Finished daily SQL session - I struggled a lot with the first task and it was definitely a SENIOR level task - in the end I was able to complete it in 80%, and as for assigning unique ids and more advanced iterations that require more than just window functions, we need a more scaffolded approach and simpler tasks first. Anyway, that task alone took me lots of time and frustration. (2 hr)
