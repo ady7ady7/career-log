@@ -428,3 +428,5 @@ As for today:
 
 5.01.26 (Day 66)
 - Started the first day of my PCAP agentic learning - while I have some experience with this form of learning, this will definitely need some adjustments in the coming days/weeks, and today's session definitely needed some more extensive feedback and corrections on my part (2 hr)
+
+- Finished daily SQL session - Week 4 Day 1 - no surprises or major difficulties today, but nevertheless it was a good practice - as always, more details in sql_agentic_learning repo (30 mins)
