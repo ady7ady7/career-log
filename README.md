@@ -429,4 +429,10 @@ As for today:
 5.01.26 (Day 66)
 - Started the first day of my PCAP agentic learning - while I have some experience with this form of learning, this will definitely need some adjustments in the coming days/weeks, and today's session definitely needed some more extensive feedback and corrections on my part (2 hr)
 
-- Finished daily SQL session - Week 4 Day 1 - no surprises or major difficulties today, but nevertheless it was a good practice - as always, more details in sql_agentic_learning repo (30 mins)
+- Finished daily SQL session - Week 4 Day 1 - no surprises or major difficulties today, but nevertheless it was a good practice - as always, more details in sql_agentic_learning repo commit (30 mins)
+
+6.01.26 (Day 67)
+- Finished daily Python session - there still was a need to give extensive feedback as the agent demanded things that we haven't learned yet and I had to get some assist to complete 2 tasks. Today's session was difficult, but I'm hoping for the better for the next sessions (1h 40 min)
+- SQL W4 D2 - more details in sql_agentic_learning repo (20 mins)
+
+
