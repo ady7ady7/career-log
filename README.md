@@ -435,4 +435,8 @@ As for today:
 - Finished daily Python session - there still was a need to give extensive feedback as the agent demanded things that we haven't learned yet and I had to get some assist to complete 2 tasks. Today's session was difficult, but I'm hoping for the better for the next sessions (1h 40 min)
 - SQL W4 D2 - more details in sql_agentic_learning repo (20 mins)
 
+7.01.26 (Day 68)
+- Today's Python session was the best so far, with yesterday's feedback I was able to find all the necessary materials in lessons/ and the material wasn't TOO DIFFICULT (about 6/10 in difficulty scale, where 5/10 is perfect) - more info in python_pcap_agentic_learning repo commits (1hr 20 min) 
+- Finished SQL Week4 Day3 session - today's session was a bit more challenging, but not a big deal at all - more details in sql_agentic_learning repo commit from today (30 mins)
+
 
