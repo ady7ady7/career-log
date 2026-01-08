@@ -440,3 +440,6 @@ As for today:
 - Finished SQL Week4 Day3 session - today's session was a bit more challenging, but not a big deal at all - more details in sql_agentic_learning repo commit from today (30 mins)
 
 
+8.01.26 (Day 69)
+- Finished Python PCAP preparation - Week1 Day4 - it's getting better and the agent's giving me tasks that make sense, and also teach me something. Today's difficulty level was on point again. (1 hr)
+- Struggled with today's SQL session, as I've quickly discovered that none of the users in my db meet the requirements of the question and I've wanted to show that explicitly. After nearly 40 mins of trying, I simply decided it doesn't make sense and in real-life scenario I wouldn't do that anyway. After that it went quite smoothly, more details in the latest sql_agentic_learning repo commit (1hr 10 mins)
