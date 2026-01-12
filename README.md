@@ -447,3 +447,7 @@ As for today:
 9.01.26 (Day 70)
 - Finished another Python session (W1 D5) - today it was pretty satisfying and it feels like I'm learning a lot and reinforcing the concepts, slowly getting better and better. The session was rather long, but definitely not boring. More details in python_pcap_agentic_learning repo (last commit) (1.5 hr)
 - Finished the last weekly lesson W4 D5 - today it was long, as I've only got advanced tasks requiring multiple CTEs and awareness to handle properly. More details in sql_agentic_learning repo commit. (1hr 10 mins)
+
+12.01.26 (Day 71)
+- Started week 2 with Python - this time we're looking at inheritance and the concepts seem understandable, but they definitely need regular practice and refinement - more detailed summary in python_pcap_agentic_learning repo commit (1hr 10 min)
+- Also started week5 in SQL - practiced some text operations, window funcs - more details in sql_agentic_learnign repo commit (40 mins)
