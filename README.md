@@ -451,3 +451,7 @@ As for today:
 12.01.26 (Day 71)
 - Started week 2 with Python - this time we're looking at inheritance and the concepts seem understandable, but they definitely need regular practice and refinement - more detailed summary in python_pcap_agentic_learning repo commit (1hr 10 min)
 - Also started week5 in SQL - practiced some text operations, window funcs - more details in sql_agentic_learnign repo commit (40 mins)
+
+13.01.26 (Day 72)
+- Finished another daily session with Python - main focus today was inheritance and polimorphism - more in the latest commit in python_pcap_agentic_learning repo (1hr 30 mins)
+- Finished SQL W5 D2 - the tasks today were rather easy for me (20 mins)
