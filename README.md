@@ -455,3 +455,6 @@ As for today:
 13.01.26 (Day 72)
 - Finished another daily session with Python - main focus today was inheritance and polimorphism - more in the latest commit in python_pcap_agentic_learning repo (1hr 30 mins)
 - Finished SQL W5 D2 - the tasks today were rather easy for me (20 mins)
+
+14.01.26 (Day 73)
+- Python W2 D3 - today there were two absolutely weird tasks, and agent demanded me to create two overengineered files with classes that would only complicate my repo and wouldn't give any real value. I refused to do that and gave extensive feedback. Still practicing MRO/inheritance, and I'm hoping tomorrow the tasks will be much better - commit in python_pcap_agentic_learning repo (1 hr 20 mins)
