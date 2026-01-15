@@ -460,3 +460,5 @@ As for today:
 - Python W2 D3 - today there were two absolutely weird tasks, and agent demanded me to create two overengineered files with classes that would only complicate my repo and wouldn't give any real value. I refused to do that and gave extensive feedback. Still practicing MRO/inheritance, and I'm hoping tomorrow the tasks will be much better - commit in python_pcap_agentic_learning repo (1 hr 20 mins)
 - SQL W5 D3 - it didn't take too long today - summary in sql_agentic_learning repo commit (30 mins)
 
+15.01.26 (Day 74)
+- Python W2 D4 - I received one brick wall type task, which was simply way to difficult at this stage as I was missing fundamental knowledge about certain components. I consciously decided to skip it today, but I gave an extensive feedback, as in the learning process, I'm not aiming to struggle for 3-4 hours trying to figure out stuff and getting discouraged in the long run, but rather aiming for a 60-90 minute session EVERY DAY with high focus, small wins and gradual knowledge building through microlearnings - feedback given - besides that 1 task, the session was pretty fruitful (1 hr)
