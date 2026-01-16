@@ -464,3 +464,8 @@ As for today:
 - Python W2 D4 - I received one brick wall type task, which was simply way to difficult at this stage as I was missing fundamental knowledge about certain components. I consciously decided to skip it today, but I gave an extensive feedback, as in the learning process, I'm not aiming to struggle for 3-4 hours trying to figure out stuff and getting discouraged in the long run, but rather aiming for a 60-90 minute session EVERY DAY with high focus, small wins and gradual knowledge building through microlearnings - feedback given - besides that 1 task, the session was very valuable (1 hr)
 
 - SQL W5 D4 - today I got only difficult/advanced tasks - it was a very interesting and fruitful session, which took more time for obvious reasons - I learned PERCENT_RANK() window func today, which might be very handy in a lot of analytical scenarios + used multiple other window funcs - more detailed info about the session in sql_agentic_learning_repo commit, as per usual (1 hr)
+
+16.01.26 (Day 75)
+- SQL W5 D5 - finished quite fast today, feeling strong, and soon I will definitely want to approach the Advanced exam on Hackerrank for the first time (30 mins)
+
+- Python W2 D5 - today's session contained a lot of output prediction and theory, but I've enjoyed it and definitely reinforced some concepts + it's also in PCXP exam style - I'm also feeling ready for the weekend exams (40 mins)
