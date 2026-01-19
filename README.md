@@ -469,3 +469,9 @@ As for today:
 - SQL W5 D5 - finished quite fast today, feeling strong, and soon I will definitely want to approach the Advanced exam on Hackerrank for the first time (30 mins)
 
 - Python W2 D5 - today's session contained a lot of output prediction and theory, but I've enjoyed it and definitely reinforced some concepts + it's also in PCXP exam style - I'm also feeling ready for the weekend exams (40 mins)
+
+19.01.26 (Day 76)
+- Started with a few slides from Python Institute's course for the PCAP exam - today's focus was modules/packages imports - although I'm pretty familiar with the topic, I've noted a few important things (20 mins)
+- Finished Python week2 exams A + B (I finished A yesterday, but didn't commit it yet) - got 80% + 96.7% - today's learning from PyPI + feedback from yesterday's exam helped a lot. (40 mins)
+- Today's Python session was very long, but I didn't encounter any problems - it simply took some time as it was and we needed some mangling here and there, but I've handled all of the tasks, which is satisfying (2 hr)
+- W6 D1 in my SQL session today really packed a punch and took more time than usual sessions - we are introducing the RECURSIVE CTEs concept and I'm eager to learn it and will focus on that - summary of today's learning in sql_agentic_learning repo (1hr 10 mins)
