@@ -472,6 +472,11 @@ As for today:
 
 19.01.26 (Day 76)
 - Started with a few slides from Python Institute's course for the PCAP exam - today's focus was modules/packages imports - although I'm pretty familiar with the topic, I've noted a few important things (20 mins)
-- Finished Python week2 exams A + B (I finished A yesterday, but didn't commit it yet) - got 80% + 96.7% - today's learning from PyPI + feedback from yesterday's exam helped a lot. (40 mins)
+- Finished Python week2 exams A + B (I finished A yesterday, but didn't commit it yet) - got 80% + 96.7% - today's learning from PI + feedback from yesterday's exam helped a lot. (40 mins)
 - Today's Python session was very long, but I didn't encounter any problems - it simply took some time as it was and we needed some mangling here and there, but I've handled all of the tasks, which is satisfying (2 hr)
 - W6 D1 in my SQL session today really packed a punch and took more time than usual sessions - we are introducing the RECURSIVE CTEs concept and I'm eager to learn it and will focus on that - summary of today's learning in sql_agentic_learning repo (1hr 10 mins)
+
+20.01.26 (Day 77)
+- Morning session with Python Insitute's self-learning - today's focus was dir method + stdlibs - math, random. I obviously knew these, but it was a great reinforcement and I've learned choice + sample methods from random module, and took some notes (20  mins)
+- Another Python session (W3 D2) - very satisfying session, which was rather long, but I definitely feel that my class skills are getting a lot better and I can create new classes without hesitation. Also, it's way easier for me to deal with any issues, and in most cases I'm able to deal with any problem in under 2 minutes. Happy with the progress. (2 hr)
+- Today's SQL agentic learning session focused on learnign a new concept - recursive CTEs. I took some notes and updated my SQL course file, and it's very satisfying to learn the concept - I'm going to focus on it more and perhaps update my notes with more examples. (30 mins)
