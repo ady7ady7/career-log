@@ -480,3 +480,10 @@ As for today:
 - Morning session with Python Insitute's self-learning - today's focus was dir method + stdlibs - math, random. I obviously knew these, but it was a great reinforcement and I've learned choice + sample methods from random module, and took some notes (20  mins)
 - Another Python session (W3 D2) - very satisfying session, which was rather long, but I definitely feel that my class skills are getting a lot better and I can create new classes without hesitation. Also, it's way easier for me to deal with any issues, and in most cases I'm able to deal with any problem in under 2 minutes. Happy with the progress. (2 hr)
 - Today's SQL agentic learning session focused on learnign a new concept - recursive CTEs. I took some notes and updated my SQL course file, and it's very satisfying to learn the concept - I'm going to focus on it more and perhaps update my notes with more examples. (30 mins)
+- PBI project research, analysing different ideas, checking the sources, planning (30 mins)
+
+21.01.26 (Day 78)
+- Morning learning session with Python Institute's course - I took some notes on the platform stdlib, and decided to create a general file for stdlibs, that I might add more notes to in the future (20 mins)
+- Python W3 D3 - today's session was pretty smooth, perfect in terms of difficulty - inheritance is still sometimes tricky with some questions, so I decided to focus more on it this week (1hr 20 mins)
+- SQL session today focused on RECURSIVE CTE, but the leap in the tasks was too big, and I had to readjust the difficulty level. Recursive CTEs are completely unintuitive at this point, and I need to approach them with a scaffolding approach, increasing difficulty with a proper pace. Anyway, I'm sure they will be clear after some time(1 hr)
+
