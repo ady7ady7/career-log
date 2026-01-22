@@ -487,3 +487,7 @@ As for today:
 - Python W3 D3 - today's session was pretty smooth, perfect in terms of difficulty - inheritance is still sometimes tricky with some questions, so I decided to focus more on it this week (1hr 20 mins)
 - SQL session today focused on RECURSIVE CTE, but the leap in the tasks was too big, and I had to readjust the difficulty level. Recursive CTEs are completely unintuitive at this point, and I need to approach them with a scaffolding approach, increasing difficulty with a proper pace. Anyway, I'm sure they will be clear after some time(1 hr)
 
+22.01.26 (Day 79)
+- Morning learning session - Python Institute course - today we began learning modules/packages + how they can be imported and executed - notes taken (40 mins)
+- Afternoon SQL session - W6 D4 - continuing the RECURSIVE CTE exercises (30 mins)
+- Python W3 D4 - today's session was a bit frustrating, as I've got multiple examples of a 'generator' with yield, but we haven't even encountered that before or had any materials regarding that topic. I had to skip a few tasks and I gave feedback about it, but I might do an extra session on Saturday to make up for it (1 hr)
