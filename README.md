@@ -491,3 +491,8 @@ As for today:
 - Morning learning session - Python Institute course - today we began learning modules/packages + how they can be imported and executed - notes taken (40 mins)
 - Afternoon SQL session - W6 D4 - continuing the RECURSIVE CTE exercises (30 mins)
 - Python W3 D4 - today's session was a bit frustrating, as I've got multiple examples of a 'generator' with yield, but we haven't even encountered that before or had any materials regarding that topic. I had to skip a few tasks and I gave feedback about it, but I might do an extra session on Saturday to make up for it (1 hr)
+
+23.01.26 (Day 80)
+- Started with another Python session - W3 D5 - today's session was alright and we focused on generators (1 hr)
+- Completed daily SQL session - W6 D5 - recap in sql_agentic_learning repo commit, as usual (30 mins)
+- Continuation of Python Institute's course learning (30 mins)
