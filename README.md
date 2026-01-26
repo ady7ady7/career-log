@@ -496,3 +496,7 @@ As for today:
 - Started with another Python session - W3 D5 - today's session was alright and we focused on generators (1 hr)
 - Completed daily SQL session - W6 D5 - recap in sql_agentic_learning repo commit, as usual (30 mins)
 - Continuation of Python Institute's course learning (30 mins)
+
+26.01.26 (Day 81)
+- I've started a new week of my Python agentic learnings - this week we're starting with refreshing lambda + map + filter - it seems that I already understand these concepts and use them easily - got a 98% daily score as well for today's tasks (1.5 hr)
+- Followed up with another SQL session - W7 D1 - I'm still focusing on recursive CTEs and will most likely add some more complexity this week (30 min)
