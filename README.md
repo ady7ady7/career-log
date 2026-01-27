@@ -500,3 +500,8 @@ As for today:
 26.01.26 (Day 81)
 - I've started a new week of my Python agentic learnings - this week we're starting with refreshing lambda + map + filter - it seems that I already understand these concepts and use them easily - got a 98% daily score as well for today's tasks (1.5 hr)
 - Followed up with another SQL session - W7 D1 - I'm still focusing on recursive CTEs and will most likely add some more complexity this week (30 min)
+
+27.01.26 (Day 82)
+- Finished Module 1 of Python's Institute PCAP course - I took the quiz + test and got 80% (8/10) + 83% (15/18) scores (45 min)
+- Python W4 D2 - closures - today's session was rather quick - 90% - more details in python_agentic_learning repo (50 min)
+- SQL agentic learning - W7 D2 - I've clearly mastered basic recurisve CTE structure - got 100% and I'm truly feeling like we need to increase complexity - moving forward to more advanced tasks tomorrow - Hard level from Hackerrank (20 mins)
