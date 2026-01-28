@@ -505,3 +505,8 @@ As for today:
 - Finished Module 1 of Python's Institute PCAP course - I took the quiz + test and got 80% (8/10) + 83% (15/18) scores (45 min)
 - Python W4 D2 - closures - today's session was rather quick - 90% - more details in python_agentic_learning repo (50 min)
 - SQL agentic learning - W7 D2 - I've clearly mastered basic recurisve CTE structure - got 100% and I'm truly feeling like we need to increase complexity - moving forward to more advanced tasks tomorrow - Hard level from Hackerrank (20 mins)
+
+28.01.26 (Day 83)
+- Morning agentic Python learning session - introduced reduce + decorators today - it's mingling with other things, but I'm hoping to master all of it with time (89%) - more details in python_agentic_learning repo (1 hr)
+- Followed up with another SQL session - details in sql_agentlic_learning repo (40 min)
+- Followed up with Edube Python course - strings + quiz + test from Module 1 (40 min)
