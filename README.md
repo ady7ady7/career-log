@@ -510,3 +510,8 @@ As for today:
 - Morning agentic Python learning session - introduced reduce + decorators today - it's mingling with other things, but I'm hoping to master all of it with time (89%) - more details in python_agentic_learning repo (1 hr)
 - Followed up with another SQL session - details in sql_agentlic_learning repo (40 min)
 - Followed up with Edube Python course - strings + quiz + test from Module 1 (40 min)
+
+29.01.26 (Day 84)
+- Started the day with another Python session - map, filter, reduce + decorators were the main focus today, although honestly I'd prefer to use list comprehensions in most cases. (1 hr 20 min)
+- Followed up with a SQL session - mix of recursive CTE + window funcs - more details in latest commit in sql_agentic_learning repo (30 min)
+- Continued towards the end of the whole string section on Edube Python course (20 mins)
