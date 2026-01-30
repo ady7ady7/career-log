@@ -515,3 +515,7 @@ As for today:
 - Started the day with another Python session - map, filter, reduce + decorators were the main focus today, although honestly I'd prefer to use list comprehensions in most cases. (1 hr 20 min)
 - Followed up with a SQL session - mix of recursive CTE + window funcs - more details in latest commit in sql_agentic_learning repo (30 min)
 - Continued towards the end of the whole string section on Edube Python course (20 mins)
+
+30.01.26 (Day 85)
+- Python W4 D5 - today's session was pretty difficult, but I managed to deal with the tasks - still map/reduce functions with lambda seem to be tricky and I definitely need more time to practice them if I want to use them regularly instead of comprehensions/ternary expressions (1 hr 30 min)
+- Completed another SQL session - summary in sql_agentic_learning repo (40 min)
