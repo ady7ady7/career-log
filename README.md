@@ -519,3 +519,10 @@ As for today:
 30.01.26 (Day 85)
 - Python W4 D5 - today's session was pretty difficult, but I managed to deal with the tasks - still map/reduce functions with lambda seem to be tricky and I definitely need more time to practice them if I want to use them regularly instead of comprehensions/ternary expressions (1 hr 30 min)
 - Completed another SQL session - summary in sql_agentic_learning repo (40 min)
+
+2.02.26 (Day 86)
+- Started a new week in Python - currently looking at datetime + revising FileI/O - writing/reading etc. I've known these concepts, but they're very important and it makes a lot of sense to practice them more. More details about today's session in pcap_python_agentic_learning repo commit (2 hr)
+
+- Finished W5 D1 in my SQL agentic learning workflow - I struggled a lot today as we begin to learn hierarchies with recursive CTEs, but I managed to get level 2 hierachy today - this pattern definitely needs a lot more practice to use comfortably (1 hr)
+
+- Finished another chunk of Edube learning - I've done two string exercises - the latter was really tough and I struggled with it a lot (1 hr)
