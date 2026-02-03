@@ -526,3 +526,8 @@ As for today:
 - Finished W5 D1 in my SQL agentic learning workflow - I struggled a lot today as we begin to learn hierarchies with recursive CTEs, but I managed to get level 2 hierachy today - this pattern definitely needs a lot more practice to use comfortably (1 hr)
 
 - Finished another chunk of Edube learning - I've done two string exercises - the latter was really tough and I struggled with it a lot (1 hr)
+
+3.02.26 (Day 87)
+- Another Python session focusing on datetime + fileI/O and revising some concepts from the past - after yesterday's feedback today it was a very long practice session (2.5 hr)
+- W5 D2 in my SQL agentic learning - level 2 hierarchies on real data are getting easier, nice! (30 min)
+- Followed up with Edube learning - I've seen a few examples of string manipulation cyphers/validations/algorithms. I might do a Casesar cipher improvement lab tomorrow. (30 min)
