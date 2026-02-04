@@ -531,3 +531,8 @@ As for today:
 - Another Python session focusing on datetime + fileI/O and revising some concepts from the past - after yesterday's feedback today it was a very long practice session (2.5 hr)
 - W5 D2 in my SQL agentic learning - level 2 hierarchies on real data are getting easier, nice! (30 min)
 - Followed up with Edube learning - I've seen a few examples of string manipulation cyphers/validations/algorithms. I might do a Casesar cipher improvement lab tomorrow. (30 min)
+
+4.02.26 (Day 88)
+- Finished Python W5 D3 - rather intense, but satisfying session with a new major component added to my project repo - BacktestEngine. (2 hr)
+- SQL W8 D3 - I struggled a lot today with level 3 hierarchies - it's definitely a topic that needs some time and bit by bit approach (1 hr)
+- Followed up with triple Edube labs, and I've created an improved Caesar Cipher function, a palindrome checker and an anagram checker - they were all easy or relatively easy and I'm feeling very confident with such things at this point (40 min)
