@@ -536,3 +536,8 @@ As for today:
 - Finished Python W5 D3 - rather intense, but satisfying session with a new major component added to my project repo - BacktestEngine. (2 hr)
 - SQL W8 D3 - I struggled a lot today with level 3 hierarchies - it's definitely a topic that needs some time and bit by bit approach (1 hr)
 - Followed up with triple Edube labs, and I've created an improved Caesar Cipher function, a palindrome checker and an anagram checker - they were all easy or relatively easy and I'm feeling very confident with such things at this point (40 min)
+
+5.02.26 (Day 89)
+- Python W5 D4 - today's session was rather short, but still a good reinforcement of the concepts we've learned recently (45 mins)
+- SQL W8 D4 - another session of SQL agentic learning - more details in sql_agentic_learning repo (30 mins)
+- Edube - 2 lab exercises focusing on strings completed today - calculating a digit of life + checking if two strings contain the same set of letters (if string2 contains letters that would allow to create string1). These exercsises were not difficult at all. (30 mins) 
