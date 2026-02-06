@@ -541,3 +541,7 @@ As for today:
 - Python W5 D4 - today's session was rather short, but still a good reinforcement of the concepts we've learned recently (45 mins)
 - SQL W8 D4 - another session of SQL agentic learning - more details in sql_agentic_learning repo (30 mins)
 - Edube - 2 lab exercises focusing on strings completed today - calculating a digit of life + checking if two strings contain the same set of letters (if string2 contains letters that would allow to create string1). These exercsises were not difficult at all. (30 mins) 
+
+6.02.26 (Day 90!) - It's been 18 weeks (as weekends are for rest) since I've started this journey and never skipped a day.
+- Python W5 D5 - I keep getting better, yet more complex decorators are still confusing and I definitely need to work them out and do at least one decorator exercise next week - that's what I also asked my agent for. Besides, it's been a perfect session with balanced difficulty, more details in python_pcap_agentic_learning commit. (70 mins)
+- SQL W8 D5 - Hierarchical CTEs are getting clearer with each day, and I will definitely do at least one RECURSIVE CTE/HIERARCHICAL CTE task every day, as for the rest, I need more advanced CTE tasks, as most of them are trivial at this point and don't rquire any thinking, I just type and 'klepanie' is not what I'm looking for (30 mins)
