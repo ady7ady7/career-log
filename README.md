@@ -559,3 +559,4 @@ As for today:
 - Began with Crappy Data Python course tasks - it was literally 2-minute work related to very basic concepts 
 - Finished daily Python session - W6 D2 - more information in python_pcap_agentic_learning repo (1 hr)
 - Finished SQL W9 D2 - I managed to deal with level 3 hierarchy + did 2 more advanced/complex tasks requiring multiple window funcs/CTEs - today's session took more than it usually does (1 hr)
+- Finished Module 2 on Edube platform (Strings + Exceptions) - I also finished Exception lab task + Module 2 Quiz (90%) and Test (93%) (1 hr)
