@@ -554,3 +554,8 @@ As for today:
 - Agentic Python W6 D1 - this week we're focusing on generators + iterators (iterable/iterator/generator) - I've read all the materials for this week (40 mins)
 - Finished today's Python tasks from my agentic flow - it was difficult today and I definitely need to practice more - got about 80% score today - not the best (60 mins)
 - Finished today's SQL session - it was fun and I really enjoyed the tasks today - I've had two more advanced CTE tasks with window funcs, so I could practice these - they were not a big problem at all, just needed some time (40 mins)
+
+10.02.26 (Day 92)
+- Began with Crappy Data Python course tasks - it was literally 2-minute work related to very basic concepts 
+- Finished daily Python session - W6 D2 - more information in python_pcap_agentic_learning repo (1 hr)
+- Finished SQL W9 D2 - I managed to deal with level 3 hierarchy + did 2 more advanced/complex tasks requiring multiple window funcs/CTEs - today's session took more than it usually does (1 hr)
