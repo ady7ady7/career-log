@@ -560,3 +560,8 @@ As for today:
 - Finished daily Python session - W6 D2 - more information in python_pcap_agentic_learning repo (1 hr)
 - Finished SQL W9 D2 - I managed to deal with level 3 hierarchy + did 2 more advanced/complex tasks requiring multiple window funcs/CTEs - today's session took more than it usually does (1 hr)
 - Finished Module 2 on Edube platform (Strings + Exceptions) - I also finished Exception lab task + Module 2 Quiz (90%) and Test (93%) (1 hr)
+
+11.02.26 (Day 93)
+- Finished another session in Python - W6 D3 - more info in python_pcap_agentic_learning repo. I'm understanding generators more with every task (1 hr 20 mins)
+- Finished SQL W9 D3 - today it was a very interesting and rather long & intense session, starting with a level 3 hierarchy + real data, which required thinking and took some time but it was satisfying to finish. On top of that I also did 2 more advanced tasks (revenue anomaly detection + cross-category buyers) - more information in sql_agentic_learnign repo. I'm feeling very confident with SQL and I'm very positive about any technical interviews. Definitely making progress! (1 hr)
+- Finished section 1 from Module 3 on Edube Platform (OOP Basics - Classes + Inhereritance) and first lab section (1 hr 30 min)
