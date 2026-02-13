@@ -565,3 +565,15 @@ As for today:
 - Finished another session in Python - W6 D3 - more info in python_pcap_agentic_learning repo. I'm understanding generators more with every task (1 hr 20 mins)
 - Finished SQL W9 D3 - today it was a very interesting and rather long & intense session, starting with a level 3 hierarchy + real data, which required thinking and took some time but it was satisfying to finish. On top of that I also did 2 more advanced tasks (revenue anomaly detection + cross-category buyers) - more information in sql_agentic_learnign repo. I'm feeling very confident with SQL and I'm very positive about any technical interviews. Definitely making progress! (1 hr)
 - Finished section 1 from Module 3 on Edube Platform (OOP Basics - Classes + Inhereritance) and first lab section (1 hr 30 min)
+- Completed another daily exercise from Crappy Data Python course (1 min)
+
+12.02.26 (Day 94)
+- Started the day with daily tasks from Crappy Data Python for Data Analysis - they are trivial at this point of the course (2 min)
+- Finished daily Python session - W6 D4 - I encountered a serious problem and ran out of my limits AT THE BEGINNING, so I couldn't really generate the tasks/assess/update the repo properly - had to use web model to generate the tasks for today based on the recent tasks and my requirements - I will update the agent tomorrow, but I did the tasks and commit, pretty happy with the results, although the session was pretty rough (1hr 30 min)
+- Same issue for SQL, but I dealt with it simply doing 3 random tasks chosen from random pages of my task archive (which contains the last 4 months of tasks). I rolled some intermediate tasks, which were very easy at this point (20 mins)
+
+13.02.26 (Day 95)
+- Started the day with daily Crappy Data Python task - tasks are getting progressively more difficult, although they're still easy. According to Kasia, it is going to change in the upcoming weeks and I'm looking forward to it. (2 min)
+- Python W6 D5 - I've literally finished today's tasks and hit the limit (45 mins)
+- Edube learning Module 3 - Classes - continuation + encapsulation / class attributes vs instance attributes (40 min)
+- SQL W9 D5 - more details in sql_agentic_learning repo (50 min)
