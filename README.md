@@ -577,3 +577,10 @@ As for today:
 - Python W6 D5 - I've literally finished today's tasks and hit the limit (45 mins)
 - Edube learning Module 3 - Classes - continuation + encapsulation / class attributes vs instance attributes (40 min)
 - SQL W9 D5 - more details in sql_agentic_learning repo (50 min)
+
+16.02.26 (Day 96)
+- Started this week with CD Python test from the last week, got 8/8 points (10 min)
+- Completed Lesson 2 from CD Python for Data Analysis course - these are concepts I know very well and I'm in full sync, but anyway I listen actively and take at least some notes to ground my knowledge even more. (1 hr)
+- Started Week7 in my agentic Python learning workflow - focusing on logging stdlib, but today's session was a total miss imo, it felt very confusing so I've implemented a suitable feedback, hoping that tomorrow it will be much better. (1 hr)
+- Today's SQL session was rather long and demanding, but I managed to finish and do every task (1 hr 20 min)
+- Edube Python learning session - Module 3 - Classes/inheritance (30 min)
