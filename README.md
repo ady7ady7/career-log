@@ -584,3 +584,9 @@ As for today:
 - Started Week7 in my agentic Python learning workflow - focusing on logging stdlib, but today's session was a total miss imo, it felt very confusing so I've implemented a suitable feedback, hoping that tomorrow it will be much better. (1 hr)
 - Today's SQL session was rather long and demanding, but I managed to finish and do every task (1 hr 20 min)
 - Edube Python learning session - Module 3 - Classes/inheritance (30 min)
+
+17.02.26 (Day 97)
+- Crappy Data's Python course is getting a bit more interesting, but still the asks are relatively easy. (5 min)
+- Today's Python session on logging was properly scaffolded and introduced the logging stdlib in a proper way - I enjoyed it, really learned the basics of the concept and did a few tasks - pretty productive and satisfying session (1 hr)
+- SQL session on the other hand was very difficult - more in sql_agentic_learning repo commit, but I did a recursive CTE hierarchy + user session streaks task with gaps and islands + a classic category revenue ranking with mom changes which was really easy for me at the current level of SQL proficiency (1hr 30 min)
+- Finished the day with another session of Edube labs with 3 different tasks - I had to calcualte the hypotenuse of a triangle, and calculate the perimeter of a triangle based on 3 coordinates (x, y). It was fun and challenging and I had to Google some things, as Edube suggested, but I managed to do it and didn't use LLMs :)). (1hr)
