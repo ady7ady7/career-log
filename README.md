@@ -590,3 +590,9 @@ As for today:
 - Today's Python session on logging was properly scaffolded and introduced the logging stdlib in a proper way - I enjoyed it, really learned the basics of the concept and did a few tasks - pretty productive and satisfying session (1 hr)
 - SQL session on the other hand was very difficult - more in sql_agentic_learning repo commit, but I did a recursive CTE hierarchy + user session streaks task with gaps and islands + a classic category revenue ranking with mom changes which was really easy for me at the current level of SQL proficiency (1hr 30 min)
 - Finished the day with another session of Edube labs with 3 different tasks - I had to calcualte the hypotenuse of a triangle, and calculate the perimeter of a triangle based on 3 coordinates (x, y). It was fun and challenging and I had to Google some things, as Edube suggested, but I managed to do it and didn't use LLMs :)). (1hr)
+
+18.02.26 (Day 98)
+- Started the day with CD Python tasks - they are easy at this point but a nice refresher of basics at the same time (5 min)
+- Python W7 D3 - logging continued + classes reference to Edube's introspection/reflection (50 min)
+- SQL W10 D3 - level 3 hierarchy recursive CTE + longest consecutive session streak for each user with gaps + rolling 7d revenue calculated - all of these tasks are manageable and done without major problems along the way. Very satisfying sessios, more details in sql_agentic_learning repo, as per usual (40 min)
+- Edube Python continuation - Classes -> inheritance (30 min)
