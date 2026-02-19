@@ -596,3 +596,9 @@ As for today:
 - Python W7 D3 - logging continued + classes reference to Edube's introspection/reflection (50 min)
 - SQL W10 D3 - level 3 hierarchy recursive CTE + longest consecutive session streak for each user with gaps + rolling 7d revenue calculated - all of these tasks are manageable and done without major problems along the way. Very satisfying sessios, more details in sql_agentic_learning repo, as per usual (40 min)
 - Edube Python continuation - Classes -> inheritance (30 min)
+
+19.02.26 (Day 99)
+- CD Python tasks (5 min)
+- Python W7 D4 - a very satisfying session with logging + some general PCAP review, more info in python_pcap_agentic_learning (1 hr)
+- SQL W10 D4 - another great session, feeling really strong with SQL now and I should be able to pass the Advanced certification at this point in most scenarios (45 min)
+- Edube PCAP Python course continuation - Finished module 3 - inheritance + polymorphism + exceptions, wrapped it up with Quiz (got 90%) and the Module 3 Test (94%). Since I've already grinded a lot of exercises regarding these concepts, it is a nice refresher - could've been a bit rough without regular exercises though. The exam is getting closer, and there's only 1 module left, so I might be able to finish by the end of February, just as initially planned (1 hr 20 min)
