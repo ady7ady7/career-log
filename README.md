@@ -602,3 +602,11 @@ As for today:
 - Python W7 D4 - a very satisfying session with logging + some general PCAP review, more info in python_pcap_agentic_learning (1 hr)
 - SQL W10 D4 - another great session, feeling really strong with SQL now and I should be able to pass the Advanced certification at this point in most scenarios (45 min)
 - Edube PCAP Python course continuation - Finished module 3 - inheritance + polymorphism + exceptions, wrapped it up with Quiz (got 90%) and the Module 3 Test (94%). Since I've already grinded a lot of exercises regarding these concepts, it is a nice refresher - could've been a bit rough without regular exercises though. The exam is getting closer, and there's only 1 module left, so I might be able to finish by the end of February, just as initially planned (1 hr 20 min)
+
+20.02.26 (Day 100!!!)
+- Another great milestone achieved - 100 days of consistent learning without a day of break (beside weekends and Christmas) is definitely a wonderful achievement for me and a rock solid habit. Throughout this time, I've leveled up from a total beginner to a very strong mid level in SQL (feeling I should crush every SQL interview at this point) and refreshed and grounded my Python to complete PCEP and soon I should be able to reach for PCAP certificate, as well as Hard SQL level on HackerRank.
+Next milestones TBD after I pass the PCAP exam + and get the Hard SQL certificate on HackerRank milestones.
+
+- CD Python tasks + Week 2 test - everything's still very simple for me, as I've done a ton of tasks in basic Python during the last few months (15 mins in total)
+- Python agentic flow - W7 D5 - I'm still making some mistakes with certain concepts and while my overall knowledge and the ability to understand the code is pretty strong, there are some little imps here and there that still need reinforcement. This will definitely change with time, but I feel I could already pass the PCAP exam at this point. (1 hr)
+- SQL W10 D5 - very satisfying session - more details in sql_agentic_learning repo (1 hr)
