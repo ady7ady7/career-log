@@ -610,3 +610,8 @@ Next milestones TBD after I pass the PCAP exam + and get the Hard SQL certificat
 - CD Python tasks + Week 2 test - everything's still very simple for me, as I've done a ton of tasks in basic Python during the last few months (15 mins in total)
 - Python agentic flow - W7 D5 - I'm still making some mistakes with certain concepts and while my overall knowledge and the ability to understand the code is pretty strong, there are some little imps here and there that still need reinforcement. This will definitely change with time, but I feel I could already pass the PCAP exam at this point. (1 hr)
 - SQL W10 D5 - very satisfying session - more details in sql_agentic_learning repo (1 hr)
+
+
+23.02.26 (Day 101)
+- Today was a busy day, but I started with Python tasks - they took long time today, but I handled everything pretty well - W8 D1 - mroe details in python_pcap_agentic_learning commit (2 hr)
+- SQL W10 D1 - today was rather an easier day, but definitely still useful and while I fully understand rolling avg, I still usually have to look it up quickly to refresh syntax - more details about this and other sessions in sql_agentic_learning repo (30 min)
