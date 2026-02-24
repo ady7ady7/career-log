@@ -615,3 +615,9 @@ Next milestones TBD after I pass the PCAP exam + and get the Hard SQL certificat
 23.02.26 (Day 101)
 - Today was a busy day, but I started with Python tasks - they took long time today, but I handled everything pretty well - W8 D1 - mroe details in python_pcap_agentic_learning commit (2 hr)
 - SQL W10 D1 - today was rather an easier day, but definitely still useful and while I fully understand rolling avg, I still usually have to look it up quickly to refresh syntax - more details about this and other sessions in sql_agentic_learning repo (30 min)
+
+24.02.26 (Day 102)
+- Started with Crappy Data Python lesson 3 - for me it's just a review of concepts I know very well [lists, funcs vs methods, list operations, list comprehensions, tuples], but I still paid attention and noted the most important things (45 min)
+- Crappy Data Python daily tasks - trivial for me at this point, but it requires some minimal thinking and uses of methods, which is useful (5 min)
+- Finished daily Python agentic learning session - more details in the latest commit (2 hr)
+- SQL W11 D2 - another great session, but today I've learned that I need to learn EXTRACT 'Epoch' as it's the most universal approach to check time durations/differences (30 min)
