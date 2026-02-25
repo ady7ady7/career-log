@@ -621,3 +621,8 @@ Next milestones TBD after I pass the PCAP exam + and get the Hard SQL certificat
 - Crappy Data Python daily tasks - trivial for me at this point, but it requires some minimal thinking and uses of methods, which is useful (5 min)
 - Finished daily Python agentic learning session - more details in the latest commit (2 hr)
 - SQL W11 D2 - another great session, but today I've learned that I need to learn EXTRACT 'Epoch' as it's the most universal approach to check time durations/differences (30 min)
+
+25.02.26 (Day 103)
+- Crappy Data Python tasks - basics (5 min)
+- Python session - W8 D3, some major modifications in my project to add R calculation for every position/trade and strategy id/name + some other tasks, more details in python_pcap_agentic_learning (2 hr)
+- SQL session - W11 D3 - another satisfying session, more details in sql_agentic_learning repo (40 min)
