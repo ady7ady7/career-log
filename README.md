@@ -626,3 +626,9 @@ Next milestones TBD after I pass the PCAP exam + and get the Hard SQL certificat
 - Crappy Data Python tasks - basics (5 min)
 - Python session - W8 D3, some major modifications in my project to add R calculation for every position/trade and strategy id/name + some other tasks, more details in python_pcap_agentic_learning (2 hr)
 - SQL session - W11 D3 - another satisfying session, more details in sql_agentic_learning repo (40 min)
+- Edube Python course - intro to generators (10 mins)
+
+26.02.26 (Day 104)
+- Crappy Data Python tasks (5 min)
+- Python W8 D4 - added strategy filter + basic reporting, which is separate for every strategy but also includes overall 'portfolio' performance. I will definitely be updating this with time, as we get to test the backtesting engine on real data + add some useful things like MAE/MFE etc. (1hr 30 min)
+- SQL agentic session - W11 D4 - great session and I was surprised to learn that you can specify the offset in LAG() function, very nice to learn this - more details about the session in sql_agentic_learning repo (1 hr)
