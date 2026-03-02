@@ -638,3 +638,10 @@ Next milestones TBD after I pass the PCAP exam + and get the Hard SQL certificat
 - CD Python (10 min)
 - Python W8 D5 - today was rather simple, mostly PCAP mock exam questions, but we're getting closer to the PCAP exam (1-2 weeks left) (40 min)
 - SQL W11 D5 - another great session, feeling almost 100% prepared for Hard certification - the Hard patterns are not yet mastered, but I can handle most of them in most cases - more info in sql_agentic_learning repo (40 min)
+
+2.03.26 (Day 106)
+- It was a very busy day overall, and I barely found time to do the daily tasks
+- I've done Week 8 Exam A + B - got 90%+ and 83%, 85% on average - not bad, but there are still some gaps. (30 min)
+- Python W9 D1 - today's session was rather quick and light as I asked specifically for it after a very long and busy day (20 min)
+- SQL W12 D1 - similarly to Python, I've managed to a session, but today I focused on rather simple window func tasks (20 min)
+
