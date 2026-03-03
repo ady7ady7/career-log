@@ -645,3 +645,9 @@ Next milestones TBD after I pass the PCAP exam + and get the Hard SQL certificat
 - Python W9 D1 - today's session was rather quick and light as I asked specifically for it after a very long and busy day (20 min)
 - SQL W12 D1 - similarly to Python, I've managed to a session, but today I focused on rather simple window func tasks (20 min)
 
+3.03.26 (Day 107)
+- Crappy Data lesson 4 - dicts & sets - although it's a topic I'm familiar with, I was able to make some useful notes (45 min)
+- Followed up with CD daily tasks - they are getting more interesting, still easy, but they start becoming a nice review material for the basic concepts (5 min)
+- Daily Python learning session - W9 D2 (45 min)
+- Planning next steps for my project that is planned to go fully actionable by the end of this week (30 mins)
+- Python W12 D2 - another set of very interesting and a bit challenging task, enjoyable session - more details in sql_agentic_learning repo (40 mins)
