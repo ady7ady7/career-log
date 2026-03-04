@@ -650,4 +650,11 @@ Next milestones TBD after I pass the PCAP exam + and get the Hard SQL certificat
 - Followed up with CD daily tasks - they are getting more interesting, still easy, but they start becoming a nice review material for the basic concepts (5 min)
 - Daily Python learning session - W9 D2 (45 min)
 - Planning next steps for my project that is planned to go fully actionable by the end of this week (30 mins)
-- Python W12 D2 - another set of very interesting and a bit challenging task, enjoyable session - more details in sql_agentic_learning repo (40 mins)
+- SQL W12 D2 - another set of very interesting and a bit challenging task, enjoyable session - more details in sql_agentic_learning repo (40 mins)
+- Edube course - Module 4 - file IO - I really need to push this course hard during this week to be able to finish the course by the end of the week (40 mins)
+
+4.03.26 (Day 108)
+- Finished Crappy Data Python tasks (10 min)
+- Followed up with another agentic Python learning session Python W9 D3 - more details in python_pcap_agentic_learning (1 hour)
+- SQL W12 D3 - another great session, more details in sql_agentic_learning repo (30 min)
+- Edube module 4 - file IO labs (1 hr)
