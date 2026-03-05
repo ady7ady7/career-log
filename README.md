@@ -658,3 +658,10 @@ Next milestones TBD after I pass the PCAP exam + and get the Hard SQL certificat
 - Followed up with another agentic Python learning session Python W9 D3 - more details in python_pcap_agentic_learning (1 hour)
 - SQL W12 D3 - another great session, more details in sql_agentic_learning repo (30 min)
 - Edube module 4 - file IO labs (1 hr)
+
+5.03.26 (Day 109)
+- Started the day with Python tasks from Crappy Data Python for Data Analysis course - tasks are getting a bit longer and definitely useful and more interesting.
+Also, there will be more tasks as we've asked for it on the course Slack channel. (10 mins)
+- Python W9 D4 - mostly PCAP mock exam exercises (45 min)
+- SQL W12 D4 - the tasks are difficult, but I am handling them well - more details in sql_agentic_learning (40 min)
+- Edube module 4 - file IO continuation + datetime (1 hr 20 min)
