@@ -665,3 +665,10 @@ Also, there will be more tasks as we've asked for it on the course Slack channel
 - Python W9 D4 - mostly PCAP mock exam exercises (45 min)
 - SQL W12 D4 - the tasks are difficult, but I am handling them well - more details in sql_agentic_learning (40 min)
 - Edube module 4 - file IO continuation + datetime (1 hr 20 min)
+
+6.03.26 (Day 110)
+- Crappy Data Python course tasks - dicts/sets/lists (10 min)
+- Crappy Data week 4 test - 7/8 pts (10 min)
+- SQL W12 D5 - another session with advanced tasks (1 hr)
+- Python W9 D5, another agentic learning session (40 min)
+- Hackerrank Advanced EXAM PASSED! I encountered an unpleasant surprise because there was no PostgreSQL dialect and that's a nuisance in such a context, but I simply worked out equivalents for a few commands that were necessary and worked it out. Another step accomplished and I definitely have to think about my new goals for this quarter.  (50 min)
