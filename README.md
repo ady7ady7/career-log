@@ -672,3 +672,8 @@ Also, there will be more tasks as we've asked for it on the course Slack channel
 - SQL W12 D5 - another session with advanced tasks (1 hr)
 - Python W9 D5, another agentic learning session (40 min)
 - Hackerrank Advanced EXAM PASSED! I encountered an unpleasant surprise because there was no PostgreSQL dialect and that's a nuisance in such a context, but I simply worked out equivalents for a few commands that were necessary and worked it out. Another step accomplished and I definitely have to think about my new goals for this quarter.  (50 min)
+
+9.03.26 (Day 111)
+- Crappy Data Python lesson 5 - code writing tips, if clause, handling errors - I know all of these concepts but I still took some notes of the most important things, just to ground my knowledge (1 hr)
+- Crappy Data Python tasks - we've got extra tasks on Monday, which is cool (10 min)
+- Data project - I've done research to choose a topic, checked a few data sourced and discarded a few ideas. In the end, I've managed to choose a topic, fetch data through Python requests via API and I'm still focused on research to get all the relevant data, to make sure my research is valid and sound. It's still to be continued tomorrow, as I need to fetch some more details, but I have a general overview and it looks very promising. (3 hr)
