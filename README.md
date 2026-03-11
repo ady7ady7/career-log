@@ -688,3 +688,4 @@ Also, there will be more tasks as we've asked for it on the course Slack channel
 - Data project - day 3 - today was a pretty laborious day - I've prepared data extraction from the Keepa API, verified data, fixed inconsistencies.
 I've also built a data schema for my local PostgreSQL, created the scripts for tables and in the end, uploaded all the data to the PostgreSQL db.
 I;ve fixed some issues as well, as some smartphones had a weird, factory names instead of their actual model names + we had to convert the timestamps (that were given as an int number of minutes from 2011-01-01) to the actual dates. (3 hr)
+- Edube Module 4 - datetime continuation - Labs + calendar module started (40 min)
