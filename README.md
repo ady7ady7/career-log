@@ -678,7 +678,13 @@ Also, there will be more tasks as we've asked for it on the course Slack channel
 - Crappy Data Python tasks - we've got extra tasks on Monday, which is cool (10 min)
 - Data project - I've done research to choose a topic, checked a few data sourced and discarded a few ideas. In the end, I've managed to choose a topic, fetch data through Python requests via API and I'm still focused on research to get all the relevant data, to make sure my research is valid and sound. It's still to be continued tomorrow, as I need to fetch some more details, but I have a general overview and it looks very promising. (3 hr)
 
-10.03.27 (Day 112)
+10.03.26 (Day 112)
 - Crappy Data Python tasks (10 min)
 - Data project - I've digged into the project idea and decided it's not a good idea to proceed. The electricity price is ambiguous, it has a lot of moving parts and it would be best to be a professional from the electric power industry for that. To put it simply, IMO the tactical retreat at the beginning was the best option here. 
 - I've found another project idea - analyzing price seasonality of the most popular smartphones (iPhone, Samsung Galaxy, Google Pixel) using Keepa API as the source of data. It will offer a great challenge as well, but more in the data analysis approach, rather than in expertise in a given industry. Keepa API access was quite expensive, but still cheaper than the access to historical RDN electricity prices (around 200+ vs 3k PLN). Today I've done basic research and listed out all the analyzed smartphones. (3 hr)
+
+11.03.26 (Day 113)
+- Started the day with morning Crappy Data Python task session (15 min)
+- Data project - day 3 - today was a pretty laborious day - I've prepared data extraction from the Keepa API, verified data, fixed inconsistencies.
+I've also built a data schema for my local PostgreSQL, created the scripts for tables and in the end, uploaded all the data to the PostgreSQL db.
+I;ve fixed some issues as well, as some smartphones had a weird, factory names instead of their actual model names + we had to convert the timestamps (that were given as an int number of minutes from 2011-01-01) to the actual dates. (3 hr)
