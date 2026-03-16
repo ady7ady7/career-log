@@ -697,3 +697,12 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 13.03.26 (Day 115)
 - CD Python tasks - tasks are getting definitely better and better, which is awesome, but there are some issues as some tasks seem to have a single solution expected and others are denied - gave my feedback on that. Other than that, they are great for reinforcing the basics. (20 min)
 - Starting new SQL exercises cycle - slowly warming up, and I had to reject two tasks and give my agent extensive feedback on that, as I'm literally just starting to learn pivots and I need a properly scaffolded approach to begin. Beside, I will be reinforcing the concepts I already know to get even better. (30 min)
+
+16.03.26 (Day 116)
+- Started with CD Python test - 7/8 pts (minor error) (15 min)
+- CD Python lesson 6 - for/while loops + iterators, range, enumerate, list & dict comprehension. I know these concepts well, but I took notes of the most important thigns anyway (1hr)
+- CD Python tasks - list comprehensions (5 min)
+- SQL agentic learning session - W14 D1 - starting new program with new focus - pivots, self-referencing CTEs based entirely on available data, NOT IN patterns (40 min)
+- Data project #4 - queries on iPhone 11 to check monthly sales, min prices etc., created a monthly summary view (30 min)
+- Edube Python tasks - Module 4 - Calendar section + labs, and I managed to finish Module 4 completely today, preparing for the final PCAP examination session - I'll most likely be focusing on mock PCAP exams and revisions now (1 hr)
+- PCAP agentic learning W10 D1 - warm-up day for PCAP preparation with some minor feedback for general trajectory of our reviews (15 min)
