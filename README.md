@@ -706,3 +706,11 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Data project #4 - queries on iPhone 11 to check monthly sales, min prices etc., created a monthly summary view (30 min)
 - Edube Python tasks - Module 4 - Calendar section + labs, and I managed to finish Module 4 completely today, preparing for the final PCAP examination session - I'll most likely be focusing on mock PCAP exams and revisions now (1 hr)
 - PCAP agentic learning W10 D1 - warm-up day for PCAP preparation with some minor feedback for general trajectory of our reviews (15 min)
+
+17.03.26 (Day 117)
+- CD Python tasks (15 min)
+- PCAP agentic learning W10 D2 - a great review of some PCAP relevant concepts + PCAP mock-exam style questions (1 hr)
+- SQL agentic learning W14 D2 - pivots, self-referencing CTE, NOT IN patterns continued (40 min)
+- Edube 4 Quiz + Test (88%) - Module 4 finished, and whole Python Essentials 2 finished. I will now focus on PCAP mock exams (25 min)
+- Edube FULL PCAP mock exam - there were a lot of tricky questions and I passed with 70%, which is not great, but puts the exam at risk. I've noted down all of the tricky things and will definitely focus on them throughout this week to be ready for the exam.
+- Data project #5 - few SQL queries to check, ran full data harvests for iPhones, Pixel, Samsung (30 min)
