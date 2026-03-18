@@ -714,3 +714,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Edube 4 Quiz + Test (88%) - Module 4 finished, and whole Python Essentials 2 finished. I will now focus on PCAP mock exams (25 min)
 - Edube FULL PCAP mock exam - there were a lot of tricky questions and I passed with 70%, which is not great, but puts the exam at risk. I've noted down all of the tricky things and will definitely focus on them throughout this week to be ready for the exam.
 - Data project #5 - few SQL queries to check, ran full data harvests for iPhones, Pixel, Samsung (30 min)
+
+18.03.26 (Day 118)
+- CD Python tasks - definitely more interesting tasks that needed some iterations (20 min)
+- PCAP agentic Python - W10 D3 - focusing on the gaps from yesterday's mock exam (45 min)
+- SQL agentic learning - W14 D3 - pivot, edge case for streaks with islands/gaps and handling them (30 min)
