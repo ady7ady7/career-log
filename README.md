@@ -719,3 +719,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - CD Python tasks - definitely more interesting tasks that needed some iterations (20 min)
 - PCAP agentic Python - W10 D3 - focusing on the gaps from yesterday's mock exam (45 min)
 - SQL agentic learning - W14 D3 - pivot, edge case for streaks with islands/gaps and handling them (30 min)
+
+19.03.26 (Day 119)
+- CD Python tasks - today was the first time I really struggled with one task, but I managed to get it down after a break. Definitely a productive and valuable time, and I'm glad these tasks are getting difficult (1 hr)
+- PCAP agentic Python session - another PCAP-mock exam like tasks to prepare for the coming exam (30 min)
+- SQL agentic learning - W14 D4 - pivot seems like a super useful pattern that saves lots of time and looks much more efficient than the standard grouping (30 min)
