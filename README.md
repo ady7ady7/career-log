@@ -724,3 +724,21 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - CD Python tasks - today was the first time I really struggled with one task, but I managed to get it down after a break. Definitely a productive and valuable time, and I'm glad these tasks are getting difficult (1 hr)
 - PCAP agentic Python session - another PCAP-mock exam like tasks to prepare for the coming exam (30 min)
 - SQL agentic learning - W14 D4 - pivot seems like a super useful pattern that saves lots of time and looks much more efficient than the standard grouping (30 min)
+
+20.03.26 (Day 120)
+- Started the day with CD Python tasks session as usual (25 mins)
+- Agentic Python tasks - W10 D5, tasks focused on PCAP review, but also moving my backtesting project forward, which made the session very long and required some thinking. I had to assist myself a bit with Claude with some parts of it, but I fully understand every single line of code. I also figured out next steps of moving forward with the project on my own and LLM reviewed them rather positively. After having built a strong foundation, now it's time to test more complex strategy conditions, then test two startegies at once as a minimal stress-test, and finally include datetime based equity curve simulation. (2.5 hr)
+- SQL agentic learning - W14 D5 - pivots, self-referencing CTE continued (30 mins)
+
+23.03.26 (Day 121)
+- During the weekend, I've done 2 mock PCAP exams - got avg 82% score.
+- Started the new week with Crappy Data Python for Data Analysis course test from the previous week - got 6/8 points (made two minor mistakes in multi-choice questions) (10 min)
+- Followed up with Lesson 7 from CD Python course - functions, lambda, random and os modules - these are all concepts I know well, but still took notes and reinforced them (45 min)
+- Python PCAP agentic learning - W11 D1 - final week PCAP reviews and targeting gaps - got the tasks done pretty quickly today (30 min)
+- CD Python tasks - definitely got more difficult and they need thinking and some iterations now (25 min)
+- SQL tasks - I struggled today and the PIVOT MATRIX task - happy to finish finally (1 hr 30 min)
+
+24.03.26 (Day 122)
+- Crappy Data Python tasks - very good tasks that definitely help me ground and reinforce the Python basics (25 mins)
+- Python agentic PCAP preparation - W11 D2: targeting gaps and previous errors for the exam is the only focus for now. There is a lot of little details and stuff I still need to practice, but I think I should be able to pass the PCAP exam. (40 mins)
+- SQL agentic tasks - W15 D2, advanced pivot, not in, self-referencing CTE tasks solved correctly - more details in sql_agentic_learning repo in my GitHub (30 mins)
