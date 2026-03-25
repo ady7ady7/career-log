@@ -742,3 +742,10 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Crappy Data Python tasks - very good tasks that definitely help me ground and reinforce the Python basics (25 mins)
 - Python agentic PCAP preparation - W11 D2: targeting gaps and previous errors for the exam is the only focus for now. There is a lot of little details and stuff I still need to practice, but I think I should be able to pass the PCAP exam. (40 mins)
 - SQL agentic tasks - W15 D2, advanced pivot, not in, self-referencing CTE tasks solved correctly - more details in sql_agentic_learning repo in my GitHub (30 mins)
+- Data project #6 - done some data sanity checks and created quite a complex view for price history for all products for all weeks/months (151k rows)
+
+25.03.26 (Day 123)
+- CD Python tasks - today I've spent much more time doing the tasks as the requirements needed me to take a few steps back and think (1 hr)
+- Python agentic flow - W11 D3 - PCAP gaps review + backtester project continuation - some changes in multiple files as I had to make architectural decisions there - more in pcap_agentic_learning repo (2 hr)
+- SQL agentic tasks - W15 D3 - the advanced self-referencing CTEs and handling streaks with gaps patterns feel quite easy now, so I might think about moving on to the next challenges soon. Other than that, nice session - more in sql_agentic_learning repo (40 mins)
+- Data project #7 - prepared queries for monthly sales on product/month level as well as submodel level. This task required some thinking and checking the docs to understand the logic behind the data. It's still quite weird and while it seems that I've got it right, I only have about 800k+ total qty sold across all phones/models, which is weird and it motivates me to re-check if everything is done properly and perhaps even contact the Keepa API team (1 hr)
