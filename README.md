@@ -762,7 +762,12 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - After a very long and frustrating Python session, I opted for a bit lighter SQL session today, including a classic pattern for streaks (30 min)
 
 30.03.26 (Day 126)
+- This week is a break week in Crappy Data Python for Data Analysis course - so no tasks this week, as I have completed everything on time so far
 - I attempted the PCAP exam on Saturday - failed with 67%, as 70% was the passing threshold. It's difficult to admit and a bit harsh to fail after such a regular preparation, but I also feel it's not the end of the world, since the exam was very difficult. I have a strong feeling that I do not lack Python knowledge for this level, but the exam was relying heavily on trap questions and edge cases, which made it more difficult than it was during the study and preparation phase. It's kinda understandable, as every try is paid and it's meant to be difficult. This is all fine, as I will prepare and address traps that appeared during the first run and hopefully the next time I will be able to pass the exam.
 - First session of Python PCAP agentic workflow this week (W12 D1) - I'm aiming for a high volume and addressing the traps that appeared during the PCAP exam. Check the latest commit in python_pcap_agentic_learning repo if you want to know more details (1.5 hr)
 - SQL W16 D1 - another session of SQL tasks - more details in sql_agentic_learning repo commits (30 min)
 - Data project #9 - added two more views today, I'm almost ready to put everything in PBI and visualize data (50 min)
+
+31.03.26 (Day 127)
+- Completed another heavy volume review session to address PCAP traps - W12 D2 - more details in the latest commit found in python_pcap_agentic_learning (1.5 hr)
+- Followed up with three SQL tasks for W16 D2: today we've focused mostly on advanced window functions combined and NULLIF pattern (40 min)
