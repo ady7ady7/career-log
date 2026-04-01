@@ -771,3 +771,9 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 31.03.26 (Day 127)
 - Completed another heavy volume review session to address PCAP traps - W12 D2 - more details in the latest commit found in python_pcap_agentic_learning (1.5 hr)
 - Followed up with three SQL tasks for W16 D2: today we've focused mostly on advanced window functions combined and NULLIF pattern (40 min)
+
+1.04.26 (Day 128)
+- Started the day with another heavy volume review session for PCAP retake W12 D3. (2 hr)
+- I also made some progress in my backtester project, adding a filter to take only 1 trade per day. It will be relevant to every strategy so far, but if it will be different in the future, I will have to redesign that.
+- Finished another SQL task session - satisfying session that shows I'm doing quite well with SQL - more details about the tasks in sql_agentic_learnign repo (40 mins)
+- Data project #10 - added data to PBI, transformed it with PowerQuery - I've added a few custom columns for months/months to premiere etc. I will also need to add brand name for convenient slicing, but this I will join using SQL tomorrow (40 min)
