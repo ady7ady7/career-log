@@ -777,3 +777,13 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - I also made some progress in my backtester project, adding a filter to take only 1 trade per day. It will be relevant to every strategy so far, but if it will be different in the future, I will have to redesign that.
 - Finished another SQL task session - satisfying session that shows I'm doing quite well with SQL - more details about the tasks in sql_agentic_learnign repo (40 mins)
 - Data project #10 - added data to PBI, transformed it with PowerQuery - I've added a few custom columns for months/months to premiere etc. I will also need to add brand name for convenient slicing, but this I will join using SQL tomorrow (40 min)
+
+2.04.26 (Day 129)
+- Python PCAP agentic learning - W12 D4 - heavy volume session again (1.5hr)
+- I also fixed a bug with wrong object iterable object selected (self.postion_manager.positions instead of self.position_manager) during the above session.
+- SQL agentic flow continued - W16 D4 - another productive session, feeling strong, but I also start to realize the magnitude of SQL (40 min)
+- Data project #11 - added the first chart, updated the view with generations/brand + added filters, custom lines and naming to the first chart. I'm not rushing it, but I want to make sure everything is on point (1 hr)
+
+3.04.26 (Day 130)
+- Python PCAP agentic learning - W12 D5 - another heavy volume session - focused on traps in str comparisons/patterns + exception chains with inner/outer division (1.5 hr)
+- SQL agenticl earnign session - W16 D5 - productive & satisfying - more info + weekly summary in the latest commit in sql_agentic_learning repo (40 min)
