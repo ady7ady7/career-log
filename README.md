@@ -787,3 +787,11 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 3.04.26 (Day 130)
 - Python PCAP agentic learning - W12 D5 - another heavy volume session - focused on traps in str comparisons/patterns + exception chains with inner/outer division (1.5 hr)
 - SQL agenticl earnign session - W16 D5 - productive & satisfying - more info + weekly summary in the latest commit in sql_agentic_learning repo (40 min)
+
+7.04.26 (Day 131)
+- Back after Easter break - this is going to be a very intense period, as I'm currently very busy with translation projects.
+- Starting this week with Lesson 8 from Python course for Data Analysis - we're done with the basics now and starting to move into Pandas and actual Data Analysis. I took notes of the most important methods/attributes. I've already used and practiced Pandas in the past, but still this is a very useful lesson. (40 min)
+- The main focus of this week will be to continue the SQL learning flow and Python revisions for the PCAP exam.
+- Followed up with a set of 8 basic Pandas tasks in CD Python course - checking data types, columns, avgs etc. (20 min)
+- Created a medium volume PCAP retake review session in my agentic Python workflow - I only got about 74% today, which is not super optimistic, but I feel like there were a lot of questions about things I still struggle with a bit. Trying to ground these concepts and subtle nuances before the PCAP retake. (30 mins)
+- Followed up with rather easy session my SQL agentic learning - today's focus was to review some basic concepts (JOINS, GROUP BY + RANK() etc.), a very easy and quick session with concepts I've mastered already (20 min)
