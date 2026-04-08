@@ -795,3 +795,9 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Followed up with a set of 8 basic Pandas tasks in CD Python course - checking data types, columns, avgs etc. (20 min)
 - Created a medium volume PCAP retake review session in my agentic Python workflow - I only got about 74% today, which is not super optimistic, but I feel like there were a lot of questions about things I still struggle with a bit. Trying to ground these concepts and subtle nuances before the PCAP retake. (30 mins)
 - Followed up with rather easy session my SQL agentic learning - today's focus was to review some basic concepts (JOINS, GROUP BY + RANK() etc.), a very easy and quick session with concepts I've mastered already (20 min)
+
+8.04.26 (Day 132)
+- Striving to keep the pace in the busy project period.
+- Started this morning with another set of CD Python tasks - Pandas basics now, very useful concepts to practice (30 min)
+- Followed up with another heavy volume PCAP retake review session - W13 D2, it seems that str/repr/args patterns are getting clear to me now (40 min)
+- Finished with an evening session of SQL tasks after work - very satisfying, and I've crushed every task. (30 mins)
