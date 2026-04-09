@@ -801,3 +801,9 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Started this morning with another set of CD Python tasks - Pandas basics now, very useful concepts to practice (30 min)
 - Followed up with another heavy volume PCAP retake review session - W13 D2, it seems that str/repr/args patterns are getting clear to me now (40 min)
 - Finished with an evening session of SQL tasks after work - very satisfying, and I've crushed every task. (30 mins)
+
+9.04.26 (Day 133)
+- Started the day with some Python data cleaning tasks in Pandas from the CD Python course - I started putting them in practice.py in python_pcap_agentic_learning repo again (30 min)
+- Finished another heavy volume review session in my Python PCAP agentic learning workflow and ffinally fixed the bug with exit reasons - it used to close positions that shouldn't be closed as tuple check was always truthy - now with [0] added to the check, it properly checks the actual should_close status (1 hr 30 min).
+- Finished mock PCAP exam, real exam patterns - 92% - feeling strong and if I had the same exam questions, I'd definitely crush it (35 mins)
+- Finished up the day with evening SQL session with my agentic workflow (30 min)
