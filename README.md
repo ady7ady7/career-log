@@ -832,3 +832,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - CD Python tasks - I completed and added today's tasks in python_pcap_agentic_learning in practice.py - tasks 128-131 (30 min)
 - Followed up with two more mock PCAP exams - got 87.5% + 95% scores respectively, so definitely improving and hopefully that's enough to pass the actual exam, which I'm planning to do this weekend (1 hr)
 - Also finished daily SQL exercises session - more details in sql_agentic_learning repo. (40 mins)
+
+16.04.26 (Day 138)
+- Started early with CD Python tasks to be able to wrap up everything today - Pandas continuation, satisfying and not too difficult for me at this point - sorting/filtering, applying conditions and finding relevant values (20 min)
+- Another day with PCAP mock exams before the weekend PCAP retake - got 85% + 85% today - not bad (1 hr 10 min)
+- Followed up with daily SQL session, which was rather difficult today (and pretty satisfying) and as usual, more details in my sql_agentic_learnign repo (35 min)
