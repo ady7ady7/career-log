@@ -837,3 +837,9 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Started early with CD Python tasks to be able to wrap up everything today - Pandas continuation, satisfying and not too difficult for me at this point - sorting/filtering, applying conditions and finding relevant values (20 min)
 - Another day with PCAP mock exams before the weekend PCAP retake - got 85% + 85% today - not bad (1 hr 10 min)
 - Followed up with daily SQL session, which was rather difficult today (and pretty satisfying) and as usual, more details in my sql_agentic_learnign repo (35 min)
+
+17.04.26 (Day 139 - missed commit)
+- I've followed my daily routine with CD Python tasks + SQL and final Python PCAP mock exam, but forgot to commit that day - more details are to be found in python_pcap_agentic_learning and sql_agentic_learning repos commits from yesterday (1.5hr~)
+
+18.04.26 (Day 140)
+- I've SUCCESSFULLY PASSED THE PCAP EXAM AND GOT 91% SCORE - I'm very proud to achieve this goal after 3.5 months from PCEP and after my first attempt on March 31 failed (got 67% back then). I was very focused to grind all the edge cases and possible traps and really understand more complex inner/outer Exception branches, the order they're handled in the code, and a lot of other things that could cause trouble during the retake. This is an important milestone and I will need to figure out the next goals, but my Python basics are definitely at a very solid level after this 6+ months of daily grind, and I'm ready to pursue libraries like Pandas/Numpy etc. with a clear conscience.
