@@ -843,3 +843,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 
 18.04.26 (Day 140)
 - I've SUCCESSFULLY PASSED THE PCAP EXAM AND GOT 91% SCORE - I'm very proud to achieve this goal after 3.5 months from PCEP and after my first attempt on March 31 failed (got 67% back then). I was very focused to grind all the edge cases and possible traps and really understand more complex inner/outer Exception branches, the order they're handled in the code, and a lot of other things that could cause trouble during the retake. This is an important milestone and I will need to figure out the next goals, but my Python basics are definitely at a very solid level after this 6+ months of daily grind, and I'm ready to pursue libraries like Pandas/Numpy etc. with a clear conscience.
+
+20.04.26 (Day 141)
+- This week I'm taking a break from Python agentic learning flow, as I've achieved my quarterly goal (Q1, delayed as I didn't pass the exam during the first attemps), and I will focus more on the projects and think about future goals
+- Started this week with Crappy Data Python course for Data Analysis Lesson 10 - we're continuing Pandas - adding new columns, modifying the existing ones + apply() method and transformations between Pandas/Python. As always, I took notes. (1 hr 10 min)
+- Very long and busy day, and I finished it off with another SQL session in my agentic learning workflow - not too difficult, 2 tasks only, but still it was a bit difficult as it's almost 11 PM and my brain is exhausted after whole day of translations (20 mins)
