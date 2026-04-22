@@ -852,3 +852,7 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 21.04.26 (Day 142)
 - Started the day with CD Python tasks, that took some time as I've done 8 tasks in total, including yesterday's 4 tasks. Continuing Pandas and these transformations definitely need a lot of practice to properly apply syntax and understand every step without looking at the docs (40 min)
 - Another SQL session - more details in sql_agentic_learning repo (40 min)
+
+22.04.26 (Day 143)
+- CD Python tasks session - Pandas - all tasks included in python_pcap_agentic_learning/practice.py, just search for 'CD Python 22.04'(30 min)
+- Evening SQL tasks session - it's difficult for me now to push the projects forward, as I'm very busy with my business (40 min)
