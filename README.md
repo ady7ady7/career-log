@@ -856,3 +856,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 22.04.26 (Day 143)
 - CD Python tasks session - Pandas - all tasks included in python_pcap_agentic_learning/practice.py, just search for 'CD Python 22.04'(30 min)
 - Evening SQL tasks session - it's difficult for me now to push the projects forward, as I'm very busy with my business (40 min)
+- Followed up with about 40 mins evening session with my backtester - started with a few tests, I must admit I used Claude today with clear plan as I'm currently very busy, but I'm glad as it saved me a lot of time, and allowed to build clarity in the path forward; I've tried different approaches to avoid false negatives/positives in terms of entry/sl/tp, and I wanted to create a bulletproof logic but came to a conclusion that IT'S IMPOSSIBLE with OHLC candles. The only way it works out is with tick data, so that's the next step, as I have about 11 months of FDAX tick-data, and planning to also fetch NQ data soon (FDAX will clear the path first). The plan is to first prepare the data properly in the other repo, then plan to integrate it and still keep all the relevant levels in OHLC-based format for a given day as a reference - IMO it makes a lot more sense. (40 min)
+
+23.04.26 (Day 144)
+- Still very busy business/work period, but soon I will have more time to push the projects forward
+- SQL tasks session - pretty satisfying session, another busy day in my business projects, so I didn't really have much time today, but keeping the streak on point. More details in sql_agentic_learning session (40 min)
