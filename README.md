@@ -861,3 +861,12 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 23.04.26 (Day 144)
 - Still very busy business/work period, but soon I will have more time to push the projects forward
 - SQL tasks session - pretty satisfying session, another busy day in my business projects, so I didn't really have much time today, but keeping the streak on point. More details in sql_agentic_learning session (40 min)
+
+24.04.26 (Day 145)
+- Intense CD Python tasks session - 8 tasks, as I didn't have time for these yesterday, it was difficult and I had to look up a lot of things here - Pandas requires lots of practice, I might think about implementing Pandas practice into my agentic learning workflow (2 hr)
+- Another SQL session - going pretty strong here, I'm thinking about introducing more data schemes here, as I've got some datasets given from Kasia from CD - it would be possible to implement them and increase the data analysis scope (40 mins)
+
+27.04.26 (Day 146)
+- Started this week with Lesson 11 from Crappy Data Python for Data Analysis Course - this week we're continuing Pandas, with focus on data aggregation with groupby/agg + joining the rows/columns and dfs with concat() and merge(). We also covered the join() method which turns out to be a merge() with default arguments set as a left join, so Kasia advised against using it. As always, I took notes and I'm continuing to do the exercises. Most likely I will also soon start working with Pandas/Numpy in my agentic learnign flow (1 hr)
+- Followed up with a set of tasks - Pandas concat/merge (30 mins)
+- Started another week of SQL tasks - today was a very smooth session, and yet nice and I'm also starting query optimization and using EXPLAIN ANALYZE. This is a great exercise to think more about the order of operations and how it affects their speed (40 min)
