@@ -870,3 +870,10 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Started this week with Lesson 11 from Crappy Data Python for Data Analysis Course - this week we're continuing Pandas, with focus on data aggregation with groupby/agg + joining the rows/columns and dfs with concat() and merge(). We also covered the join() method which turns out to be a merge() with default arguments set as a left join, so Kasia advised against using it. As always, I took notes and I'm continuing to do the exercises. Most likely I will also soon start working with Pandas/Numpy in my agentic learnign flow (1 hr)
 - Followed up with a set of tasks - Pandas concat/merge (30 mins)
 - Started another week of SQL tasks - today was a very smooth session, and yet nice and I'm also starting query optimization and using EXPLAIN ANALYZE. This is a great exercise to think more about the order of operations and how it affects their speed (40 min)
+- Forgot to mention, but I've also spent about 1.5hr to polish and prepare the post on LinkedIn with my PCAP certificate. Not totally happy with it, becuase it didn't get that many reactions yet, but well, it's something and I finally found time to do it.
+- Business-wise, it's a bit less intense this week, but I'm still proofreading the episodes + also talking about some future projects and potential new collaborations, doing tests.
+
+28.04.26 (Day 147)
+- Started with CD Python tasks - these tasks really evolved into difficult ones since the beginning of the course and I struggled a bit, and tried a lot of things - Pandas methods are still unintuitive, but I work things out step by step, but eventually it will get a lot better as I practice daily. I've got to implement an agentic learning flow for Pandas, but it has to be thought-over to make sense in the long run and I need to establish new goals. (1 hr)
+- It's evening now and Claude is unavailable so I'm unable to generate new SQL tasks today...
+- Conceptualizing the new project for a DA contest - I'm creating a mock plan and thinking about how to structure it (1 hr)
