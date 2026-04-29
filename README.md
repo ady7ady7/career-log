@@ -877,3 +877,7 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Started with CD Python tasks - these tasks really evolved into difficult ones since the beginning of the course and I struggled a bit, and tried a lot of things - Pandas methods are still unintuitive, but I work things out step by step, but eventually it will get a lot better as I practice daily. I've got to implement an agentic learning flow for Pandas, but it has to be thought-over to make sense in the long run and I need to establish new goals. (1 hr)
 - It's evening now and Claude is unavailable so I'm unable to generate new SQL tasks today...
 - Conceptualizing the new project for a DA contest - I'm creating a mock plan and thinking about how to structure it (1 hr)
+
+29.04.26 (Day 148)
+- I was busy for literally the entire day, getting to the CD Python tasks in the evening - all CD Python tasks are to be found in python_pcap_agentic_learning/practice.py at the end of the file (lines 16843+ with today's date), but I've did all of the tasks! (50 min)
+- SQL tasks from 2 days combined FINISHED AS WELL - yesterday there was Claude outage in the evning and I couldn't generate tasks, so I decided to make up for it today. Honestly, 10 PM is not a good time to do tasks that require more steps and thinking, and I can clearly feel the brain doesn't work as good as in the morning after a full day of translation. (45 min)
