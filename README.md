@@ -881,3 +881,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 29.04.26 (Day 148)
 - I was busy for literally the entire day, getting to the CD Python tasks in the evening - all CD Python tasks are to be found in python_pcap_agentic_learning/practice.py at the end of the file (lines 16843+ with today's date), but I've did all of the tasks! (50 min)
 - SQL tasks from 2 days combined FINISHED AS WELL - yesterday there was Claude outage in the evning and I couldn't generate tasks, so I decided to make up for it today. Honestly, 10 PM is not a good time to do tasks that require more steps and thinking, and I can clearly feel the brain doesn't work as good as in the morning after a full day of translation. (45 min)
+
+30.04.26 (Day 149)
+- Managed to do the SQL tasks way earlier today - nice session and we've touched upon an interesting phenomenon of ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLLOWING - it's basically the same as standard all rows for a given window, but we could easily modify it if needed (30 mins)
+- Followed up with CD Python tasks - Pandas is a huge struggle at this point - there are a lot of moving parts and nuances here - I need to launch my Python agentic workflow next week to start practicing that on more tasks, including the simple ones (50 mins)
+- Data project - continued from the flow I've left like 2 weeks ago - it went pretty well today and I hope I'll be able to finish before deadline (2 hr)
