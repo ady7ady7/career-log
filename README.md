@@ -886,3 +886,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Managed to do the SQL tasks way earlier today - nice session and we've touched upon an interesting phenomenon of ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLLOWING - it's basically the same as standard all rows for a given window, but we could easily modify it if needed (30 mins)
 - Followed up with CD Python tasks - Pandas is a huge struggle at this point - there are a lot of moving parts and nuances here - I need to launch my Python agentic workflow next week to start practicing that on more tasks, including the simple ones (50 mins)
 - Data project - continued from the flow I've left like 2 weeks ago - it went pretty well today and I hope I'll be able to finish before deadline (2 hr)
+
+1.05.26 (Day 150)!!!! 
+- Another big milestone achieved - Majówka begins today, but since I have translation project anyway, I'm not taking a break.
+- CD Python tasks - went smoother than usually, but also I've encountered some issues with the tasks today, which slowed me down and distracted a few times (1 hr)
+- SQL session - lighter session today, but I'm strengthening the habit (30 min)
