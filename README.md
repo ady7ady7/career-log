@@ -901,3 +901,13 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Started the W1 D1 Python agentic flow - loaded data and identified 2 issues that are worth mentioning - timestamps are given in a very specific way, as a number of minutes from the 2011-01-01 timestamp (found in Keepa API docs) + the sales tracking is actually delayed by at least a month in each case. Today's session was easy but we've started the whole flow, and it feels good! I will surely make some adjustments here and there as we go. (30 min)
 - Added new db schema to my local PostgreSQL for SQL agentic learning with job offers data - in terms of tables, it's not a huge db, but the main table has a lot of data and offers some potential challenges with NULLs and filtering out the strings. I might add more schemas in the future, since I've already explored the previous database in and out, and it makes sense to explore more data, find new challenges and issues to solve. Also, I might think about creating views to make the data from this schema more tangible. (15 min)
 - SQL aagentic flow - W21 D1 - started some exploration of data from the new db. I've also recognized a new pattern with VALUES and string filtering data with variables - it's definitely difficult and will need some practice (30 min)
+
+
+5.05.26 (Day 152)
+- Forgot to update it yesterday, but:
+- Continuing Python agentic flow W1 D2 + project at the same time, as I'm mostly focusing on it now - I've grouped all the minimum weekly prices for each phoen from the dataset - used resample() for that - it definitely needs practice and I might add more raw practice to the project work (40 min)
+- SQL session W21 D2 - difficult extraction patterns - I honestly had to ask Claude to help me with that - REGEX pattern (REGEXP) was used here, but it's so unintuitive at this point, that I'd probably had to scaffold it a bit and start from simpler examples to understand it (40 min)
+
+6.06.26 (Day 153)
+- Python agentic flow continuation - W1 D3 - very fruitful and satisfying session, and I've also was tasked to add a Plotly visualization - hadn't used it yet, but their docs are awesome, and it was easy. Practice makes perfect :)) (1 hr)
+- Finished SQL session W21 D3 - more details in sql_agentic_learning repo, latest commit (30 min)
