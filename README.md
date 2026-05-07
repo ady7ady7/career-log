@@ -908,6 +908,10 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Continuing Python agentic flow W1 D2 + project at the same time, as I'm mostly focusing on it now - I've grouped all the minimum weekly prices for each phoen from the dataset - used resample() for that - it definitely needs practice and I might add more raw practice to the project work (40 min)
 - SQL session W21 D2 - difficult extraction patterns - I honestly had to ask Claude to help me with that - REGEX pattern (REGEXP) was used here, but it's so unintuitive at this point, that I'd probably had to scaffold it a bit and start from simpler examples to understand it (40 min)
 
-6.06.26 (Day 153)
+6.05.26 (Day 153)
 - Python agentic flow continuation - W1 D3 - very fruitful and satisfying session, and I've also was tasked to add a Plotly visualization - hadn't used it yet, but their docs are awesome, and it was easy. Practice makes perfect :)) (1 hr)
 - Finished SQL session W21 D3 - more details in sql_agentic_learning repo, latest commit (30 min)
+
+7.05.26 (Day 154)
+- Started off with another Python agentic learnign session W1 D4, which was rather long - it's awesome how much I can learn by practicing - very productive and satisfying session; rebuilt the whole flow from data collecting to filtering & cleaning in another notebook + learned groupby + transform pattern. Feeling stronger day by day - more in python_agentic_learning repo and the latest commit (1 hr 30 min)
+- Followed up with SQL session - W21 D4 - started confusing ANTI JOIN pattern - perhaps it's because I used to practice three types of them at once and at some point I got confused - we have to focus on one from now on and simply lock it in (30 min)
