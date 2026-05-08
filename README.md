@@ -915,3 +915,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 7.05.26 (Day 154)
 - Started off with another Python agentic learnign session W1 D4, which was rather long - it's awesome how much I can learn by practicing - very productive and satisfying session; rebuilt the whole flow from data collecting to filtering & cleaning in another notebook + learned groupby + transform pattern. Feeling stronger day by day - more in python_agentic_learning repo and the latest commit (1 hr 30 min)
 - Followed up with SQL session - W21 D4 - started confusing ANTI JOIN pattern - perhaps it's because I used to practice three types of them at once and at some point I got confused - we have to focus on one from now on and simply lock it in (30 min)
+
+
+8.05.26 (Day 155)
+- Python agentic learning - W1 D5 - continuing pandas - I rebuilt the entire data loading from scratch + filtered and cleaned df again - the concepts are still to be locked in, but it gets better (2 hr)
+- SQL W21 D5 - locked in the NOT EXISTS pattern - more details and weekly repo in the latest commit - sql_agentic_learning (30 min)
