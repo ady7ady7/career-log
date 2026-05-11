@@ -920,3 +920,7 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 8.05.26 (Day 155)
 - Python agentic learning - W1 D5 - continuing pandas - I rebuilt the entire data loading from scratch + filtered and cleaned df again - the concepts are still to be locked in, but it gets better (2 hr)
 - SQL W21 D5 - locked in the NOT EXISTS pattern - more details and weekly repo in the latest commit - sql_agentic_learning (30 min)
+
+11.05.26 (Day 156)
+- CD Python course break has ended, and I've completed Lesson 12 - intro to data visualization, focusing on Matplotlib and the differences between the standard plotly interface vs object interface (axes). I took notes whenever necessary (1hr 20 min)
+- SQL session (W22 D1) + Python agentic learning - very late session today and while I completed the SQL session seamlessly, I struggled with Python pipeline today and stripped the vast majority of data out from the pipeline - I'm not sure where was the error, so I'll simply come back to it tomorrow and fix it first, because it's pointless to continue the other tasks, as they're directly related to the pipeline. Struggle, but it will get better. (1 hr)
