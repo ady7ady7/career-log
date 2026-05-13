@@ -928,3 +928,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 12.05.26 (Day 157)
 - Started with another agentic Python learning session W2 D2 - I've handled all the bugs from yesterday and proceeded forward. While I'm doing the tasks, I'm also making progress in my DA project, and hopefully I'll be able to finish on time without having to devote long sessions for that. The grouping patterns and all that is still troublesome at this point, but I will master these concepts with time and they will feel very comfortable and automatic (1hr 20 min)
 - Followed up with an SQL learning session - I've mingled some things unnecessarily with STDDEV and made a huge mistake of NOT READING CAREFULLY(!), which made me use orders table instead of transactions, but overall the logic was alright. I'm taking some minus points for that, and I need to always be very careful and read the instructions twice (30 min)
+
+13.05.26 (Day 158)
+- I've handled two days of tasks from CD Python course - focusing mostly on Matplotlib and visualizations, but some of the first tasks also included using the pandas built-in plot() method. Overall, the tasks were difficult and troublesome in many cases - I had to use LLM at some point in some cases to prevent from excessive time waste. I definitely need more practice, but I will get very good at this (2hr)
+- Agentic Python learning session - another session with groupby/agg/transform + visualization with Plotly. When compared to Matplotlib, Plotly seems to be much more intuitive and easy to use at this point, and unless Matplotlib is specifically asked for in a job, I'd rather use Plotly. (1hr 30 min)
+- SQL agentic learning session - W22 D3 - more details in sql_agentic_learning repo's latest commit (30 min)
