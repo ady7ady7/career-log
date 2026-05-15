@@ -938,3 +938,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - CD Python tasks session - struggling with methods, as I'm transitioning between Matplotlib and pandas.plot() and Plotly/Seaborn in my agentic workflow, and moving between different methods is confusing sometimes + I'm unsure what exactly is expected in a given task (1 hr)
 - Agnetic Python flow - same here, I've had to aid myself 2-3 times with LLM today, as I'm taking one method for another - grouping/aggregating and ordering certain values is sometimes difficult, as I had to calculate an average price for each brand (consisting of X-XX models) for a given number of days from premiere - It's difficult and I really feel like I need to practice more to get comfortable with Pandas and visualization, but it will happen (1 hr 10 min)
 - SQL session (W22 D4) went pretty smoothly today and even the island-gap streaks pattern didn't cause too much trouble (30 min)
+
+15.05.26 (Day 160)
+- CD Python tasks session - not so difficult today, I handled the tasks pretty well and quickly (30 min)
+- Evening Python agentic workflow - handled the chart shadows for price decay chart - it was caused as every brand had multiple models with different intervals and uneven gaps, which created the artifacts in seaborn. Recalculating days after launch to the nearest multiple of 7 was a solution which allowed me to handle this properly and removed the shadows/artifacts from the chart (1 hr 10 min)
+- Evening SQL agentic workflow - very lght session for today - more in sql_agentic_learning repo commit (20 min)
