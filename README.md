@@ -943,3 +943,7 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - CD Python tasks session - not so difficult today, I handled the tasks pretty well and quickly (30 min)
 - Evening Python agentic workflow - handled the chart shadows for price decay chart - it was caused as every brand had multiple models with different intervals and uneven gaps, which created the artifacts in seaborn. Recalculating days after launch to the nearest multiple of 7 was a solution which allowed me to handle this properly and removed the shadows/artifacts from the chart (1 hr 10 min)
 - Evening SQL agentic workflow - very lght session for today - more in sql_agentic_learning repo commit (20 min)
+
+18.05.26 (Day 161)
+- It was rather a busy day, so the Python agentic session was rather late today (W3 D1) - I've made a crucial discovery today - data I've got in the .csv files were only the probe asins (parent product codes) for each model, so we're missing out on dozens of products data. I have everything uploaded to my local Postgres DB, so tomorrow I'm going to fetch all data properly and check how the current research phase looks like after that. This is totally crazy, but I'm glad I've found out at this point, and it's only because data was too fragmented at the current scope, which made me think (1 hr 20 min)
+- Nice and easy agentic SQL session for the start of this week - W23 D1 - as always, more in sql_agentic_learning repo (30 min)
