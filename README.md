@@ -953,3 +953,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Another Python session - DA project continued + tasks - W3 D2 - I've rebuilt the import script (this was done with Claude to save time), imported data for all submodels this time (850k rows of price data), and recreated the pipeline and the analysis flow for now with success, more in python_agentic_learning repo, today's commit (1 hr 30 min)
 - Finished all CD Python tasks for today and yesterday - a breeze and a rather easy session after today's lession. I've practiced creating various Seaborn charts with different estimators (aggregation functions) and constraints - this feels very intuitive, MUCH BETTER than when I started (40 min)
 - SQL agentic session handled as well - W23 D2 - very intense day today and the tasks were far from easy - check sql_agentic_learning repo for more info - eveyrthing gracefully handled (30 min)
+
+20.05.26 (Day 163)
+- CD Python tasks - Seaborn charts handled without any issues today (30 min)
+- Python agentic session W3 D3 including project progress - no difficulties today, but the monthly_sales rank analysis doesn't make sense in the current aggregation scope - I'd rather look on each model after premiere, or perhaps create interactive filters with Plotly (1 hr)
+- Finished the day with another SQL agentic learning session - W23 D3 - rather smooth today - check sql_agentic_learnign repo for more details (30 min)
