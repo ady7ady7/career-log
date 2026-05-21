@@ -958,3 +958,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - CD Python tasks - Seaborn charts handled without any issues today (30 min)
 - Python agentic session W3 D3 including project progress - no difficulties today, but the monthly_sales rank analysis doesn't make sense in the current aggregation scope - I'd rather look on each model after premiere, or perhaps create interactive filters with Plotly (1 hr)
 - Finished the day with another SQL agentic learning session - W23 D3 - rather smooth today - check sql_agentic_learnign repo for more details (30 min)
+
+21.05.26 (Day 164) 
+- CD Python tasks - Seaborn charts continued (30 min)
+- Agentic Python session - W3 D4 + some project progress as always - I'm still into exploratory phase, not rushing it, checking, getting some insights and adjusting as I go forward (1 hr 10 min)
+- SQL agentic session W23 D4 - more in sql_agentic_learning repo, not a problematic session at all, I should move more into new set of more advanced/complex topics as I'm not learning much new things at this moment (25 min)
