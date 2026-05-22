@@ -963,3 +963,9 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - CD Python tasks - Seaborn charts continued (30 min)
 - Agentic Python session - W3 D4 + some project progress as always - I'm still into exploratory phase, not rushing it, checking, getting some insights and adjusting as I go forward (1 hr 10 min)
 - SQL agentic session W23 D4 - more in sql_agentic_learning repo, not a problematic session at all, I should move more into new set of more advanced/complex topics as I'm not learning much new things at this moment (25 min)
+
+
+22.05.26 (Day 165) 
+- Started today with CD Python tasks, continuing Seaborn tasks - all recent tasks are listed in my python_agentic_learnign repo in practice.py file (30 min)
+- Continued the project work with another agentic Python session - this seems to be a very important session, as everything kinda clicked and I realized exactly what charts do I really need to focus on and show. Every step of this exploratory analysis I took before was very important as I was adjusting my vision over time (1 hr 10 min)
+- SQL session - very easy Friday session today, but I need to step up and start dealing with more challenges (20 min)
