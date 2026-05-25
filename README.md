@@ -969,3 +969,8 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 - Started today with CD Python tasks, continuing Seaborn tasks - all recent tasks are listed in my python_agentic_learnign repo in practice.py file (30 min)
 - Continued the project work with another agentic Python session - this seems to be a very important session, as everything kinda clicked and I realized exactly what charts do I really need to focus on and show. Every step of this exploratory analysis I took before was very important as I was adjusting my vision over time (1 hr 10 min)
 - SQL session - very easy Friday session today, but I need to step up and start dealing with more challenges (20 min)
+
+25.05.26 (Day 166)
+- Started with project progress and another session of Python agentic learning (W4 D1). I've started making progress according to the plan I've figured out after 3 weeks of previous exploratory analysis, but again, I've encountered another issue that needs solving as soon as possible, as the first/premiere prices were based on model rather than submodel + there are also gaps between the actual premiere date and the day Keepa started tracking phones - this is very common and shall be treated seriously. Honestly, there are many issues with this dataset, and I didn't expect that, but quite frankly it's also an absolutely perfect project to practice DA in a proper way. I really have to be careful here not to mess things up. Nice! (1hr 30 min)
+- No SQL tasks this week, as I'm preparing a dataset for the new chapter - I have some ideas already and will check them out throughout this week
+- No CD Python tasks this week, as we're having a scheduled break to focus on the project
