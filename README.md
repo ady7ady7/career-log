@@ -980,3 +980,6 @@ I;ve fixed some issues as well, as some smartphones had a weird, factory names i
 
 26.05.26 (Day 168)
 - Another project focused session - I've created 5 charts and also a distinction for price decay between Renewed vs Renewed Premium product grade for iPhones. What's interesting is that there are no New iPhones sold on Amazon. Also, the monthly sales data is limited to the last 3 years only, which is really bad and definitely has to be explicitly stated in the relevant section of the project, but I'll still keep it, as I've wasted a lot of time on it already. I'm also planning to include some more insights tomorrow. (2 hr)
+
+27.05.26 (Day 169)
+- Pushing the project forwards, as we're moving closer to the deadline - EOD Added few more charts today - compared 1yr retention patterns for each brand/generation, price decay and the best time to buy theoretically + added some KPI metrics (Claude helped with KPIs, as orchestrating them with Go wasn't a thing I've done before!!!). (2 hr)
