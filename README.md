@@ -1019,7 +1019,12 @@ This also led to some interesting observations and maybe 1-2 more things to chec
 - Daily agentic SQL session W24 D5 - more research on NQ tick data, more info in sql_agentic_learning repo's latest commit (30 min)
 
 
-8.08.26 (Day 176)
+8.06.26 (Day 176)
 - During the weekend I've also done a review of basic Python (stdlibs, OOP, types + comprehensions), as after passing the PCAP I honestly didn't use it much, as I was mostly focusing on Pandas and visualization libraries (Matplotlib, Seaborn, Plotly). It's my desired path, but I don't want to forget the concepts that I took a lot of time to learn and practice, so I figured out I'd do weekly Python tasks. It was probably a great decision as I really struggled with some tasks, especially generators/decorators. Not sure if I will ever need these two, but I want to master these concepts anyway. The sesssion took about 60-90 minutes and you can find the tasks in practice.py, between lines 825-1040.
 - I've started this week with another lesson from Crappy Data Python for Data Analysis course. We're starting statistics - started with some basic statistic measurements (both positional and classical) like variance, std, CV, IQR, moving into distributions, skewness + curtosis and some great examples of different distributions e.g. discrete distribution models like Bernoulli Distribution, Binomial Distribution, Poisson Distribution. These things are fascinating and it will be awesome to actually learn them, understand and use in a meaningful way. As always, I've stopped whenever there was something requiring more attention and took extensive notes. (1 hr 30 min)
 - SQL agentic learning session - two very useful researches on NQ futures tick trading data. Quite a time-consuming session as the queries run long and I had to create an additional view first, but also very insightful in terms of market findings. More in sql_agentic_learnign repo latest commit. (1 hr)
+
+9.06.26 (Day 177)
+- Started the day with CD Python tasks from statistics - the first three were pretty easy, then I encountered an import bug on the course platform, so I took a break. (30 min)
+- Continued the project progress by adding some green shades for 1/2/3 years after the premiere to annotate make these moments in time more visible. I'm really close to finish things - tomorrow I will be adding some more observations about monthly sales by tiers for different brands and I should be done before I go on a holiday trip on Thursday (40 min)
+- Finished another SQL learning session - as always recently, very useful findings that will also aid me in my trading career in the future - more in sql_agentic_learning :)) (30 min)
