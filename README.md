@@ -1044,3 +1044,9 @@ This also led to some interesting observations and maybe 1-2 more things to chec
 - Started with CD Python tasks with extra tasks to make up for the holiday break - you can find them in python_agentic_learning repo in practice.py file - lines 1364-1600 (1 hr)
 - Python project session - I've checked and fixed the aggregation section + the first part of price decay by % section - there's still more work to do there as some charts are too cluttered with information ( 1 hr)
 - Finished another SQL agentic session with NQ futures tick data - 2 more research questions with volume imbalance by hour + ORB research (30 min)
+
+17.06.26 (Day 181)
+- Started with a long SQL session with complex research queries on NQ futures data - this took some time and required me to create another view for 15-min buckets. The research was a struggle at some points, but I've managed to handle everything (1hr 30 min)
+- Finished lesson 15 from CD Python for Data Analysis course - statistics 2, which focused on statistical tests (parametric vs non-parametric with examples) and described the basics of false positive/false negative with alpha/beta parameters and the p-value and validating/negating the zero hypothesis. As always, I took extensive notes, screenshots and spent some extra time on it to properly understand the underlying ideas (1 hr 20 min)
+- Followed up with CD Python tasks with 3 extra tasks to make up for the holiday break - with the current pace, I will be up to date as I finish the tasks tomorrow (30 min)
+- Another Python project session - fixed and recreated price decay section completely, filtered out most tiers for more readability and added heatmaps as they also work well to show the price decay differences. I'm almost done with only the monthly sales section left to check and I'm planning to finish on Friday. I also practiced Pandas a bit with other tasks - that's a very productive day beside my work. (1 hr)
