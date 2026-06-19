@@ -1055,3 +1055,8 @@ This also led to some interesting observations and maybe 1-2 more things to chec
 - Started the day with an extended CD Python tasks session, and today I've managed to finally catch up after the holiday break and finish all of the currently assigned tasks. Also added some notes and practiced stats - it's definitely a difficult branch with a lot of caveats and awareness required, so I'm doing my best to make sure I'm doing things right (1 hr)
 - Daily Python project session - added more text + arrow annotations wherever relevant, modified some fontsizes and made the code a bit more readable with some comments and relevant breaks;; I've also done some pandas practice tasks outside of the project (1 hr)
 - SQL W24 D4 - another very insightful session with NQ tick data exploration :)) - more in sql_agentic_learning repo (40 min)
+
+19.06.26 (Day 183)
+- CD Python tasks session with statistics - as always, you can find them in python_agentic_learning repo in practice.py - lines 2228-2368 (30 min)
+- Project progress continued - added some more annotations + axvspans, cleared out some unnecessary tiers from a few sales charts for visibility. I'm really close to finish up the project. (40 min)
+- SQL W24 D5 - NQ exploration continued with some advanced queries - more in sql_agentic_learning repo (30 min)
