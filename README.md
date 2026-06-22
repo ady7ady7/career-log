@@ -1060,3 +1060,12 @@ This also led to some interesting observations and maybe 1-2 more things to chec
 - CD Python tasks session with statistics - as always, you can find them in python_agentic_learning repo in practice.py - lines 2228-2368 (30 min)
 - Project progress continued - added some more annotations + axvspans, cleared out some unnecessary tiers from a few sales charts for visibility. I'm really close to finish up the project. (40 min)
 - SQL W24 D5 - NQ exploration continued with some advanced queries - more in sql_agentic_learning repo (30 min)
+
+22.06.26 (Day 184)
+- Started with CD Python quiz from the previous week's lesson, got 100% (10 min)
+- CD Python lesson 16 - stats continued - correlations (Pearson, Spearman), correlation vs regression, linear regression, chi squared test, Confidence Interval (CI).
+These topics are very interesting and also vdifficult. As always, I took extensive notes and paused and replayed the parts that needed more attention from me (1hr 30 min)
+- Followed up with CD Python stats task - a few ones, rather simple today, but these concepts definitely need a lot of practice and understanding to be able to properly apply and use in different scenarios (20 min)
+-  Python project session - I've added a small stats section after the price decay comparison by brand. The findings may be obvious for such a large dataset, BUT anyway I wanted to include that, especially as I've learned these concepts recently. 
+I've used a standard path - normaltest into Kruskal-Wallis (as the distirbutions were proven to be non-normal) + posthoc Dunn test to check the specific differences between the brands. It became obvious that all pairs differ from each other in all possible combinations and I backed it up statistically :)) (40 min)
+- Late evening SQL session - I should definitely work on this earlier, but I had rather a busy day today - continued NQ tick data research - today I've focused on news first hour spikes vs later action - more in sql_agentic_learning repo, as per usual (30 min)
