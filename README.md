@@ -1084,3 +1084,8 @@ I also identified an area where the statistical mean comparisons would fit perfe
 25.06.26 (Day 187)
 - CD Python tasks - a very satisfying session with stats - there was a task with normaltest + ttest, another one with Spearman's correlation test and one chi-squared task. I really enjoy solving these tasks and perhaps this is exactly what I wwill do in the future, as it's really exciting. Anyway, at this point I really have to back myself up with notes and this would be almost impossible to do intuitively, but it will be easy and clear at some point as I learn. I should probably create a lot more of such tasks and dilemmas in the future in my Python agentic learning repo. Kasia's done great job with the tasks (40 min)
 - Late evening SQL session - 2 research tasks for NQ futures data and 1 view fix as I needed a proper definition with CASE WHEN for properly calculating the FOMC spike magnitudes for both up/down scenarios. Everything went pretty smooth, satisfying session with more details in sql_agentic_learning repo (40 min)
+
+26.06.26 (Day 188)
+- rather busy day with not many tasks, but I've done my routine!
+- CD Python tasks as a starter (30 min)
+- Evening SQL sesion with NQ research continued - more in sql_agentic_learnign repo (40 min)
