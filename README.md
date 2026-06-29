@@ -1089,3 +1089,8 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - rather busy day with not many tasks, but I've done my routine!
 - CD Python tasks as a starter (30 min)
 - Evening SQL sesion with NQ research continued - more in sql_agentic_learnign repo (40 min)
+
+29.06.26 (Day 189)
+- During this week there's a break from CD Python course, so I have some more space to do other things, but since I'm busy with work projects, I'll probably just stick to my normal activities + hopefully I will finally release the Python project with a public post :))
+- Evening SQL session with NQ research tasks, a satisfying session with some useful findigns, as always more in sql_agentic_learning repo's latest commit (40 min)
+
