@@ -1094,3 +1094,7 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - During this week there's a break from CD Python course, so I have some more space to do other things, but since I'm busy with work projects, I'll probably just stick to my normal activities + hopefully I will finally release the Python project with a public post :))
 - Evening SQL session with NQ research tasks, a satisfying session with some useful findigns, as always more in sql_agentic_learning repo's latest commit (40 min)
 
+30.06.26 (Day 190)
+- CD Python tasks - I had three extra tasks that somehow I didn't do during the previous week, so I completed them today - you can find them in python_agentic_learning/practice.py. Statistical concepts are definitely a possible path for me to continue practicing daily with AI-generated tasks, as without regular practice I would most likely forget them and they need practice to undestand properly (25 mins)
+- SQL daily session with NQ research continued (30 min)
+- Once again re-read the Python project, tweaked the intro section a bit and prepared a mock translation into PL - still needs to be reviewed, probably tomorrow (25 min)
