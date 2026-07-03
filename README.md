@@ -1107,3 +1107,7 @@ I also identified an area where the statistical mean comparisons would fit perfe
 2.07.26 (Day 192)
 - Finally finished and uploaded my Python DA project - Amazon smartphones analysis. I've done the final tweaks and consistency checks and adjustments between the EN-PL versions and sent the project to a DC community I'm a part of for feedback before it gets posted on LinkedIn (30 min)
 - Evening SQL session with NQ research continued - more in sql_agentic_learning repo's latest commit, but today's session took some time (1 hr)
+
+3.07.26 (Day 193)
+- Today was a busy working day, and I mostly focused on that - CD Python course is on hold until the next week and I've just ifnished the current Python project, so I'm probably gonna figure out what's next from the next week onwards.
+- SQL agentic learnign session that was pretty long, the first query took me well over 40 mins - as always, you can find the details in sql_agentic_learnign repo's latest commit (50 min)
