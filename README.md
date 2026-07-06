@@ -1111,3 +1111,7 @@ I also identified an area where the statistical mean comparisons would fit perfe
 3.07.26 (Day 193)
 - Today was a busy working day, and I mostly focused on that - CD Python course is on hold until the next week and I've just ifnished the current Python project, so I'm probably gonna figure out what's next from the next week onwards.
 - SQL agentic learnign session that was pretty long, the first query took me well over 40 mins - as always, you can find the details in sql_agentic_learnign repo's latest commit (50 min)
+
+6.07.27 (Day 194)
+- Very busy working day - I've started the CD Python's course new lesson, but I'll finish it tomorrow
+- SQL NQ research session - W29 D1 - measured how far usually the price goes below open on Monday lows + depending on gap direction as well; also checked the expansion curves depending on each weekday (how much % of the total daily range is captured by a given time window - 10:00, 10:30 etc) - more in sql_agentic_learning repo
