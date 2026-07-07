@@ -1112,6 +1112,11 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - Today was a busy working day, and I mostly focused on that - CD Python course is on hold until the next week and I've just ifnished the current Python project, so I'm probably gonna figure out what's next from the next week onwards.
 - SQL agentic learnign session that was pretty long, the first query took me well over 40 mins - as always, you can find the details in sql_agentic_learnign repo's latest commit (50 min)
 
-6.07.27 (Day 194)
+6.07.26 (Day 194)
 - Very busy working day - I've started the CD Python's course new lesson, but I'll finish it tomorrow
-- SQL NQ research session - W29 D1 - measured how far usually the price goes below open on Monday lows + depending on gap direction as well; also checked the expansion curves depending on each weekday (how much % of the total daily range is captured by a given time window - 10:00, 10:30 etc) - more in sql_agentic_learning repo
+- SQL NQ research session - W29 D1 - measured how far usually the price goes below open on Monday lows + depending on gap direction as well; also checked the expansion curves depending on each weekday (how much % of the total daily range is captured by a given time window - 10:00, 10:30 etc) - more in sql_agentic_learning repo (1 hr)
+
+7.07.26 (Day 195)
+- CD Python Lesson 17 - intro to DS, algorithms intro and two case studies with linear regression and logistic regression - two very simple algorithms for numerical/categorical data. As always I took extensive notes and stopped/replayed parts which were more difficult (1hr 20 min)
+- CD Python tasks - I've practiced linear regression and logistic regression and also assessed their accuracy with accuracy_score (very basic metric) and mae (mean absolute error) - all tasks in python_agentic_learning repo, practice.py file in main directory (40 min)
+- SQL session - analyzing overnight gaps vs next day direction in relation to gaps only but also weekdays in the second cut (20 min)
