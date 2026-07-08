@@ -1120,3 +1120,7 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - CD Python Lesson 17 - intro to DS, algorithms intro and two case studies with linear regression and logistic regression - two very simple algorithms for numerical/categorical data. As always I took extensive notes and stopped/replayed parts which were more difficult (1hr 20 min)
 - CD Python tasks - I've practiced linear regression and logistic regression and also assessed their accuracy with accuracy_score (very basic metric) and mae (mean absolute error) - all tasks in python_agentic_learning repo, practice.py file in main directory (40 min)
 - SQL session - analyzing overnight gaps vs next day direction in relation to gaps only but also weekdays in the second cut (20 min)
+
+8.07.26 (Day 196)
+- CD Python tasks - algorithms continued - linear regression / logistic regression (35 min)
+- SQL evening session - I thought it would be nice to check how often does the price cross EU low/ EU midpoint during the RTH session on bullish days (30 min)
