@@ -1124,3 +1124,8 @@ I also identified an area where the statistical mean comparisons would fit perfe
 8.07.26 (Day 196)
 - CD Python tasks - algorithms continued - linear regression / logistic regression (35 min)
 - SQL evening session - I thought it would be nice to check how often does the price cross EU low/ EU midpoint during the RTH session on bullish days (30 min)
+
+9.07.26 (Day 197)
+- Began the day with SQL tasks (W29 D4) - continuing NQ research - gaps/US overnight direction vs later grabs of EU midpoint/EU low etc. I really love how much market intel I'm getting from this on daily basis :)). (45 min)
+- CD Python tasks session - algorithms continued with 4 more tasks - more in python_agentic_learning/practice.py (1 hr)
+- I've applied technical fixes to both EN/PL version my Python project based on feedback from a senior colleague (20 min)
