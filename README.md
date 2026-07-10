@@ -1129,3 +1129,7 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - Began the day with SQL tasks (W29 D4) - continuing NQ research - gaps/US overnight direction vs later grabs of EU midpoint/EU low etc. I really love how much market intel I'm getting from this on daily basis :)). (45 min)
 - CD Python tasks session - algorithms continued with 4 more tasks - more in python_agentic_learning/practice.py (1 hr)
 - I've applied technical fixes to both EN/PL version my Python project based on feedback from a senior colleague (20 min)
+
+10.07.26 (Day 198)
+- CD Python tasks - algorithms continued - this huuge topic will definitely need a lot of love and practice during the next few months, but I will not be aiming to practice and know every single algorithm, but just a few crucial ones for my needs (40 min)
+- SQL W29 D5 -  NQ research continued - more in sql_agentic_learning repo's latest commit. One of the queries today was pretty complex and took some more time. (1hr 10 min)
