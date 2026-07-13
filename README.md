@@ -1133,3 +1133,7 @@ I also identified an area where the statistical mean comparisons would fit perfe
 10.07.26 (Day 198)
 - CD Python tasks - algorithms continued - this huuge topic will definitely need a lot of love and practice during the next few months, but I will not be aiming to practice and know every single algorithm, but just a few crucial ones for my needs (40 min)
 - SQL W29 D5 -  NQ research continued - more in sql_agentic_learning repo's latest commit. One of the queries today was pretty complex and took some more time. (1hr 10 min)
+
+13.07.27 (Day 199)
+- Began this week with a CD Python test from the last week (algos) and I've got 8/8 pts :)). (10 min)
+- SQL agentic learning session with NQ research continued, today I focused on volume and delta magnitude of the IB - more in sql_agentic_learning repo, latest commit (40 min)
