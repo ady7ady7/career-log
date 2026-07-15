@@ -1138,8 +1138,13 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - Began this week with a CD Python test from the last week (algos) and I've got 8/8 pts :)). (10 min)
 - SQL agentic learning session with NQ research continued, today I focused on volume and delta magnitude of the IB - more in sql_agentic_learning repo, latest commit (40 min)
 
-14.07.27 (Day 200!!!)
+14.07.26 (Day 200!!!)
 - Huge milestone achieved, and I'm proud of myself.
 - CD Python lesson 18 - algorightms teaching - training data vs test data, machine learning principles and evaluating regression vs classification models on the example of logistic regression and linear regression. As always I took extensive notes with screens and paused/replayed some parts of the videos whenever necessary (1hr 30 min)
 - Followed up with 6 ML tasks from CD python course - splitting the df into train/test df and assessing the results of decision tree/logistic regression models (45 min)
 - evening SQL tasks session - W30 D2 - NQ research continued, more in sql_agentic_learnign repo's latest commit (20 min)
+
+15.07.26 (Day 201)
+- Began with CD Python tasks session - ML training continued - more in python_agentic_learning/practice.py file, as the tasks are there (20 min)
+- Followed with a SQL tasks session - NQ research continued with focus on EU high reached during the RTH session on beearish days by weekday/gap direction - more in sql_agentic_learning repo (30 min)
+- Prepared Canva graphics for LI post with my DA project (40 min)
