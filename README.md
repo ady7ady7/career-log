@@ -1149,7 +1149,17 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - Followed with a SQL tasks session - NQ research continued with focus on EU high reached during the RTH session on beearish days by weekday/gap direction - more in sql_agentic_learning repo (30 min)
 - Prepared Canva graphics for LI post with my DA project (40 min)
 
-16.07.27 (Day 202)
+16.07.26 (Day 202)
 - A very busy working day, but I managed to do the SQL/CD Python session in the evening, and the LI post is postponed for tomorrow
 - Daily SQL learning session - NQ research continued (40 min)
 - Daily CD Python tasks session with ML tasks continued (30 min)
+
+17.07.26 (Day 203)
+- CD Python tasks continued - more in python_agentic_learning/practice.py file. (40 min)
+- Daily SQL session with NQ research queries, and you can find more in sql_agentic_learning repo's latest commit (30 min)
+- Finally prepared and published the final version of my Amazon Smartphones DA project in Python. I might add some more layers to it, but the first and the most important part of it is done, and I'm glad it happened! I've prepared a LI post with images from Canva. (1 hr)
+
+20.07.26 (Day 204)
+- CD Python course Lesson 19 - today's lesson was rather long and even more complex than usual, as we've focused on several aspects of ML training - data preparation, data leakage, scaling data methods (StandardScaler, MinMaxScaler, RobustScaler), algorithm explainability and tools to understand how models work (coef_, feature_importances_ for tree models, SHAP library - super cool and interesting). It was very long as I had to pause a lot and take notes to get all the relevant information, not to say I understand them as these certainly need practice (2 hr)
+- SQL learning session with very interesting intraday bucket behavior vs above-close/above-open snapshots (30 min)
+- CD Python tasks after today's lesson - you can find them in python_agentic_learning/practice.py (20 min)
