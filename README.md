@@ -1163,3 +1163,8 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - CD Python course Lesson 19 - today's lesson was rather long and even more complex than usual, as we've focused on several aspects of ML training - data preparation, data leakage, scaling data methods (StandardScaler, MinMaxScaler, RobustScaler), algorithm explainability and tools to understand how models work (coef_, feature_importances_ for tree models, SHAP library - super cool and interesting). It was very long as I had to pause a lot and take notes to get all the relevant information, not to say I understand them as these certainly need practice (2 hr)
 - SQL learning session with very interesting intraday bucket behavior vs above-close/above-open snapshots (30 min)
 - CD Python tasks after today's lesson - you can find them in python_agentic_learning/practice.py (20 min)
+
+21.07.27 (Day 205)
+- CD Python tasks with algorithms and a nice review of datetime concepts :)) (30 min)
+- SQL research session - W31 D2 - more in sql_agentic_learning repo (30 min)
+- CD Python course Q&A watched and I took some notes to prepare for final project + considered a few ideas (1 hr)
