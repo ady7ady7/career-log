@@ -1164,7 +1164,12 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - SQL learning session with very interesting intraday bucket behavior vs above-close/above-open snapshots (30 min)
 - CD Python tasks after today's lesson - you can find them in python_agentic_learning/practice.py (20 min)
 
-21.07.27 (Day 205)
+21.07.26 (Day 205)
 - CD Python tasks with algorithms and a nice review of datetime concepts :)) (30 min)
 - SQL research session - W31 D2 - more in sql_agentic_learning repo (30 min)
 - CD Python course Q&A watched and I took some notes to prepare for final project + considered a few ideas (1 hr)
+
+22.07.26 (Day 206)
+- Began with CD Python tasks continued, although I didn't manage to get the regex extra task out of the way today (30 min)
+- Followed up with SQL research - W31 D3 - some useful findings, more in sql_agentic_learning repo's latest commit (30 min)
+- Busy working day, but I managed to get the main tasks done
