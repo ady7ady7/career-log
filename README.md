@@ -1173,3 +1173,6 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - Began with CD Python tasks continued, although I didn't manage to get the regex extra task out of the way today (30 min)
 - Followed up with SQL research - W31 D3 - some useful findings, more in sql_agentic_learning repo's latest commit (30 min)
 - Busy working day, but I managed to get the main tasks done
+
+23.07.27 (Day 207)
+- Evening SQL learnign session - W31 D4 - today I've decided to actually do a little shift and do some tasks based on CD course SQL data with orders/transactions etc., as quite honestly I've already collected a lot of useful data which proved to be working :)). I decided to take on some different tasks to practice SQL more and did 3 tasks from a different dataset - you can check the tasks in the latest sql_agentic_learning repo's commit
