@@ -1174,5 +1174,10 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - Followed up with SQL research - W31 D3 - some useful findings, more in sql_agentic_learning repo's latest commit (30 min)
 - Busy working day, but I managed to get the main tasks done
 
-23.07.27 (Day 207)
+23.07.26 (Day 207)
 - Evening SQL learnign session - W31 D4 - today I've decided to actually do a little shift and do some tasks based on CD course SQL data with orders/transactions etc., as quite honestly I've already collected a lot of useful data which proved to be working :)). I decided to take on some different tasks to practice SQL more and did 3 tasks from a different dataset - you can check the tasks in the latest sql_agentic_learning repo's commit
+
+24.07.26 (Day 208)
+- Double batch of CD Python tasks today went pretty smoothly, more in python_agentic_learning/practice.py or simply the latest commit in that repo (40 min)
+- SQL agentic learning session - W31 D5 - again I focused on orders/transactions dataset rather than NQ, figuring out that I have probably everything I need there. The next steps for NQ data is investing more in Databento EOBI-grade data, and building an infrastructure for automated aggregation and monitoring chosen lookback periods. Time for that will come :))
+As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
