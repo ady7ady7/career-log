@@ -1181,3 +1181,8 @@ I also identified an area where the statistical mean comparisons would fit perfe
 - Double batch of CD Python tasks today went pretty smoothly, more in python_agentic_learning/practice.py or simply the latest commit in that repo (40 min)
 - SQL agentic learning session - W31 D5 - again I focused on orders/transactions dataset rather than NQ, figuring out that I have probably everything I need there. The next steps for NQ data is investing more in Databento EOBI-grade data, and building an infrastructure for automated aggregation and monitoring chosen lookback periods. Time for that will come :))
 As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
+
+27.07.26 (Day 209)
+- CD Python lesson 19 - algorithms continued - XGBoost, RandomForest, hyperparameter tuning, unsupervised learning. It's the last lesson from the course and now the only thing left is to do the final project. As always I took extensive notes, screenshots and paused wherever necessary. (1hr 30 min)
+- SQL W32 D1 session - continuing the daily tasks with transactions/orders dataset instead - more in sql_agentic_learning repo (30 min)
+- CD Python tasks daily session (20 min)
