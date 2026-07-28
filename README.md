@@ -1186,3 +1186,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 - CD Python lesson 19 - algorithms continued - XGBoost, RandomForest, hyperparameter tuning, unsupervised learning. It's the last lesson from the course and now the only thing left is to do the final project. As always I took extensive notes, screenshots and paused wherever necessary. (1hr 30 min)
 - SQL W32 D1 session - continuing the daily tasks with transactions/orders dataset instead - more in sql_agentic_learning repo (30 min)
 - CD Python tasks daily session (20 min)
+
+28.07.26 (Day 210)
+- Began with my daily SQL session - W32 D2 - today's tasks took some more time, as I've got stuck on one, but a very postiive thing is I've done it all on my own and finally solved the issue on my own as well :)) (45 min)
+- CD Python tasks session (30 min)
