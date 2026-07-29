@@ -1190,3 +1190,8 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 28.07.26 (Day 210)
 - Began with my daily SQL session - W32 D2 - today's tasks took some more time, as I've got stuck on one, but a very postiive thing is I've done it all on my own and finally solved the issue on my own as well :)) (45 min)
 - CD Python tasks session (30 min)
+
+29.07.26 (Day 211)
+- SQL W32 D3 for starters - continuing to work on crappy_data db instead of NQ EOBI data, as I've got all insights I need for my trading already (30 min)
+- CD Python tasks with ML continued (20 min)
+- I also began to work on the new Python project today - the goal will be to analyze gold trading hours + train an ML algo with a 70%+ prediction rate for a simple goal (e.g. whether the day will end bullish/bearish, or something like that - not a complicated or very specified outcome, as I'm being realistic here). Today I've created a mock plan of the project, refreshed my etl fetching repo from a few months ago, updated the dependencies and fetched more m5 OHLC data for spot gold from Dukascopy - it takes a lot of time to fetch data, so I will continue with the progress tomorrow. I'm saving the market data on my Digital Ocean PostgreSQL db (2 hr).
