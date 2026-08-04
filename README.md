@@ -1209,3 +1209,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 3.08.26 (Day 214)
 - Daily SQL session - W33 D1 - focused on the CD orders/transactions dataset with a few tasks today - check sql_agentic_learning repo for the latest commit to see more details, but most SQL tasks are a breeze at this point (20 min)
 - Daily Python session focused on my Python DA project #4 - I've moved forward with the analysis, created a few visualizations and planned accordingly, as data shown wasn't clear enough in its basic form, so I decided to create 30 min buckets for no. They already depict clear tendencies, and I'm itnerested to move forward (1 hr 10 min)
+
+4.08.26 (Day 215)
+- Daily SQL session - W33 D2 - morei n sql_agentic_learning repo's latest commit (30 min)
+- Python DA project #5 - I've done a quick check of HOD/LOD forming windows and they also seem to form often during the 6:30-10:00 window, which is another interesting observation (30 min)
