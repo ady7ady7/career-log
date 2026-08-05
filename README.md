@@ -1213,3 +1213,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 4.08.26 (Day 215)
 - Daily SQL session - W33 D2 - morei n sql_agentic_learning repo's latest commit (30 min)
 - Python DA project #5 - I've done a quick check of HOD/LOD forming windows and they also seem to form often during the 6:30-10:00 window, which is another interesting observation (30 min)
+
+5.08.26 (Day 216)
+- Daily SQL session - W33 D3 - more in sql_agentic_learnign repo's latest commit, pretty smooth session (25 min)
+- Python DA project #6 - progress continued with Asia candles filtering + daily aggregations (40 min)
