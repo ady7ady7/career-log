@@ -1217,3 +1217,8 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 5.08.26 (Day 216)
 - Daily SQL session - W33 D3 - more in sql_agentic_learnign repo's latest commit, pretty smooth session (25 min)
 - Python DA project #6 - progress continued with Asia candles filtering + daily aggregations (40 min)
+
+6.08.26 (Day 217)
+- Daily SQL session - W33 D4 - more in sql_agentic_learnign repo (30 min)
+- Python DA project #7 - project continued, more in python_agentic_learning repo's latest commit (30 min)
+
