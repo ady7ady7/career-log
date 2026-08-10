@@ -1225,3 +1225,8 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 7.08.26 (Day 218)
 - Daily SQL session - I reviewed recursive CTE today and a tricky gaps and islands pattern, not too difficult in the end but I struggled at first (40 min)
 - Python DA project #8 - I decided to split the sessions into EU/NY parts, hoping to see more variety, as the current analysis shows rather mild differences (1 hr)
+
+10.08.26 (Day 219)
+- during the weekend I've also done a Python quiz with a 90%+ score, didn't commit it back then, but it's definitely worth noting here (30 min)
+- began with daily SQL session - W34 d1 (35 min)
+- Continued to work on the Python DA project #9 - during the weekend I've read some research papers and implemented new features that could help me get more meaningful results with the ML, as the current visualizations don't show significant differences in most cases (1 hr 10 min)
