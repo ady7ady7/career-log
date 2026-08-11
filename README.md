@@ -1230,3 +1230,8 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 - during the weekend I've also done a Python quiz with a 90%+ score, didn't commit it back then, but it's definitely worth noting here (30 min)
 - began with daily SQL session - W34 d1 (35 min)
 - Continued to work on the Python DA project #9 - during the weekend I've read some research papers and implemented new features that could help me get more meaningful results with the ML, as the current visualizations don't show significant differences in most cases (1 hr 10 min)
+
+
+11.08.26 (Day 220)
+- Began the day with Python DA project #10 - I've split data into train/test sets, trained the XGB Classifier algo, but also observed a big overfitting issue, typical for decision trees - I've started dealing with it, but my approach so far wasn't successful - returning tomorrow as I have more time with more research and I'm going to test out the approach from the XGBoost docs (1 hr)
+- SQL W34 D2 - short session with 2 tasks today, as it was getting very late and it was a busy working day (20 min)
