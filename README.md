@@ -1235,3 +1235,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 11.08.26 (Day 220)
 - Began the day with Python DA project #10 - I've split data into train/test sets, trained the XGB Classifier algo, but also observed a big overfitting issue, typical for decision trees - I've started dealing with it, but my approach so far wasn't successful - returning tomorrow as I have more time with more research and I'm going to test out the approach from the XGBoost docs (1 hr)
 - SQL W34 D2 - short session with 2 tasks today, as it was getting very late and it was a busy working day (20 min)
+
+12.08.26 (Day 221)
+- Python DA project #11 - Hyperparameter tuning - slightly improved the overfit issue without completely fixing it, but the main goal of the project wa s achieved - I'm yet to do some checks and perhaps add some more markdowns to explain the whole flow and add some more details (1 hr)
+- SQL W34 D3 - tasks from job_db today went very smoothly, more in sql_agentic_learning repo (25 min)
