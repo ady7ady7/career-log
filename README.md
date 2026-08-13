@@ -1239,3 +1239,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 12.08.26 (Day 221)
 - Python DA project #11 - Hyperparameter tuning - slightly improved the overfit issue without completely fixing it, but the main goal of the project wa s achieved - I'm yet to do some checks and perhaps add some more markdowns to explain the whole flow and add some more details (1 hr)
 - SQL W34 D3 - tasks from job_db today went very smoothly, more in sql_agentic_learning repo (25 min)
+
+13.08.26 (Day 222)
+- Python DA project #12 - project is finished, I've also added proper intro, polished the copy and checked the texts so that it makes perfect sense - I might do a final review, but it's definitely going into the first available deadline bucket for the CD Python course (45 min)
+- SQL W34 D4 - a few interesting tasks with a conceptual learning of z-score, which measures how many stddevs away are we from the mean value - more in sql_agentic_learning repo (40 min)
