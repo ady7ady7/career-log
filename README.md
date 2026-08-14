@@ -1243,3 +1243,8 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 13.08.26 (Day 222)
 - Python DA project #12 - project is finished, I've also added proper intro, polished the copy and checked the texts so that it makes perfect sense - I might do a final review, but it's definitely going into the first available deadline bucket for the CD Python course (45 min)
 - SQL W34 D4 - a few interesting tasks with a conceptual learning of z-score, which measures how many stddevs away are we from the mean value - more in sql_agentic_learning repo (40 min)
+
+14.08.26 (Day 223) - BEFORE HOLIDAY
+- Python DA project #13 - finished, closed, created a new git repo and uploaded the completed project there (/xauusd_session_analysis_ml) (30 min)
+- Weekly Python ML quiz - got 4.5/5 points from open questions (10 min)
+- SQL W34 D5 - rather short session today - more in sql_agentic_learning repo (25 min)
