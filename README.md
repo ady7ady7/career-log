@@ -1254,3 +1254,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 - In the meantime, I've uploaded my final project for the Crappy Data Python for DA course - XAUUSD daily direction analysis with ML - I've got 2 positive reviews and also reviewed 2 other projects, which concludes that 7-month course. Happy to finish as I'm the one of 18 people out of 100 in total, who managed to send the final project within the first term.
 - Started the new Python learning cycle with ML focus - W1 D1 - more in python_agentic_learning repo. I've got a bit rusty with some methods, but overall I've managed to do everything without any LLM help - just needed to check the docs a few times. Anyway, it was a nice session and I can't wait to practice more and get better and comfortable with the whole process :)). (1 hr 30 min).
 - SQL W35 D1 - came back with a short intro session with two tasks to slowly get back into the practicing mode. These were super easy for me and I definitely need some challenges. (20 min)
+
+26.08.26 (Day 225)
+- Python ML learning cycle W1 D2 - continuing the daily sessions, but today's session was way overshot in terms of difficulty, and way too packed. I hardly managed to do it and it took way too much time, so I needed to provide proper feedback, hoping to see improvements tomorrow (2 hr 30 min)
+- SQL W35 D2 - smooth session with 3 tasks, more in sql_agentic_learning rpeo (25 min)
