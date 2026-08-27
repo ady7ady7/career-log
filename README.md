@@ -1258,3 +1258,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 26.08.26 (Day 225)
 - Python ML learning cycle W1 D2 - continuing the daily sessions, but today's session was way overshot in terms of difficulty, and way too packed. I hardly managed to do it and it took way too much time, so I needed to provide proper feedback, hoping to see improvements tomorrow (2 hr 30 min)
 - SQL W35 D2 - smooth session with 3 tasks, more in sql_agentic_learning rpeo (25 min)
+
+27.08.26 (Day 226)
+- Python ML learning cycle W1 D3 - calculated baselines + means/medians on every quantile - it's interesting to find out that Q5 can really mess up with the results. Anyway, these concepts and developing a proper intuition for them will definitely take some more regular practice. These sessions are definitely not a breeze and require me to think and check concepts in the docs, which is actually very good for my growth. (2 hr)
+- SQL W35 D3 - three tasks, more in the latest commit (sql_agentic_learning repo) (20 min)
