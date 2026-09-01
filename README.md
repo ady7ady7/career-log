@@ -1270,3 +1270,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 31.08.26 (Day 228)
 - Python ML learning W2 D1 - morei n python_agentic_learning latest commit, but generally speaking, these concepts are very difficult and while I get the ideas, it's definitely not yet intuitive and I struggle with remembering the syntax + sometimes understanding the context. I ordered the agent to be much more descriptive and add short explanations about the new concepts frequently, so that I will be able to memorize things better with time (1hr 30 min)
 - SQL W36 D1 - 3 tasks with gaps and islands pattern (transactions streaks that are less than 60 mins from each other) + other tasks - more in sql_agentic_learning repo. Not a big deal tbh, it feels like I've mastered the basics of SQL pretty well and most of the things are automatic at this point. Perhaps it's time to follow up with some kind of test or a timed challenge to test my comprehension level, but I'd definitely say it's a very solid Mid+++ (30 min)
+
+1.09.26 (Day 229)
+- Python ML learning W2 D2 - tasks continued and I was albe to do most of the things that I struggled with yesterday - this definitely needs revisiting after some time, but I'm feeling more confident (1 hr)
+- SQL W36 D2 - pretty difficult tasks, all handled well, morei n sql_agentic_learning repo (30 min)
