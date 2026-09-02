@@ -1274,3 +1274,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 1.09.26 (Day 229)
 - Python ML learning W2 D2 - tasks continued and I was albe to do most of the things that I struggled with yesterday - this definitely needs revisiting after some time, but I'm feeling more confident (1 hr)
 - SQL W36 D2 - pretty difficult tasks, all handled well, morei n sql_agentic_learning repo (30 min)
+
+2.09.26 (Day 230)
+- Python ML learning W2 D3 - continued tasks with walk-forward testing concept introduced - definitely makes A LOT of sense in the context of changing time series (1 hr 20 min)
+- SQL W36 D3 - interesting tasks with one regex formula (the actual regex formula was proposed by the LLM here, to be honest - it could be difficult for me to remember it after just one single try, but it's nice to remind myself how useful this thing can be) (35 min)
