@@ -1278,3 +1278,9 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 2.09.26 (Day 230)
 - Python ML learning W2 D3 - continued tasks with walk-forward testing concept introduced - definitely makes A LOT of sense in the context of changing time series (1 hr 20 min)
 - SQL W36 D3 - interesting tasks with one regex formula (the actual regex formula was proposed by the LLM here, to be honest - it could be difficult for me to remember it after just one single try, but it's nice to remind myself how useful this thing can be) (35 min)
+
+
+3.09.26 (Day 231)
+- Python ML learning W2 D4 - tasks continued with walk-forward + retraining the model on the whole dataset + the idea behind it (1 hr 30 min)
+- SQL W36 D4, back to the NQ EOBI data tasks with VWAP vs close and largest daily single prints. Very interesting tasks that required some more steps and thinking - I handled them without any major issues (35 mins)
+- In the background I'm shamelessly using Claude to work on active ML models to test whether any model could aid my trading statistically. I'd rather use Claude for that since the main goal here is to make them useful ASAP, and I'm learning and training LLM-less coding and ML every day anyway :)). Working on volatility regime classification models now.
