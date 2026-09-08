@@ -1288,3 +1288,11 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 4.09.26 (Day 232)
 - Python ML learning W2 D5 - end of the week session (1 hr 10 min)
 - SQL W36 D5 - introduced LATERAL for the first time, but it will definitely need some practice before I properly understand this and use freely (20 min)
+
+7.09.26 (Day 233)
+- Python W3 D1 - this session was centered around using LLM (Claude Code) to think about the next possible steps and approaches + finally reaggregate data in a different way to use metalabeling first, as I didn't like any other approaches. I want to analyze the price in a trend and check whether ML can be better suited to more defined context, as it didn't quite work out when trying to predict direction in more "open" scenarios. (1hr 10 min)
+- SQL W37 D1 - two simple tasks to begin the week (20 min)
+
+8.09.26 (Day 234)
+- Python W3 D2 - initial data exploration following the yesterday's changes + some simple tasks related to that, nothing strictly related to ML yet (1 hr)
+- SQL 37 D2 - I struggled a bit today with a more complex example of LATERAL + calculated a running_vwap for 30 min buckets on NQ DATA. Frankly, I had to check the syntax for getting the 30 min buckets, as it's an annoying think to do manually. (25 min)
