@@ -1296,3 +1296,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 8.09.26 (Day 234)
 - Python W3 D2 - initial data exploration following the yesterday's changes + some simple tasks related to that, nothing strictly related to ML yet (1 hr)
 - SQL 37 D2 - I struggled a bit today with a more complex example of LATERAL + calculated a running_vwap for 30 min buckets on NQ DATA. Frankly, I had to check the syntax for getting the 30 min buckets, as it's an annoying think to do manually. (25 min)
+
+9.09.26 (Day 235)
+- Python W3 D3 - statistical tests, EU/RTH data split + baselines created for both overall df/EU/RTH selected time of the day, very smooth session overall (1 hr 30 min)
+- SQL W37 D3 - two light tasks today (15 min)
