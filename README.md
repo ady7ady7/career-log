@@ -1300,3 +1300,24 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 9.09.26 (Day 235)
 - Python W3 D3 - statistical tests, EU/RTH data split + baselines created for both overall df/EU/RTH selected time of the day, very smooth session overall (1 hr 30 min)
 - SQL W37 D3 - two light tasks today (15 min)
+
+*forgot to commit the below 3 days at first, so the details are sparse - check python_agentic_learning/sql_agentic learning for more detailed info
+10.09.26 (Day 236)
+- Python W3 D4
+- SQL W37 D4
+
+
+11.09.26 (Day 237)
+- Python W3 D5
+- SQL W37 D5
+
+
+14.09.26 (Day 238)
+- Python W4 D1
+- SQL W38 D1 - proper running VWAP calculation with pre-calculated sums before accumulating them to properly account for changing weights between windows
+
+
+15.09.26 (Day 239)
+- Python W4 D2 - logistic regression w/ high base accuracy case - I'll be learning on how to solve similar cases, it's useful in banking (fraud detection), churn etc. (1hr 10min)
+- SQL W38 D2 - two tasks, more in sql_agentic_learnign repo (30 min)
+
