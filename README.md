@@ -1321,3 +1321,7 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 - Python W4 D2 - logistic regression w/ high base accuracy case - I'll be learning on how to solve similar cases, it's useful in banking (fraud detection), churn etc. (1hr 10min)
 - SQL W38 D2 - two tasks, more in sql_agentic_learnign repo (30 min)
 
+16.09.26 (Day 240)
+- Python W4 D3 - logistic regression this time with finetuning the class weight thorugh class_weight = balanced and through predict_proba's different threshold setting. I've tried both solutions and tested them vs the baseline (default Logistic Regression). Definitely something to master for the future :)) (1hr 20 min)
+- SQL W38 D3 - two DBeaver tasks solved without any major issues, one with my NQ tick data, another with CD database (users, orders, transactions, etc.) (25 min)
+- I've also decided to publish/update the public repo of my trading backtester developed throughout this year - first manually without AI (as a part of my regular PCAP exam practice) and then with LLMs, as it has real use cases for me, so I needed to add some more components and speed things up a bit. I've hidden market data, the findings and some of the most important strategies, but still there's a lot of interesting stuff there and I'm proud of that project. I'd say it's mostly finished and definitely ready to use! 
