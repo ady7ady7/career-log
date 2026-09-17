@@ -1325,3 +1325,8 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 - Python W4 D3 - logistic regression this time with finetuning the class weight thorugh class_weight = balanced and through predict_proba's different threshold setting. I've tried both solutions and tested them vs the baseline (default Logistic Regression). Definitely something to master for the future :)) (1hr 20 min)
 - SQL W38 D3 - two DBeaver tasks solved without any major issues, one with my NQ tick data, another with CD database (users, orders, transactions, etc.) (25 min)
 - I've also decided to publish/update the public repo of my trading backtester developed throughout this year - first manually without AI (as a part of my regular PCAP exam practice) and then with LLMs, as it has real use cases for me, so I needed to add some more components and speed things up a bit. I've hidden market data, the findings and some of the most important strategies, but still there's a lot of interesting stuff there and I'm proud of that project. I'd say it's mostly finished and definitely ready to use! 
+
+17.09.26 (Day 241)
+- Python W4 D4 - logreg continued with ROC-AUC today, more in python_agentic_learning (1hr)
+- SQL W38 D4 - three tasks today with EXCLUDE pattern + a review of INTERSECT/EXCLUDE, as it's been a long time since I've used these (30 min)
+- backtesting continued in the background
