@@ -1330,3 +1330,21 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 - Python W4 D4 - logreg continued with ROC-AUC today, more in python_agentic_learning (1hr)
 - SQL W38 D4 - three tasks today with EXCLUDE pattern + a review of INTERSECT/EXCLUDE, as it's been a long time since I've used these (30 min)
 - backtesting continued in the background
+
+18.09.26 (Day 242)
+- Python W4 D5 - end of week tasks + week summary (45 min)
+- SQL W38 D5 - two tasks today with DISTINCT ON - I've used it before in more complex NQ data queries, but today it was used in totally different context and it turned 2-3CTEs aggregation into a simple single SELECT - amazing and I definitely need to use it more this way (25 min)
+
+21.09.26 (Day 243)
+- Python W4 weekend quiz - 85% (15 min)
+- Python W5 D1 - slightly increased daily task volume with 1 extra task (1hr 20 min) 
+- SQL W39 D1 - DISTINCT ON focus, three tasks, no issues at all (25 min)
+
+22.09.26 (Day 244)
+- Python W5 D2 - encountered some issues with very basic pandas operations like apply with lambda - very useful to reinforce these concepts once again, also practiced Mann-Whitney statistical testing + retrained the Logistic regression model with new features, which didn't improve the results much (+1~ pp in ROC_AUC). Struggled a bit today, but it was a very fruitful session (1hr 45 min)
+- SQL W39 D2 - DISTINCT ON + NTH VALUE, a piece of cake that went very smoothly. I'm thinking about doing some Advanced tasks on online platofrms to check my readiness for more advanced SQL interviews (15 min)
+
+
+23.09.26 (Day 245)
+- Python W5 D3 - recalculated Mann-Whitney and it seems like the pattern's locked in, I just have to reinforce it from time to time + calculated Cohen's d to measure the effect size (I will need to practice that), although the effect size is also kinda visible as you check the model scores + coefs/feature_importance, but it makes sense to use if done before the training phase (also makes sense) (1hr 10 min)
+- SQL W39 D3 - two tasks with DISTINCT ON and NTH value again - caught a nice trap with not using ::NUMERIC after extracting text with regex (used LLM for the regex, being honest - I won't learn regex!) it would order numbers typographically instead of numerically without that little tweak. I didn't catch that (15 min)
