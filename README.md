@@ -1348,3 +1348,19 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 23.09.26 (Day 245)
 - Python W5 D3 - recalculated Mann-Whitney and it seems like the pattern's locked in, I just have to reinforce it from time to time + calculated Cohen's d to measure the effect size (I will need to practice that), although the effect size is also kinda visible as you check the model scores + coefs/feature_importance, but it makes sense to use if done before the training phase (also makes sense) (1hr 10 min)
 - SQL W39 D3 - two tasks with DISTINCT ON and NTH value again - caught a nice trap with not using ::NUMERIC after extracting text with regex (used LLM for the regex, being honest - I won't learn regex!) it would order numbers typographically instead of numerically without that little tweak. I didn't catch that (15 min)
+
+24.09.26 (Day 246)
+- Python W5 D4
+- SQL W39 D4
+
+25.09.26 (Day 247)
+- Python W5 D5
+- SQL W39 D5
+
+28.09.26 (Day 248)
+- Python W6 D1 - finished with RF and starting to look at XGBoostClassifier, which doesn't work this good if we have only one predominant feature surrounded by others that do not really carry the proper effect, as it basically dilutes the working feature with the other (weak) features. An interesting observation as I compare it with RF (it did the opposite). It will be great to compare XGB vs RF with better features :)).
+- SQL W40 D1 - started PySpark, and today I mostly used LLM to install it and prepare venv etc.
+
+29.09.26 (Day 249)
+- SQL W40 D2 - day 1 with PySpark - back to .py files, not sure whether this is the desired approach to work with PySpark (I doubt it), but I've established connection and read a DF, yet I need to know more about what we actually do with the object here, as teh LLM moved forward a bit too fast with fully advanced queries - gave extensive feedback on that, hoping to see a more scaffolded approach tomorrow. (20 min)
+- Python W6 D2 - XGB tree compared, today with a greatly improved parameter grid (more realistic thresholds) for RandomizedSearch, but still the current state of my features (1 really good features, 9 very bad ones that DO have an effect, but it's very weak in all cases), it didn't help much. I decided to switch my goals and I'll be looking at mean reversion from tomorrow - will begin with a proper research (1 hr)
