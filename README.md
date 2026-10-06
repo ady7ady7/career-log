@@ -1364,3 +1364,26 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 29.09.26 (Day 249)
 - SQL W40 D2 - day 1 with PySpark - back to .py files, not sure whether this is the desired approach to work with PySpark (I doubt it), but I've established connection and read a DF, yet I need to know more about what we actually do with the object here, as teh LLM moved forward a bit too fast with fully advanced queries - gave extensive feedback on that, hoping to see a more scaffolded approach tomorrow. (20 min)
 - Python W6 D2 - XGB tree compared, today with a greatly improved parameter grid (more realistic thresholds) for RandomizedSearch, but still the current state of my features (1 really good features, 9 very bad ones that DO have an effect, but it's very weak in all cases), it didn't help much. I decided to switch my goals and I'll be looking at mean reversion from tomorrow - will begin with a proper research (1 hr)
+
+30.09.26 (Day 250!)
+- Python W6 D3 - added three new features, but Hurst + half-life + ADF at one session destroyed me with math overkill. I'd rather focus on ML/stat verification rather than such heavy math functions as today (1 hr)
+- SQL W40 D3 - proper and nicely scaffolded intro to PySpark - started with explaining how it works, that the original db is immutable (at least from what I know now) - properly introduced the most important basics + used some standard funcs (30 min)
+
+1.10.26 (Day 251)
+- Python W6 D4 - progress continued, today I've went over Hurst + halflife + ADF with a less mathematical and more understandable approach with clean thresholds and their potential interpretations, went quite easily (1hr 10 min)
+- SQL W40 D4 - smooth PySpark session, it's not difficult at all and with some practice I'll easily operate within, a lot of common points with SQL, and it's just SQL logic wrapped in pandas-like syntax essentially (30 min)
+- Created a DBDuck instance and ran some SQL queries from my next project - it's a true gem discovered - a local DB with local GUI with notebook structure that can easily support reading csv/parquet files and allows to run SQL queries and has a very nice intro to check how it works. I loved it at first sight :)).
+- Prepared the intro, data checks, checked docs, requirements and prepared a plan for my next project - this will be an LLM-assisted sprint as I don't have much time for that, and yet I want to practice (2hr)
+
+2.10.26 (Day 252)
+- Began the day with another Python session - W6 D5 - besides some pandas review, I've checked halflife/adf calculations on different N windows + checked how the returns behave on different z_score value thresholds to see in practice how the mean reversion works on gold. I've chosen 30n as the best window for it's half-life value of 22 (which technically means that the price retraces 50% of a given move after 22 candles in a given direction). Today's findings show more momentum-based characteristics of gold, yet I'm definitely willing to explore more extreme returns as well. Also confirmed that z_scores do not have normal disitrbutions, and while they look like it at first, normaltest compared it's not the case (tails prevent these distributions from being normal) 
+- SQL W40 D5 - PySpark continued - I've had issues when trying to write a new parquet file using spark - it turns out it needed hadoop's module to work properly. Besides that little issue, everything went quite smoothly - Spark is not a big deal for me with my SQL/Python experience (25 min)
+- PBI project - loading data + doing checks + data modelling (galaxy scheme) + creating DAX measures
+
+5.10.26 (Day 253)
+- Python W7 D1 - began testing different z_score thresholds statistically - mw + cohen's d to measure the effect's strength. (1 hr 20min)
+- Pyspark tasks ocntinued in SQL W41 D1 - today I've started working on window funcs - the logic is very intuitive, yet the syntax needs some practice to get to. (20 min)
+
+6.10.26 (Day 254)
+- Python W7 D2 - encountered some issues today, and it didn't make sense to continue with the last tasks, as it turned out that MR hypothesis was rejected at some point (1 hr 10 min)
+- SQL W41 D2 - connected to my online DigitalOcean PostgreSQL db with Pyspark JDBC read - whole env processing was a little bit problematic, and it would be way more convenient so simply run queries in DBeaver or any other RDBMS GUI, but it works and I've ran a query as well (30 min)
