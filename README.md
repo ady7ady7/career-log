@@ -1387,3 +1387,8 @@ As for today's tasks - you can find them in sql_agentic_learning repo (25 min)
 6.10.26 (Day 254)
 - Python W7 D2 - encountered some issues today, and it didn't make sense to continue with the last tasks, as it turned out that MR hypothesis was rejected at some point (1 hr 10 min)
 - SQL W41 D2 - connected to my online DigitalOcean PostgreSQL db with Pyspark JDBC read - whole env processing was a little bit problematic, and it would be way more convenient so simply run queries in DBeaver or any other RDBMS GUI, but it works and I've ran a query as well (30 min)
+
+7.10.26 (Day 255)
+- Python W7 D2 - ultimately verified MR rationale with multi interval tests, and it turns out extreme deviations tend to hold, which makes MR approach invalid. I will be pivoting from tomorrow onwards and will work on figuring out new target etc. Training any ML model for MR doesn't make sense at this point. (1hr 10 min)
+- SQL W41 D3 - Spark continued, trying to reinforce basic syntax on window funcs, aggs etc. It's easy to understand, but difficult to remember at this point, as there are many nuances + also some issues as I work caused by missing libs etc. TBH if I'd be equipped with LLM, nothing's difficult in Spark so far.
+I've also met UDF for the first time, custom funcs, which could come in handy. Nice! (35 min)
