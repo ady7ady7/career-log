@@ -1408,3 +1408,7 @@ I've also met UDF for the first time, custom funcs, which could come in handy. N
 13.10.26 (Day 259)
 - Python W8 D2 - checked a new set of feateures and found out two actually interesting features that matter on 1-1 relation - the effect's strength's are low (0.1 - 0.25 measured with Cohen's d), yet they might matter in a larger set and may add a few pp here and there. Excited to move forward (1 hr 30 min)
 - SQL W42 D2 - Spark + 2 SQL queries today (25 min)
+
+14.10.26 (Day 260)
+- Python W8 D3 - developed a set of new features based on some research to find proxies and different angles to look at yesterday's working effect, I had to use LLM at some point, as these features were math-heavy concepts (2 hr)
+- SQL W42 D3 - standard SQL queries practiced today - I decided to move more from technical tasks description to a business-question form to better simulate work environemnt (20 min)
