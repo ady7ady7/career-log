@@ -1412,3 +1412,7 @@ I've also met UDF for the first time, custom funcs, which could come in handy. N
 14.10.26 (Day 260)
 - Python W8 D3 - developed a set of new features based on some research to find proxies and different angles to look at yesterday's working effect, I had to use LLM at some point, as these features were math-heavy concepts (2 hr)
 - SQL W42 D3 - standard SQL queries practiced today - I decided to move more from technical tasks description to a business-question form to better simulate work environemnt (20 min)
+
+15.10.26 (Day 261)
+- Python W8 D4 - trained and compared XGB + RF tree classifiers as a comparison with proper hyperparameter tuning before (RandomizedSearchCV). The good news is that I managed to avoid overfitting in both cases with proper param grid settings + TimeSeriesSplit. The market direction target again seems to be very random and nearly impossible to predict, at least at the current time horizon, using OHLC data and features derived from it (unless I'm doing something entirely wrong, but I doubt it). None of the features seems to be more imporatnt than the rest in this scenario. I might pivot to a different prediction target(s) in my future research, as the current direciton seems to be futile. (1hr)
+- SQL W42 D4 - two more business question queries for today (20 min)
