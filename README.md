@@ -1416,3 +1416,7 @@ I've also met UDF for the first time, custom funcs, which could come in handy. N
 15.10.26 (Day 261)
 - Python W8 D4 - trained and compared XGB + RF tree classifiers as a comparison with proper hyperparameter tuning before (RandomizedSearchCV). The good news is that I managed to avoid overfitting in both cases with proper param grid settings + TimeSeriesSplit. The market direction target again seems to be very random and nearly impossible to predict, at least at the current time horizon, using OHLC data and features derived from it (unless I'm doing something entirely wrong, but I doubt it). None of the features seems to be more imporatnt than the rest in this scenario. I might pivot to a different prediction target(s) in my future research, as the current direciton seems to be futile. (1hr)
 - SQL W42 D4 - two more business question queries for today (20 min)
+
+16.10.26 (Day 262)
+- Python W8 D5 - moved into volatility target instead and the results ARE MUCH MORE OPTIMISTIC HERE - both in terms of features' p-vals + Cohen's d effect stregth measurements and in terms of ROCAUC scores, and while these are not the most optimal metrics for that target, it clearly shows that I could be wrong by choosing directional targets before - a very useful session, and I'll have to reconsider my next steps (1hr 10 min)
+- SQL W42 D5 - two easy business queries to close the week, as I've finished the job late today, "pivot" with sum filter + easy join/count (15 min)
