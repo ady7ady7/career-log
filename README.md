@@ -1420,3 +1420,23 @@ I've also met UDF for the first time, custom funcs, which could come in handy. N
 16.10.26 (Day 262)
 - Python W8 D5 - moved into volatility target instead and the results ARE MUCH MORE OPTIMISTIC HERE - both in terms of features' p-vals + Cohen's d effect stregth measurements and in terms of ROCAUC scores, and while these are not the most optimal metrics for that target, it clearly shows that I could be wrong by choosing directional targets before - a very useful session, and I'll have to reconsider my next steps (1hr 10 min)
 - SQL W42 D5 - two easy business queries to close the week, as I've finished the job late today, "pivot" with sum filter + easy join/count (15 min)
+
+19.10.26 (Day 263)
+- Python weekend quiz W8 - 84% - I'd give myself a higher score, but LLM punished me mainly for "not precise enough" errors - fair enough.
+- Python W9 D1 - fixing data leakage discovered on Friday, as some features were calculated/derived from the feature that actually used the target.
+
+20.10.26 (Day 264)
+- First checks on volatility target - even very basic model with low number of features has lower MAE than baseline, which seems optimistic. Research I've read also seems to confirm that volatility is quite predictable + this advantage didn't vanish over the years. (1hr 20 min)
+- SQL W43 D2 - Business queries handled with ease - prepping for potential job interviews rather than focusing strictly on technical lessons (20 min)
+
+21.10.26 (Day 265)
+- Python W9 D3 - built a full flow for volatility target with 10 features (1hr 30 min)
+- SQL W43 D3 - business queries ocntinued w/ gaps and islands streak pattern revisited (30 min)
+
+22.10.26 (Day 266)
+- Python W9 D4- tested volatility target MAE/R2 for even shorter window 15-45, and it gave the best results so far, so I'm probably going to stick with it (1 hr 10 min)
+- SQL W43 D4 - business queries continued, handled with ease (20 min)
+
+23.10.26 (Day 267)
+- Today I've had an intro to MLflow, which seems like the universal ground for many ML-related tasks, from testing, saving different versions of ML experiments, ML model storing & saving + versioning, ML model wrapping and implementing models in production - MLflow has more to it, but I don't need to know everything now. I will be aiming to implement a working production-grade model soon as my next project though. (2 hr)
+- SQL W43 D5 - Two rather easy business-scoped SQL queries in DBeaver to close the week (15 min) 
