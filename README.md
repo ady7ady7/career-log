@@ -1440,3 +1440,8 @@ I've also met UDF for the first time, custom funcs, which could come in handy. N
 23.10.26 (Day 267)
 - Today I've had an intro to MLflow, which seems like the universal ground for many ML-related tasks, from testing, saving different versions of ML experiments, ML model storing & saving + versioning, ML model wrapping and implementing models in production - MLflow has more to it, but I don't need to know everything now. I will be aiming to implement a working production-grade model soon as my next project though. (2 hr)
 - SQL W43 D5 - Two rather easy business-scoped SQL queries in DBeaver to close the week (15 min) 
+
+26.10.26 (Day 268)
+- Weekend Python quiz (75% - two issues to work on) (30 min)
+- Python ML W10 D1 - introducing FastAPI, Streamlit + Uvicorn (to host a local server to run it) to prepare for production grade ML implementation rather than just notebook iterations, so that the model is callable over requests and ready to use anywhere. I've worked with LLM support today, but I don't see any particular reason to remember the syntax in FastAPI + Streamlit by heart - it doesn't add any value to my DA/ML skills, yet only takes time. The logic here is crystal clear and I will make my next project as a web-hosted model with FastAPI :)). Sounds great and it also seems very easy. (1hr 20 min)
+- SQL W44 D1 - two more business queries with multiple CTEs + window funcs, handled them with ease (20 min)
