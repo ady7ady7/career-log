@@ -1445,3 +1445,11 @@ I've also met UDF for the first time, custom funcs, which could come in handy. N
 - Weekend Python quiz (75% - two issues to work on) (30 min)
 - Python ML W10 D1 - introducing FastAPI, Streamlit + Uvicorn (to host a local server to run it) to prepare for production grade ML implementation rather than just notebook iterations, so that the model is callable over requests and ready to use anywhere. I've worked with LLM support today, but I don't see any particular reason to remember the syntax in FastAPI + Streamlit by heart - it doesn't add any value to my DA/ML skills, yet only takes time. The logic here is crystal clear and I will make my next project as a web-hosted model with FastAPI :)). Sounds great and it also seems very easy. (1hr 20 min)
 - SQL W44 D1 - two more business queries with multiple CTEs + window funcs, handled them with ease (20 min)
+
+27.10.26 (Day 269)
+- Python W10 D2 - Found and integrated Twelve Data API for live market data, that will easily handle my requests with their current rate limits, I've read their docs and created a simple func with request and data fetching + tested it and adapted some basic transformations to match my data structure. It isn't everything yet, but I'll continue tomorrow. Nice session, nothing too difficult today, but these concepts are very useful to reinforce. I can continue working on my production model tomorrow (50 min)
+- SQL W44 D2 - PySpark lesson today - some work on files with os, fetching multiple files with m1 candle interval + merging them into one, aggregating in daily mode, and then saving into separate parquet folders with the partition function. I cna't say I feel super comfortable with this, but I start to see the benefits of PySpark (1 hr)
+
+28.10.26 (Day 270)
+- Python W10 D3 - built a working pipeline for predictions, I wrapped data fetching and feature calculation into two functions + added a route into FastAPI, so that predictions are available at every single moment. The next step will be adding GUI, but that will be a typical LLM's job. (1 hr)
+- SQL W44 D3 - business queries continued for today (20 min)
